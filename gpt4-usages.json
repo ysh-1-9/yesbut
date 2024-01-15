@@ -1,0 +1,5087 @@
+[
+  {
+    "image_path": "20240101_173826.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 63,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_180407.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 85,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_174021.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 68,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "20240101_173419.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 81,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_172932.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 75,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_173123.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 73,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_175953.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 106,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_182526.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 74,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_173813.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 79,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_172951.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 76,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_181310.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 73,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_182249.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 63,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_180626.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 68,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "20240101_174025.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 61,
+      "total_tokens": 170
+    }
+  },
+  {
+    "image_path": "20240101_175859.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 78,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_174107.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 86,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_182545.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 72,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_181316.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 84,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_180509.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 65,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_182541.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 69,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_173955.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 73,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_175009.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 80,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-59-17-340_com.twitter.android-edit.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 79,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_182552.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 75,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_180155.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 93,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_174123.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 67,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_180548.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 76,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_180403.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_173317.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 78,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_172731.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 77,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_174708.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 96,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_175331.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 93,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_172350.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 89,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_182503.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 78,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_181006.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 90,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_173254.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 65,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_175738.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 79,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_181457.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 71,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "20240101_173433.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 85,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_173700.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 106,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_173542.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 78,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_175326.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 74,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_172354.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 69,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_173332.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 73,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_173245.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 81,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_181251.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_173007.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 75,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_175602.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 78,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_182519.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 63,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_175023.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 68,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "20240101_174237.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 77,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_181343.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 71,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "20240101_180345.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 84,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_173752.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 83,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "20240101_172414.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 90,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_172412.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 80,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_180851.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 74,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_173748.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 92,
+      "total_tokens": 201
+    }
+  },
+  {
+    "image_path": "20240101_181422.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 85,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_175208.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 99,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_180807.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 68,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "20240101_175119.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 68,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "20240101_173927.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 68,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "20240101_172940.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 70,
+      "total_tokens": 179
+    }
+  },
+  {
+    "image_path": "20240101_180912.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 80,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_174518.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 74,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_175558.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 90,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_181001.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_180952.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 65,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_180515.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 77,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_180545.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 92,
+      "total_tokens": 201
+    }
+  },
+  {
+    "image_path": "20240101_181138.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 61,
+      "total_tokens": 170
+    }
+  },
+  {
+    "image_path": "20240101_182333.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 81,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_175002.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 102,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "20240101_181128.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 84,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_172955.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 87,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_173308.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 75,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_180455.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 99,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_174757.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 80,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_174753.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 89,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_173401.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 78,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_180312.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 97,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_172315.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 75,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_174548.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 74,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_172924.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 99,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_173135.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 72,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_174654.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 111,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "20240101_173024.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 73,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_174927.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 103,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_173104.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 79,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_182328.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 75,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_172325.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 99,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_172913.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 62,
+      "total_tokens": 171
+    }
+  },
+  {
+    "image_path": "20240101_175531.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 67,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_174029.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 97,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_173411.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 90,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_180501.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 98,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "20240101_182511.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 67,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_182448.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 83,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "20240101_172417.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 101,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_174842.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 86,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_182629.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 75,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_181101.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 72,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_182604.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 84,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_175722.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 87,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_173654.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 77,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_173518.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 73,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_180706.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 58,
+      "total_tokens": 167
+    }
+  },
+  {
+    "image_path": "20240101_174737.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 74,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_173205.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 99,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_173706.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 69,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_172317.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 96,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_172339.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_173936.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 81,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_175847.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 66,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "20240101_180832.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 81,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_173043.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 86,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_173729.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 88,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_172902.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 84,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_174853.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 76,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_181439.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 87,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_182338.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 84,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_182506.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 73,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_173144.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 92,
+      "total_tokens": 201
+    }
+  },
+  {
+    "image_path": "20240101_174536.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 91,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_174000.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 86,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_173214.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 91,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_173013.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 76,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_175554.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 90,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_175031.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 89,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_175237.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 81,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_181415.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 77,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_175048.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 75,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_173010.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 73,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_175942.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 80,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-55-08-129_com.twitter.android~2.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 76,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_175608.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_174544.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 99,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_182638.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 74,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_175614.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 76,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_173624.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_172838.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 88,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_173756.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 81,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_173638.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 91,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_180947.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 98,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "20240101_172834.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 88,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_172858.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 64,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_172400.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 96,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-18-15-32-614_com.twitter.android-edit.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 92,
+      "total_tokens": 201
+    }
+  },
+  {
+    "image_path": "20240101_175836.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 69,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_174813.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 88,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_173232.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 76,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_173210.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 108,
+      "total_tokens": 217
+    }
+  },
+  {
+    "image_path": "20240101_180037.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 89,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_180159.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 66,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "20240101_174232.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_173054.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 62,
+      "total_tokens": 171
+    }
+  },
+  {
+    "image_path": "20240101_182531.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 64,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_174848.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 77,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_173159.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 84,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_180332.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 85,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_173227.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 83,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "20240101_180032.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 71,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-18-12-18-789_com.twitter.android-edit.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 81,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_175353.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 107,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "20240101_173000.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 73,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_180319.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_180335.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 83,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "20240101_174213.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_180927.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 89,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_173642 (1).jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 65,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_182246.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 96,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_180844.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 69,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_175808.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 56,
+      "total_tokens": 165
+    }
+  },
+  {
+    "image_path": "20240101_172351.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 111,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "20240101_173341.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 109,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "20240101_180758.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 91,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_172936.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 85,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_180802.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 87,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_182308.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 80,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_173112.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 93,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_180856.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_174055.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 61,
+      "total_tokens": 170
+    }
+  },
+  {
+    "image_path": "20240101_182357.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 90,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_173108.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 86,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_173921.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 93,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_175803.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 91,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_174540.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 75,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_173141.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 114,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181146.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 80,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_175247.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 88,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_173029.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 67,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_175647.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 66,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "20240101_180643.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 86,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_180658.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 77,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_180601.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 101,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-38-54-117_com.twitter.android-edit.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 84,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_172853.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 79,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_180754.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 63,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_175752.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 75,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_175759.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 86,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_173355.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 93,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_175135.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 90,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_173525.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 53,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240101_172947.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 91,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_180618.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 87,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_173100.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 97,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_172928.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 98,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "20240101_174119.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 100,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_173017.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 87,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_172420.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 74,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_180340.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 86,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_175231.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 76,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_175259.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_174200.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 72,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_173800.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 79,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_174629.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 83,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "20240101_173003.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 73,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_173718.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_174134.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 81,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_174147.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 68,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "20240101_180751.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 74,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_175627.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 80,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_175107.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 91,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_180932.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 67,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_181143.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 91,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_182426.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 69,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_182451.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 109,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "20240101_172336.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 78,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_180958.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 81,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_174949.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_180607.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 111,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "20240101_174903.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 61,
+      "total_tokens": 170
+    }
+  },
+  {
+    "image_path": "20240101_180026.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 68,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "20240101_175535.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 101,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_172843.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 72,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_172407.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 81,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_175541.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 69,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_175445.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 84,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_175745.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 78,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_174225.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 85,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_174958.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 70,
+      "total_tokens": 179
+    }
+  },
+  {
+    "image_path": "20240101_175413.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 76,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240103_213052.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 73,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_181009.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 89,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_172357.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 72,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_173326.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 76,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_175339.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 97,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_173239.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 66,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "20240101_180247.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 83,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "20240101_173119.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 77,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_182252.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 79,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_175126.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 74,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_174218.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 89,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_182625.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 79,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_181404.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 93,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_175217.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 88,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_172322.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 76,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_175155.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 82,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_182549.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 97,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_173039.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 76,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_181319.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 71,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "20240101_181054.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 75,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_173552.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 70,
+      "total_tokens": 179
+    }
+  },
+  {
+    "image_path": "20240101_182238.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 80,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_172944.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 68,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "20240101_172348.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 89,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_175730.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 94,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "20240101_181411.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 89,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_173605.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 65,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_180649.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 92,
+      "total_tokens": 201
+    }
+  },
+  {
+    "image_path": "20240101_173647.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 75,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_174241.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 75,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_173712.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 76,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_182413.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 78,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_180636.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 88,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_182235.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 81,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_173642.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 77,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_175820.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 84,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_182242.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 87,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_174719.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 93,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_173219.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 109,
+      "completion_tokens": 87,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_173532.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 125,
+      "total_tokens": 232
+    }
+  },
+  {
+    "image_path": "20240101_173826.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180407.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174021.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 102,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_173419.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 109,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "20240101_172932.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 96,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "20240101_173123.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175953.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182526.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173813.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 111,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "20240101_172951.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_181310.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 105,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_182249.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180626.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 114,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_174025.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 74,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_175859.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174107.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 123,
+      "total_tokens": 230
+    }
+  },
+  {
+    "image_path": "20240101_182545.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 100,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "20240101_181316.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180509.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182541.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 99,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_173955.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175009.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 102,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-59-17-340_com.twitter.android-edit.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 102,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_182552.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180155.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 127,
+      "total_tokens": 234
+    }
+  },
+  {
+    "image_path": "20240101_174123.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180548.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 77,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_180403.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 88,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_173317.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 117,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_172731.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 122,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "20240101_174708.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 125,
+      "total_tokens": 232
+    }
+  },
+  {
+    "image_path": "20240101_175331.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172350.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182503.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_181006.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 112,
+      "total_tokens": 219
+    }
+  },
+  {
+    "image_path": "20240101_173254.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 122,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "20240101_175738.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_181457.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 114,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_173433.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 126,
+      "total_tokens": 233
+    }
+  },
+  {
+    "image_path": "20240101_173700.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173542.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 102,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_175326.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172354.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173332.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 56,
+      "total_tokens": 163
+    }
+  },
+  {
+    "image_path": "20240101_173245.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 90,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_181251.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173007.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175602.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182519.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 81,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_175023.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174237.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 122,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "20240101_181343.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 115,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_180345.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173752.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 124,
+      "total_tokens": 231
+    }
+  },
+  {
+    "image_path": "20240101_172414.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172412.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 88,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_180851.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173748.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_181422.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175208.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180807.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175119.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 87,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_173927.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 123,
+      "total_tokens": 230
+    }
+  },
+  {
+    "image_path": "20240101_172940.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180912.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174518.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 123,
+      "total_tokens": 230
+    }
+  },
+  {
+    "image_path": "20240101_175558.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 127,
+      "total_tokens": 234
+    }
+  },
+  {
+    "image_path": "20240101_181001.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180952.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180515.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180545.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_181138.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 77,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_182333.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175002.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 111,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "20240101_181128.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172955.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173308.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180455.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174757.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174753.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173401.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 106,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_180312.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172315.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 104,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "20240101_174548.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172924.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173135.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 125,
+      "total_tokens": 232
+    }
+  },
+  {
+    "image_path": "20240101_174654.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173024.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174927.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173104.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182328.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 95,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_172325.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 101,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_172913.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 107,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "20240101_175531.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174029.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173411.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 114,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_180501.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 117,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_182511.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182448.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172417.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174842.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 116,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182629.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 59,
+      "total_tokens": 166
+    }
+  },
+  {
+    "image_path": "20240101_181101.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182604.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175722.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173654.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 115,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_173518.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 88,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_180706.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 89,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_174737.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 122,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "20240101_173205.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 127,
+      "total_tokens": 234
+    }
+  },
+  {
+    "image_path": "20240101_173706.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172317.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172339.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 80,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_173936.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 98,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_175847.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 104,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "20240101_180832.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173043.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173729.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172902.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174853.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 127,
+      "total_tokens": 234
+    }
+  },
+  {
+    "image_path": "20240101_181439.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182338.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182506.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 115,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_173144.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174536.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174000.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 107,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "20240101_173214.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 112,
+      "total_tokens": 219
+    }
+  },
+  {
+    "image_path": "20240101_173013.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 73,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "20240101_175554.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 127,
+      "total_tokens": 234
+    }
+  },
+  {
+    "image_path": "20240101_175031.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 122,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "20240101_175237.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 99,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_181415.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 106,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_175048.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173010.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175942.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 99,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-55-08-129_com.twitter.android~2.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 120,
+      "total_tokens": 227
+    }
+  },
+  {
+    "image_path": "20240101_175608.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 88,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_174544.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182638.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 120,
+      "total_tokens": 227
+    }
+  },
+  {
+    "image_path": "20240101_175614.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173624.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172838.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173756.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 102,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_173638.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180947.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 120,
+      "total_tokens": 227
+    }
+  },
+  {
+    "image_path": "20240101_172834.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172858.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172400.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-18-15-32-614_com.twitter.android-edit.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175836.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174813.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 124,
+      "total_tokens": 231
+    }
+  },
+  {
+    "image_path": "20240101_173232.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 127,
+      "total_tokens": 234
+    }
+  },
+  {
+    "image_path": "20240101_173210.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180037.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180159.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 67,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_174232.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173054.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 89,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_182531.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174848.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 101,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_173159.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180332.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173227.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180032.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-18-12-18-789_com.twitter.android-edit.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175353.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173000.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 97,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "20240101_180319.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 100,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "20240101_180335.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 115,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_174213.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180927.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173642 (1).jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 114,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_182246.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180844.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175808.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172351.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 118,
+      "total_tokens": 225
+    }
+  },
+  {
+    "image_path": "20240101_173341.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 83,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_180758.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 85,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "20240101_172936.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180802.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182308.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 120,
+      "total_tokens": 227
+    }
+  },
+  {
+    "image_path": "20240101_173112.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180856.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174055.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182357.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173108.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 103,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_173921.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175803.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 119,
+      "total_tokens": 226
+    }
+  },
+  {
+    "image_path": "20240101_174540.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173141.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_181146.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175247.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173029.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 125,
+      "total_tokens": 232
+    }
+  },
+  {
+    "image_path": "20240101_175647.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180643.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 122,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "20240101_180658.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 98,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_180601.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-38-54-117_com.twitter.android-edit.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 126,
+      "total_tokens": 233
+    }
+  },
+  {
+    "image_path": "20240101_172853.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 92,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_180754.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175752.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 115,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_175759.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 124,
+      "total_tokens": 231
+    }
+  },
+  {
+    "image_path": "20240101_173355.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 109,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "20240101_175135.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 116,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173525.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 122,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "20240101_172947.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180618.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 92,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_173100.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172928.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 122,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "20240101_174119.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173017.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172420.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180340.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 112,
+      "total_tokens": 219
+    }
+  },
+  {
+    "image_path": "20240101_175231.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 119,
+      "total_tokens": 226
+    }
+  },
+  {
+    "image_path": "20240101_175259.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 95,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_174200.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 73,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "20240101_173800.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 126,
+      "total_tokens": 233
+    }
+  },
+  {
+    "image_path": "20240101_174629.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173003.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173718.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 127,
+      "total_tokens": 234
+    }
+  },
+  {
+    "image_path": "20240101_174134.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 105,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_174147.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 121,
+      "total_tokens": 228
+    }
+  },
+  {
+    "image_path": "20240101_180751.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175627.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 122,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "20240101_175107.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 105,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_180932.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 65,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_181143.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182426.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182451.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172336.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180958.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 116,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174949.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180607.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 118,
+      "total_tokens": 225
+    }
+  },
+  {
+    "image_path": "20240101_174903.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180026.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 83,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_175535.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172843.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 81,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_172407.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175541.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 124,
+      "total_tokens": 231
+    }
+  },
+  {
+    "image_path": "20240101_175445.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175745.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 117,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_174225.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 124,
+      "total_tokens": 231
+    }
+  },
+  {
+    "image_path": "20240101_174958.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175413.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240103_213052.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_181009.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172357.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173326.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 85,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "20240101_175339.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173239.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 99,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_180247.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173119.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182252.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175126.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174218.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182625.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 118,
+      "total_tokens": 225
+    }
+  },
+  {
+    "image_path": "20240101_181404.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175217.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 116,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172322.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 122,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "20240101_175155.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182549.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 84,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_173039.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_181319.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_181054.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173552.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182238.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 96,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "20240101_172944.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_172348.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175730.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 110,
+      "total_tokens": 217
+    }
+  },
+  {
+    "image_path": "20240101_181411.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173605.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 126,
+      "total_tokens": 233
+    }
+  },
+  {
+    "image_path": "20240101_180649.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 120,
+      "total_tokens": 227
+    }
+  },
+  {
+    "image_path": "20240101_173647.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 118,
+      "total_tokens": 225
+    }
+  },
+  {
+    "image_path": "20240101_174241.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173712.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 127,
+      "total_tokens": 234
+    }
+  },
+  {
+    "image_path": "20240101_182413.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_180636.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182235.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173642.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_175820.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_182242.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_174719.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "20240101_173219.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 107,
+      "completion_tokens": 128,
+      "total_tokens": 235
+    }
+  }
+]
