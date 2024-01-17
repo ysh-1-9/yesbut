@@ -7657,5 +7657,2768 @@
       "completion_tokens": 128,
       "total_tokens": 223
     }
+  },
+  {
+    "image_path": "20240101_173419_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182503_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173205_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 103,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_175803_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 127,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_180832_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173927_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180455_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173104_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173654_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172843_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175326_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173756_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173936_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182552_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173642 (1)_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174629_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182526_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 119,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "20240101_173054_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181422_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172354_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180312_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 87,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_180844_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180319_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 127,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_173800_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173123_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175208_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 107,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_172853_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173141_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180618_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173624_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181143_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174021_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 94,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_175820_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 105,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_180932_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173100_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172940_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173700_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173308_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172412_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173010_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172947_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173341_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174055_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175759_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180952_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182426_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175031_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 105,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_175745_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173729_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173718_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173135_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 126,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_180335_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180856_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173748_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175217_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182246_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182238_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180706_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173119_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172407_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172351_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172420_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172858_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175413_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175859_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175339_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181128_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181316_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 122,
+      "total_tokens": 217
+    }
+  },
+  {
+    "image_path": "20240101_174029_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174107_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-55-08-129_com.twitter.android~2_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 88,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_175730_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174842_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 94,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_182448_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 115,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_174927_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172350_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 125,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "20240101_180927_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173159_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175722_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175119_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173003_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180247_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172315_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 68,
+      "total_tokens": 163
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-59-17-340_com.twitter.android-edit_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 93,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_173642_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175002_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173712_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180807_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180548_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175808_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180649_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 108,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "20240101_175353_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 114,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_181457_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174958_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174237_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182235_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174753_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180754_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174540_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181006_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173254_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173518_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172339_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 103,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_173826_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173411_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 118,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_180332_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182252_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172955_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173605_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180545_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173921_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172322_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 125,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "20240101_182249_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 110,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_174000_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174134_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181411_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173144_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173332_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 112,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "20240101_180407_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 121,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "20240101_175942_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174903_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182545_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172936_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174719_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173638_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175259_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180658_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173007_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175237_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 89,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_174123_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174536_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181009_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181146_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 98,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_181001_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175738_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173210_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173112_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175953_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 125,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "20240101_180159_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174218_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 100,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_174518_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180912_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181415_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240103_213052_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174654_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 113,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_173401_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173552_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180037_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182413_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173245_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182519_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173043_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173029_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175155_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172951_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173039_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175614_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172928_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174737_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-18-15-32-614_com.twitter.android-edit_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 85,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "20240101_172731_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180947_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 90,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_182549_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 120,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_172944_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174232_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175541_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175331_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172317_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 101,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_174813_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175231_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175531_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172838_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182242_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-18-12-18-789_com.twitter.android-edit_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180636_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173532_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180758_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182328_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180851_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173017_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 101,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_181138_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180802_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180403_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-38-54-117_com.twitter.android-edit_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175445_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182629_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 121,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "20240101_173647_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182625_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181251_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 118,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_172902_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174548_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180643_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172834_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 84,
+      "total_tokens": 179
+    }
+  },
+  {
+    "image_path": "20240101_180515_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180345_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182511_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173706_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175023_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175126_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181319_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 126,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_175602_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173214_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 120,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_174949_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182357_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182638_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182333_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 119,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "20240101_172913_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174147_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 111,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_174225_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173024_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 100,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_175647_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173542_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181439_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 104,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_172417_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180026_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174757_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173108_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173317_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 118,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_173232_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 112,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "20240101_173525_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180751_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 118,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_172357_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173239_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 115,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_175009_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175135_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 119,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "20240101_174200_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 104,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_175048_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 112,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "20240101_173219_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 115,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_182451_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173355_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 102,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_180958_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 116,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "20240101_172325_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 127,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_180607_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175627_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 126,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_173752_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182506_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181054_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 117,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_175554_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 115,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_182541_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172414_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172336_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180509_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175847_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 124,
+      "total_tokens": 219
+    }
+  },
+  {
+    "image_path": "20240101_180601_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173227_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 117,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_174025_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172348_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181404_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 103,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_175558_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 118,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_180155_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181310_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180340_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173326_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 127,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_173433_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172932_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182531_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 92,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_173813_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 103,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_174213_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173013_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174853_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_175247_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_180501_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_175836_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_172924_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_180032_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_175608_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_182604_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_180626_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_182338_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_182308_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_174544_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_175752_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_181343_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_175107_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_174119_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_174848_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_172400_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_174708_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_173000_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_173955_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_174241_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_181101_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_175535_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_174853_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 99,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_175247_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180501_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_175836_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_172924_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_180032_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_175608_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_182604_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_180626_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_182338_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_182308_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_174544_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_175752_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_181343_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_175107_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_174119_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_174848_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_172400_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_174708_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_173000_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_173955_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_174241_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_181101_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175535_BUT.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
   }
 ]
