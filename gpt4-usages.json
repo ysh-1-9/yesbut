@@ -7630,5 +7630,32 @@
       "completion_tokens": 128,
       "total_tokens": 223
     }
+  },
+  {
+    "image_path": "20240101_174949_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181310_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173205_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
   }
 ]
