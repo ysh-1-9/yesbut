@@ -5083,5 +5083,2552 @@
       "completion_tokens": 128,
       "total_tokens": 235
     }
+  },
+  {
+    "image_path": "20240101_173813_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175208_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 81,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_182526_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174025_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 59,
+      "total_tokens": 154
+    }
+  },
+  {
+    "image_path": "20240101_174536_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 108,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "20240101_172858_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 109,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "20240101_181001_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 95,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_180927_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173419_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182448_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 81,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_172417_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180912_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 112,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "20240101_174813_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182625_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 117,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_172354_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181415_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 99,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_180958_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182252_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 98,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_180247_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173159_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 102,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_173525_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 77,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_174232_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 89,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_173605_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 115,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_174853_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 125,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "20240101_175107_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 110,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_173401_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 113,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_175259_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 122,
+      "total_tokens": 217
+    }
+  },
+  {
+    "image_path": "20240101_173210_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 116,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "20240101_174548_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 119,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "20240101_180501_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174848_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175942_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174708_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180340_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 102,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_175608_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 125,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "20240101_172336_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175602_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 94,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_172350_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 111,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_173017_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 58,
+      "total_tokens": 153
+    }
+  },
+  {
+    "image_path": "20240101_172834_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 96,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_175627_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 113,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_172940_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180636_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182249_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182426_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174021_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 93,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_173921_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 101,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_175953_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 105,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_173748_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180643_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175339_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 112,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "20240101_175353_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181404_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 126,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_172325_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172357_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173054_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 79,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_175217_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181319_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 126,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_175326_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182629_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 70,
+      "total_tokens": 165
+    }
+  },
+  {
+    "image_path": "20240101_182604_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182503_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181411_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 114,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_181316_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 66,
+      "total_tokens": 161
+    }
+  },
+  {
+    "image_path": "20240101_173227_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175759_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 78,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_180607_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 96,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_182541_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 73,
+      "total_tokens": 168
+    }
+  },
+  {
+    "image_path": "20240101_173039_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173532_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173104_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174237_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 119,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "20240101_172843_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 102,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_173003_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180403_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173123_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174757_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181143_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 109,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "20240101_181439_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172322_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 92,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_174629_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175048_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 105,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_180807_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 102,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_173729_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173119_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173135_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 113,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_173826_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181009_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173112_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173700_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 94,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_173542_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175745_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 94,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_175009_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 87,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_172315_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 104,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_173936_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180706_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180037_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173712_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 94,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_180754_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180155_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 126,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_180802_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 102,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_174544_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175836_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 109,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "20240101_175738_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 113,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_181343_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175023_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180335_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175541_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182638_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 91,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_181006_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 124,
+      "total_tokens": 219
+    }
+  },
+  {
+    "image_path": "20240101_174147_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172348_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172339_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 95,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_173433_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 119,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "20240101_174927_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 77,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_180601_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 92,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_173144_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 110,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_182549_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 112,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "20240101_172951_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175413_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175135_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 93,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_172838_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 69,
+      "total_tokens": 164
+    }
+  },
+  {
+    "image_path": "20240101_180032_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 104,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_173411_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 124,
+      "total_tokens": 219
+    }
+  },
+  {
+    "image_path": "20240101_180515_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 120,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_175722_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 102,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_175803_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180026_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 109,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "20240101_172853_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 76,
+      "total_tokens": 171
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-18-15-32-614_com.twitter.android-edit_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 111,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_175237_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174200_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 92,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_175730_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 110,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_182511_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172944_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182308_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173326_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174055_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 108,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "20240101_175647_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180455_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 108,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "20240101_175752_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 109,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "20240101_174540_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173013_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 121,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "20240101_174518_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175331_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173141_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 93,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_173108_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182242_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175126_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 121,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "20240101_173518_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174225_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173029_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 106,
+      "total_tokens": 201
+    }
+  },
+  {
+    "image_path": "20240101_182545_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 99,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_180932_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172731_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174123_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175558_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 102,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_173000_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175859_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 127,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_172913_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181457_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 99,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_173010_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 92,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_173232_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180844_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174949_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 33,
+      "total_tokens": 128
+    }
+  },
+  {
+    "image_path": "20240101_174753_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173332_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 122,
+      "total_tokens": 217
+    }
+  },
+  {
+    "image_path": "20240101_175554_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172400_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172928_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 101,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_182246_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174654_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173654_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 112,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "20240101_180345_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175820_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172412_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173638_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 110,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_182552_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175155_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174241_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 120,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_182506_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 104,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_180159_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182451_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174737_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172955_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 107,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_173642 (1)_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 80,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-18-12-18-789_com.twitter.android-edit_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180649_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 104,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_180751_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 110,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_174107_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173800_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 108,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "20240101_174000_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173024_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 77,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_175119_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174719_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 118,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_173308_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174218_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 81,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_181101_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 95,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_172936_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 127,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_173955_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 122,
+      "total_tokens": 217
+    }
+  },
+  {
+    "image_path": "20240101_180658_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 103,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_173043_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173219_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180312_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 82,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "20240101_172351_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 117,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_180548_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 67,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240101_180407_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 116,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-55-08-129_com.twitter.android~2_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 70,
+      "total_tokens": 165
+    }
+  },
+  {
+    "image_path": "20240101_181054_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175247_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 107,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_172947_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173552_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 120,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_182519_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173624_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172924_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 94,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_180618_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 87,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_173100_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 111,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_182413_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175531_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 114,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_175002_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 105,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_172407_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174903_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 103,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_181310_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 50,
+      "total_tokens": 145
+    }
+  },
+  {
+    "image_path": "20240101_175535_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 120,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_180851_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173245_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172414_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175808_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173254_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174213_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 105,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_175031_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 79,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_174958_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 72,
+      "total_tokens": 167
+    }
+  },
+  {
+    "image_path": "20240101_180509_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172902_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173317_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173205_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 34,
+      "total_tokens": 129
+    }
+  },
+  {
+    "image_path": "20240101_182531_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 110,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_173647_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180832_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 120,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-59-17-340_com.twitter.android-edit_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 103,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_173341_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 106,
+      "total_tokens": 201
+    }
+  },
+  {
+    "image_path": "20240101_182328_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 104,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_173927_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 118,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_174134_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 90,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_173239_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 121,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "20240101_175445_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181128_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181422_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 115,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_180545_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 89,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_173706_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_174029_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_175231_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 127,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_180856_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173756_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 118,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_182357_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 93,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_172932_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 104,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_180758_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 74,
+      "total_tokens": 169
+    }
+  },
+  {
+    "image_path": "20240101_174842_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180952_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 78,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_172420_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_172317_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173355_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 104,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_181138_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173752_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 100,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_174119_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180332_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 93,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_180947_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 113,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_173642_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 86,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_173214_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_173007_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 105,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_180626_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 94,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_180319_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_182238_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181146_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 121,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "20240101_173718_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 108,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "20240101_182333_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 108,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "20240101_182338_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 86,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_175614_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 111,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-38-54-117_com.twitter.android-edit_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_181251_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 127,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_175847_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 75,
+      "total_tokens": 170
+    }
+  },
+  {
+    "image_path": "20240101_182235_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240103_213052_YES.jpg",
+    "prompt": "Describe this image",
+    "usage": {
+      "prompt_tokens": 95,
+      "completion_tokens": 128,
+      "total_tokens": 223
+    }
   }
 ]
