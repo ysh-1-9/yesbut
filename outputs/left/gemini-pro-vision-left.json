@@ -1,1134 +1,285 @@
-[
-  {
-    "image_path": "20240101_173813_YES.jpg",
-    "output": " The image shows a blue and gray office chair with a high back and a headrest. The chair is on wheels and has a lever to adjust the height of the seat. The chair is also tilted back slightly."
-  },
-  {
-    "image_path": "20240101_175208_YES.jpg",
-    "output": " A hand holding an ice cream cone with purple ice cream. The background is yellow."
-  },
-  {
-    "image_path": "20240101_182526_YES.jpg",
-    "output": " The image is of a person's back with a cross tattoo in the center. The person's hair is long and dark, and they are wearing a light colored shirt. The tattoo appears to be a Catholic cross, it is black, gray, and white in color, and it is surrounded by a dark background."
-  },
-  {
-    "image_path": "20240101_174025_YES.jpg",
-    "output": " A blue text message bubble with the words \"wish you were here\" and a brown heart emoji."
-  },
-  {
-    "image_path": "20240101_174536_YES.jpg",
-    "output": " A man is walking through a door that says \"open\"."
-  },
-  {
-    "image_path": "20240101_172858_YES.jpg",
-    "output": " A person is shown removing seeds from a pumpkin with a knife and bowl sitting on a table. The background is a solid color."
-  },
-  {
-    "image_path": "20240101_181001_YES.jpg",
-    "output": " The image is a cartoon drawing of a pie. The pie has a golden crust and is on a blue checkered tablecloth."
-  },
-  {
-    "image_path": "20240101_180927_YES.jpg",
-    "output": ""
-  },
-  {
-    "image_path": "20240101_173419_YES.jpg",
-    "output": " The image is a digital drawing of a city at night. There is a large apartment building in the foreground, and a smaller one in the background. The moon is large and pink, and there are a few stars in the sky. The buildings are lit up by the moon, and there are a few lights on inside the apartments. The image is in a cartoon style, and the colors are flat and simple."
-  },
-  {
-    "image_path": "20240101_182448_YES.jpg",
-    "output": " The image is of a pink suitcase on wheels. The suitcase is closed and has a handle on the top and one on the side."
-  },
-  {
-    "image_path": "20240101_172417_YES.jpg",
-    "output": " This is a screenshot of a phone that is trying to connect to a Wi-Fi network. The network is named \"Wi-Fi\" and the password is \"9-p3Jwfn=Z?A?-qcTIY\". The user is trying to connect to the network."
-  },
-  {
-    "image_path": "20240101_180912_YES.jpg",
-    "output": " The image is a map of the world with 15 locations marked. The locations are marked with pink circles. The title of the image is \"Visited Places\"."
-  },
-  {
-    "image_path": "20240101_174813_YES.jpg",
-    "output": " A woman is sitting in a cafe. She is drinking from a cup and looking at her laptop. The cafe is decorated with a plant and a painting."
-  },
-  {
-    "image_path": "20240101_182625_YES.jpg",
-    "output": " A snow globe with the New York City skyline inside."
-  },
-  {
-    "image_path": "20240101_172354_YES.jpg",
-    "output": " A gray t-shirt with a quote from the movie Fight Club on it. The quote says, \"We work jobs we hate to buy shit we don't need.\""
-  },
-  {
-    "image_path": "20240101_181415_YES.jpg",
-    "output": " The image is a nutritional label for a serving of chocolate chip cookies. The label states that there are 160 calories per serving."
-  },
-  {
-    "image_path": "20240101_180958_YES.jpg",
-    "output": " The image shows a car's reverse camera. The camera is showing two cars behind the car."
-  },
-  {
-    "image_path": "20240101_182252_YES.jpg",
-    "output": " The image is of a vegan tattoo on a person's wrist. The tattoo is a heart with a carrot in it. The heart has a banner with the word \"vegan\" on it. There are also some leaves and flowers around the heart."
-  },
-  {
-    "image_path": "20240101_180247_YES.jpg",
-    "output": " The image shows four panels. In the first panel, a pot is boiling on a stove. In the second panel, a phone is ringing. In the third panel, a hand is pressing a doorbell. In the fourth panel, an iron is burning a shirt."
-  },
-  {
-    "image_path": "20240101_173159_YES.jpg",
-    "output": " A cartoon drawing of a trash can with a purple background"
-  },
-  {
-    "image_path": "20240101_173525_YES.jpg",
-    "output": " A black and white drawing of a pill."
-  },
-  {
-    "image_path": "20240101_174232_YES.jpg",
-    "output": " This is a drawing of a pedestrian traffic light. The top light is red with a person standing, and the bottom light is green with a person walking."
-  },
-  {
-    "image_path": "20240101_173605_YES.jpg",
-    "output": " A man holds a sign that says \"Free Hugs\"."
-  },
-  {
-    "image_path": "20240101_174853_YES.jpg",
-    "output": " A cartoon drawing of a milk carton with a grey cap. The milk carton is set against a purple background."
-  },
-  {
-    "image_path": "20240101_175107_YES.jpg",
-    "output": " There is a round mirror with a light above it. There is a sink below the mirror. There is a faucet on the sink. There is an outlet to the right of the sink. There are two light switches above the outlet. The walls are tiled."
-  },
-  {
-    "image_path": "20240101_173401_YES.jpg",
-    "output": " A person is hugging themselves and smiling. They are wearing a brown turtleneck sweater. The background is green and the outline of the person and their turtleneck is black."
-  },
-  {
-    "image_path": "20240101_175259_YES.jpg",
-    "output": " A boy is driving a toy car in his bedroom. There are posters of cars on the walls and toy cars on the floor. The boy is happy and carefree. He is enjoying his childhood."
-  },
-  {
-    "image_path": "20240101_173210_YES.jpg",
-    "output": " This is an image of a woman tearing up a paper that says beauty standards with a picture of a woman's body with measurements on it."
-  },
-  {
-    "image_path": "20240101_174548_YES.jpg",
-    "output": " A man is crashing his scooter into a pole."
-  },
-  {
-    "image_path": "20240101_180501_YES.jpg",
-    "output": " A cartoon of a man with no shirt on, gray pants, and his hands at his side. There is a light bulb at the top right of the image that is turned off."
-  },
-  {
-    "image_path": "20240101_174848_YES.jpg",
-    "output": " The image shows a disposable razor in a plastic package."
-  },
-  {
-    "image_path": "20240101_175942_YES.jpg",
-    "output": " The image has a peach-colored circle with a bomb icon in the center of the circle. The word \u201cSend\u201d is above the circle, and the words \u201cView Once\u201d are below the circle."
-  },
-  {
-    "image_path": "20240101_174708_YES.jpg",
-    "output": " The image shows a picnic on a cliff. There is a bottle of wine, two glasses, and a plate with croissants, cheese, and strawberries on a pink tablecloth. The background shows the sea and a cliff. The image has a simple and clean design with a limited color palette."
-  },
-  {
-    "image_path": "20240101_180340_YES.jpg",
-    "output": " A box containing an airplane toy and some Lego bricks is buckled up in the backseat of a car."
-  },
-  {
-    "image_path": "20240101_175608_YES.jpg",
-    "output": " This is a drawing of a group of people celebrating. They are all wearing the same uniforms and are jumping and hugging each other. One person is doing a handstand while another is kneeling on the ground."
-  },
-  {
-    "image_path": "20240101_172336_YES.jpg",
-    "output": " A gaming setup with a black desk, a comfortable black and red gaming chair, and a powerful-looking black and gray computer tower. There are two monitors on the desk."
-  },
-  {
-    "image_path": "20240101_175602_YES.jpg",
-    "output": " The image is a drawing of a green vegetable peeler on a pink background."
-  },
-  {
-    "image_path": "20240101_172350_YES.jpg",
-    "output": " A cup of strawberries in cream. The cup is half-full."
-  },
-  {
-    "image_path": "20240101_173017_YES.jpg",
-    "output": " The image is of a hand holding a smartphone. The screen is on and a text message is displayed that says \"You are cute\"."
-  },
-  {
-    "image_path": "20240101_172834_YES.jpg",
-    "output": " A bus drives down the road with three passengers sitting in the window seats."
-  },
-  {
-    "image_path": "20240101_175627_YES.jpg",
-    "output": " The image shows a person turning on a faucet with one hand, and holding their other hand under the stream of water."
-  },
-  {
-    "image_path": "20240101_172940_YES.jpg",
-    "output": " This is a picture of a boy with a cow. The boy is standing on the left side of the image, and the cow is on the right side. The boy is wearing an orange shirt and blue pants, and the cow is brown and white. The cow has its head over a wooden fence, and the boy is petting it. There are some rocks on the ground in front of them, and some bushes and trees in the background."
-  },
-  {
-    "image_path": "20240101_180636_YES.jpg",
-    "output": " A man with a beard and sunglasses is playing guitar on stage. He is wearing a black jacket and jeans. There is a microphone in front of him. The audience is cheering and waving their hands in the air."
-  },
-  {
-    "image_path": "20240101_182249_YES.jpg",
-    "output": " A blue pen in a fancy box with a tag that says $2,065.00."
-  },
-  {
-    "image_path": "20240101_182426_YES.jpg",
-    "output": " The image shows a desktop computer with a brown background. There are 5 different windows open on the computer. The windows are labeled \"Downloads\", \"Documents\", \"Folders\", and \"Photos\"."
-  },
-  {
-    "image_path": "20240101_174021_YES.jpg",
-    "output": " The image is of a green water bottle with a grey carabiner attached to the neck of the bottle. The bottle has a white recycle logo on it. The bottle is set against a pink background."
-  },
-  {
-    "image_path": "20240101_173921_YES.jpg",
-    "output": " This is a weather forecast for the week. It shows the weather for each day of the week, from Monday to Friday. The weather is sunny every day."
-  },
-  {
-    "image_path": "20240101_175953_YES.jpg",
-    "output": " A person in a purple shirt is covering their face with their hands as someone in a blue glove holds a syringe. The person in the purple shirt has blond hair."
-  },
-  {
-    "image_path": "20240101_173748_YES.jpg",
-    "output": " The image shows a monthly calendar with the current month being July. The days of the week are listed on the top row, starting with Sunday. The current"
-  },
-  {
-    "image_path": "20240101_180643_YES.jpg",
-    "output": " Stacks of money."
-  },
-  {
-    "image_path": "20240101_175339_YES.jpg",
-    "output": " A man is looking at a bed with a zipper on the top of the comforter."
-  },
-  {
-    "image_path": "20240101_175353_YES.jpg",
-    "output": " The image is of a hotel room with a large window looking out onto the ocean. There is a table and two chairs in the room, as well as a small potted plant. The curtains are open and the sun is shining brightly."
-  },
-  {
-    "image_path": "20240101_181404_YES.jpg",
-    "output": " A girl standing in a field of flowers. She is wearing a white dress and has her hand outstretched. The background is a green field with hills in the distance. The sky is blue with white clouds. The image has three hashtags: #naturelovers, #nature, and #lovenature."
-  },
-  {
-    "image_path": "20240101_172325_YES.jpg",
-    "output": " The image shows a bare tree with a few branches decorated with a string of lights against a white background."
-  },
-  {
-    "image_path": "20240101_172357_YES.jpg",
-    "output": " A living room with a large TV, a coffee table, a sofa, and a plant. The TV is mounted on the wall above a long, low console with drawers. The living room has a large rug on the floor, and there is a plant in the corner."
-  },
-  {
-    "image_path": "20240101_173054_YES.jpg",
-    "output": " The image is a bumper sticker that says \"Anti-Capitalist\". The letters are pink and the background is grey with a black outline."
-  },
-  {
-    "image_path": "20240101_175217_YES.jpg",
-    "output": " A woman in a bikini is sitting on the bow of a boat. The water is calm and blue, and the mountains are in the distance. The woman is wearing sunglasses and has her hand in her hair. She is looking out at the view. The image is tagged with the hashtags \"#boating\", \"#summer\", and \"#vacation\"."
-  },
-  {
-    "image_path": "20240101_181319_YES.jpg",
-    "output": " A man is on a rowing machine. He looks like he is struggling."
-  },
-  {
-    "image_path": "20240101_175326_YES.jpg",
-    "output": " This is a winter scene. There is snow on the ground and the trees are bare. The sun is setting and there is a bird in the tree."
-  },
-  {
-    "image_path": "20240101_182629_YES.jpg",
-    "output": " The image shows a 5-star rating. The stars are yellow and the background is grey with a black border. The text \"Ratings & Reviews\" is at the top and \"5.0 out of 5\" is below the stars."
-  },
-  {
-    "image_path": "20240101_182604_YES.jpg",
-    "output": " The image shows a sink with soap and a hand sanitizer dispenser. There is a paper towel dispenser on the wall behind the sink. The sink is made of ceramic and is white. The soap dispenser is made of plastic and is white. The hand sanitizer dispenser is made of plastic and is green. The paper towel dispenser is made of plastic and is gray."
-  },
-  {
-    "image_path": "20240101_182503_YES.jpg",
-    "output": " The image shows a pair of hands holding a small coral reef with various species of fish swimming above it."
-  },
-  {
-    "image_path": "20240101_181411_YES.jpg",
-    "output": " This is an image of a person with short blue hair and dark eyebrows. The person is drawn in a cartoon style and is looking down at the viewer. The background is a solid peach color."
-  },
-  {
-    "image_path": "20240101_181316_YES.jpg",
-    "output": " This is a drawing of a cat tree. It has five levels. There are two round platforms for the cat to lay on and one square platform with a hammock. The cat tree is gray and beige in color."
-  },
-  {
-    "image_path": "20240101_173227_YES.jpg",
-    "output": " This is a picture of a road with a truck on it. The speed limit sign says 130, but the truck is only going 80."
-  },
-  {
-    "image_path": "20240101_175759_YES.jpg",
-    "output": " The image shows a hand holding a pen and a to-do list. The to-do list has 6 items on it, all of which are crossed out."
-  },
-  {
-    "image_path": "20240101_180607_YES.jpg",
-    "output": " A woman is wearing a white see-through dress and posing on the beach. The dress has a plunging neckline and a high slit, and is exposing her black bikini underneath. She has her hand on her hip and is looking away from the camera. She has blonde hair and dark skin. The background is a blue ocean with a sandy beach."
-  },
-  {
-    "image_path": "20240101_182541_YES.jpg",
-    "output": " A cartoon image of a hand with long purple nails, holding a lit cigarette with smoke coming out of the end. The hand is on a grey background."
-  },
-  {
-    "image_path": "20240101_173039_YES.jpg",
-    "output": " This image shows a man with a microphone in his hand, standing on a stage and singing. There are several people in the audience, all of whom are women. They are all holding their phones up to take pictures or videos of the man. The man is wearing a black leather jacket and blue jeans, and he has a confident expression on his face. The women in the audience are all dressed differently, but they all have their hair down and are wearing makeup. They are all looking at the man on stage with adoring expressions."
-  },
-  {
-    "image_path": "20240101_173532_YES.jpg",
-    "output": " This is an image of a man trying to get into a club. There is a bouncer standing in front of the door. There is a sign on the door that says no pants allowed. The man is wearing a t-shirt and shorts. The bouncer is not letting the man into the club."
-  },
-  {
-    "image_path": "20240101_173104_YES.jpg",
-    "output": " A woman is taking a picture of her food. The food is on a plate and includes eggs, bacon, toast, and fruit. The woman is holding her phone in one hand and is smiling. The background is a table with a fork and knife."
-  },
-  {
-    "image_path": "20240101_174237_YES.jpg",
-    "output": " This is an image of a traffic signal for pedestrians. The upper signal is red and shows a person standing, indicating that pedestrians should stop. The lower signal is green and shows a person walking, indicating that pedestrians may proceed."
-  },
-  {
-    "image_path": "20240101_172843_YES.jpg",
-    "output": " A hand is closing the laptop's camera."
-  },
-  {
-    "image_path": "20240101_173003_YES.jpg",
-    "output": " A woman is painting a picture of a landscape. She is standing in front of an easel, and she is using a brush to apply paint to the canvas. The landscape is a scene of a river flowing through a valley. There are trees and mountains in the background. The woman is wearing a gray shirt and a brown apron. She has her hair tied back in a ponytail. She is focused on her painting, and she is enjoying the process."
-  },
-  {
-    "image_path": "20240101_180403_YES.jpg",
-    "output": " The image shows a water cooler with a sign next to it that says \"Drinking Water\"."
-  },
-  {
-    "image_path": "20240101_173123_YES.jpg",
-    "output": " A person is holding a ticket for a seat in a stadium. The stadium is empty, except for one other person."
-  },
-  {
-    "image_path": "20240101_174757_YES.jpg",
-    "output": " A woman is sitting in a cafe. She has a laptop on the table. She is holding a coffee cup. There is a plant on the table."
-  },
-  {
-    "image_path": "20240101_181143_YES.jpg",
-    "output": " The image shows a parking lot with three cars. One car is parked in a handicapped spot. The other two cars are parked next to each other."
-  },
-  {
-    "image_path": "20240101_181439_YES.jpg",
-    "output": " A tray with a cup of coffee, croissants, and orange juice sits on an unmade bed. The curtains are open and the sun is shining through the window."
-  },
-  {
-    "image_path": "20240101_172322_YES.jpg",
-    "output": " This is a drawing of three fireworks. The fireworks are red, green, and yellow. The background is black."
-  },
-  {
-    "image_path": "20240101_174629_YES.jpg",
-    "output": " This is a screenshot of a fitness app on a smartphone. The app tracks the user's daily step count and displays it in a circular progress bar. The user has taken 9,999 steps and needs to take one more step to complete their daily goal of 10,000 steps."
-  },
-  {
-    "image_path": "20240101_175048_YES.jpg",
-    "output": " This is a white tote bag with the words \"eco bag\" printed on it in green letters. There is a green leaf logo above the text. The bag has white drawstrings."
-  },
-  {
-    "image_path": "20240101_180807_YES.jpg",
-    "output": " The image is of a print and copy shop. The shop has a blue awning with the words \"Print & Copy\" on it. The shop has two glass windows and a door."
-  },
-  {
-    "image_path": "20240101_173729_YES.jpg",
-    "output": " A man is sitting on the couch eating chips while his wife is vacuuming. The woman is not happy about this."
-  },
-  {
-    "image_path": "20240101_173119_YES.jpg",
-    "output": " A woman is looking at a blue cat in a pet store. The cat is sitting on a table. The woman is smiling. The store owner is standing next to the woman. He has his arm around the cat and is smiling at the woman."
-  },
-  {
-    "image_path": "20240101_173135_YES.jpg",
-    "output": " A hand is unplugging a power cord from an electrical outlet."
-  },
-  {
-    "image_path": "20240101_173826_YES.jpg",
-    "output": " The image shows a man with glasses and a vest. There is a microphone in front of him. There are 5 categories of expertise listed with checkboxes next to them. The categories are astronomy, math, physics, TikTok, and life experience. The man has very little expertise in TikTok and a lot of expertise in math."
-  },
-  {
-    "image_path": "20240101_181009_YES.jpg",
-    "output": " This is an image of a web page where a user can create an account."
-  },
-  {
-    "image_path": "20240101_173112_YES.jpg",
-    "output": " A man is taking a picture of a woman who is posing on a ledge high above the city. The woman is smiling and has her arms outstretched. The man is standing on the ground and is holding his phone up to take the picture."
-  },
-  {
-    "image_path": "20240101_173700_YES.jpg",
-    "output": " A person is eating pizza while also eating a plate full of hotdogs."
-  },
-  {
-    "image_path": "20240101_173542_YES.jpg",
-    "output": " The image is a cartoon drawing of a sign that says \"Secret Beach\". The sign is brown with white letters. The background of the sign is tan."
-  },
-  {
-    "image_path": "20240101_175745_YES.jpg",
-    "output": " The image is of a hand holding a smartphone. The screen of the smartphone is displaying a photo of a mountain landscape."
-  },
-  {
-    "image_path": "20240101_175009_YES.jpg",
-    "output": " This is a bowler hat. It is gray."
-  },
-  {
-    "image_path": "20240101_172315_YES.jpg",
-    "output": " A pair of pink high heel shoes with a platform sole."
-  },
-  {
-    "image_path": "20240101_173936_YES.jpg",
-    "output": " A screenshot of a music playlist titled \u201cMusic I Love\u201d with a lavender background and a peach heart icon."
-  },
-  {
-    "image_path": "20240101_180706_YES.jpg",
-    "output": " The image shows the entrance to a hotel. There is a large door with a sign that says \"HOTEL\" and there are stairs leading up to it. The hotel has a five-star rating."
-  },
-  {
-    "image_path": "20240101_180037_YES.jpg",
-    "output": " The image is a digital painting of a sunset. The sky and clouds are painted in a gradient of orange, pink, and blue. The sun is a large, white circle that is setting behind the clouds. The clouds are painted in a variety of shapes and sizes, and they are all different shades of orange, pink, and blue. The painting has a soft, dreamy quality, and it captures the beauty of a summer sunset."
-  },
-  {
-    "image_path": "20240101_173712_YES.jpg",
-    "output": " The image shows a person applying lipstick. The person is holding the lipstick in their right hand and is shown from the neck up. They have their lips slightly parted and are looking at the lipstick in their hand. They have a light skin tone and are wearing a natural makeup look."
-  },
-  {
-    "image_path": "20240101_180754_YES.jpg",
-    "output": " This is an e-ticket. It has a blue background with a white box in the center. The white box contains the ticket information: the ticket type (e-ticket), the date (25 Jul), and the time (4:00 PM). There is also a QR code in the white box."
-  },
-  {
-    "image_path": "20240101_180155_YES.jpg",
-    "output": " The image is a drawing of a camel and a needle with a quote from the Bible. The quote says that it is easier for a camel to go through the eye of a needle than for a rich man to enter heaven."
-  },
-  {
-    "image_path": "20240101_180802_YES.jpg",
-    "output": " A man wearing a cap and a mask is holding a puppy in a blanket. The background is orange and there are flames."
-  },
-  {
-    "image_path": "20240101_174544_YES.jpg",
-    "output": " A person is being attacked by two dogs. The dogs are biting and clawing at the person's legs. The person is trying to fight back, but they are outnumbered and outmatched. The dogs are getting more and more aggressive, and the person looks like they are about to be overwhelmed."
-  },
-  {
-    "image_path": "20240101_175836_YES.jpg",
-    "output": " A hand holding a phone with a resume on the screen. The user is about to press the send button."
-  },
-  {
-    "image_path": "20240101_175738_YES.jpg",
-    "output": " This image shows a stock market graph with a bald man in a suit standing to the right of it. The man has his arms crossed and is looking at the graph with a smug expression on his face. The graph is menunjukkan an upward trend, with a peak at the end. It is unclear what the graph is measuring, but it is likely that it is related to the man's wealth. The image is a commentary on the stock market, and it suggests that the man is a successful investor."
-  },
-  {
-    "image_path": "20240101_181343_YES.jpg",
-    "output": " This is an illustration of four men. They all have the same facial expression, except for the man in the middle. He has a more serious expression."
-  },
-  {
-    "image_path": "20240101_175023_YES.jpg",
-    "output": " A bottle of water with a blue label that says \u201cPremium Mineral Water\u201d. The bottle is on a green background."
-  },
-  {
-    "image_path": "20240101_180335_YES.jpg",
-    "output": " A woman in a green dress is sitting at a table in a Chinese restaurant. She is pointing at the chopsticks and the fork on the table."
-  },
-  {
-    "image_path": "20240101_175541_YES.jpg",
-    "output": " A person is painting a mural on a wall. The mural says \"SAVE OUR EARTH\". There are buildings and factories in the background. The person is wearing a mask and gloves. They have a paintbrush in their hand. The mural is of a hand holding the Earth. The Earth is surrounded by plants. The person is standing on a ladder."
-  },
-  {
-    "image_path": "20240101_182638_YES.jpg",
-    "output": " This is a picture of a chicken wearing a flower crown. The chicken is standing in front of a blue heart. The words \"Happy Chicken\" are written on either side of the chicken. The background is a light green color."
-  },
-  {
-    "image_path": "20240101_181006_YES.jpg",
-    "output": " The image shows a  window with an aluminum frame and a screen."
-  },
-  {
-    "image_path": "20240101_174147_YES.jpg",
-    "output": " A series of 18 small comics, each with two panels. The first panel of each comic has the word \"YES\" and an image. The second panel has the word \"BUT\" and an image that contradicts the first panel."
-  },
-  {
-    "image_path": "20240101_172348_YES.jpg",
-    "output": " A man is looking at a decorated Christmas tree. He is wearing a blue shirt and khaki pants. The tree is decorated with lights, ornaments, and a ribbon. The man has his hands on his hips and is looking at the tree with a thoughtful expression."
-  },
-  {
-    "image_path": "20240101_172339_YES.jpg",
-    "output": " A man in a gray suit is sitting in a chair with a serious expression on his face. He has his hands resting on his lap and is looking at the viewer. He is wearing a black turtleneck sweater under the suit jacket."
-  },
-  {
-    "image_path": "20240101_173433_YES.jpg",
-    "output": " The image shows a man driving a car. The steering wheel is sparkling clean."
-  },
-  {
-    "image_path": "20240101_174927_YES.jpg",
-    "output": " This is a drawing of a chair with a light brown wooden frame and a dark pink cushion. The chair is set against a pale blue background."
-  },
-  {
-    "image_path": "20240101_180601_YES.jpg",
-    "output": " A close up of the handle of a pink coffee mug."
-  },
-  {
-    "image_path": "20240101_173144_YES.jpg",
-    "output": " A woman is climbing up the stairs of a StairMaster exercise machine. She is wearing a green tank top, lime green leggings, and white sneakers. The handrails of the machine are gray, and the machine itself is dark gray. The background is a blue-gray color."
-  },
-  {
-    "image_path": "20240101_182549_YES.jpg",
-    "output": " The image is of a stationary bicycle. It is gray and has a black seat. The pedals are black and the wheels are gray. There is a small black computer on the handlebars. The bicycle is sitting on a brown floor in front of a beige wall."
-  },
-  {
-    "image_path": "20240101_172951_YES.jpg",
-    "output": " A man is getting his hair cut in a barbershop and simultaneously playing video games and having a drink served to him."
-  },
-  {
-    "image_path": "20240101_175413_YES.jpg",
-    "output": " The image shows a pie chart of the fruits. \n\nThe fruits included are bananas, strawberries, grapes, apples, watermelon, and oranges. \n\nThe largest portion of the pie chart is bananas, followed by strawberries, grapes, apples, watermelon, and oranges."
-  },
-  {
-    "image_path": "20240101_175135_YES.jpg",
-    "output": " This is a picture of a pedestrian traffic signal. The top light is red and shows a person standing. The bottom light it green and shows a person walking."
-  },
-  {
-    "image_path": "20240101_172838_YES.jpg",
-    "output": " The image is a drawing of a gray t-shirt with the word \"NONBINARY\" written on it. The letters are arranged in a horizontal line and are in the colors of the non-binary flag. The shirt is against a pale blue green background."
-  },
-  {
-    "image_path": "20240101_180032_YES.jpg",
-    "output": " A man is holding an x-ray of his teeth."
-  },
-  {
-    "image_path": "20240101_173411_YES.jpg",
-    "output": " A person with long hair tied in a ponytail is shown from behind."
-  },
-  {
-    "image_path": "20240101_180515_YES.jpg",
-    "output": " A waiter is holding a plate in his left hand. He is wearing a white shirt, black bow tie, and gray apron."
-  },
-  {
-    "image_path": "20240101_175722_YES.jpg",
-    "output": " A gloved hand is shown pouring rubbing alcohol from a blue bottle onto a cotton ball. The cotton ball is being used to clean a person's arm."
-  },
-  {
-    "image_path": "20240101_175803_YES.jpg",
-    "output": " The image shows a variety of dog toys. There is a bone, a ball, a rope toy, a chicken toy, and a knotted toy. The toys are all different colors and shapes."
-  },
-  {
-    "image_path": "20240101_180026_YES.jpg",
-    "output": " A green circle with the words \"Not Tested on Animals\" written in white, and a white paw print in the center."
-  },
-  {
-    "image_path": "20240101_172853_YES.jpg",
-    "output": " The image shows an empty egg holder in the fridge."
-  },
-  {
-    "image_path": "Screenshot_2024-01-01-18-15-32-614_com.twitter.android-edit_YES.jpg",
-    "output": " This is an image of a cartoon character. He appears to be happy and carefree. He is wearing a brown hat, a red shirt, and blue pants. He has his arms outstretched."
-  },
-  {
-    "image_path": "20240101_175237_YES.jpg",
-    "output": ""
-  },
-  {
-    "image_path": "20240101_174200_YES.jpg",
-    "output": " The image shows a woman with long blonde hair, blue eyes, and a pink manicure. She is smiling and has a smiley face emoji next to her head. The background is pink and there are sparkles around her. The text \"smile!\" is written below the image."
-  },
-  {
-    "image_path": "20240101_175730_YES.jpg",
-    "output": " A bowl of Tom Yum soup with a spoon on the side."
-  },
-  {
-    "image_path": "20240101_182511_YES.jpg",
-    "output": " This is a drawing of a person with short pink, green, and yellow hair and a beard. They are wearing a black shirt with a white collar and have a chain with a cross on it around their neck. They have a small blush on their cheeks and their eyes are closed. The background is a light beige color."
-  },
-  {
-    "image_path": "20240101_172944_YES.jpg",
-    "output": " The image is a sale advertisement. It is 50% off only today. The background is pink. There are some maple leaves at the bottom right corner."
-  },
-  {
-    "image_path": "20240101_182308_YES.jpg",
-    "output": " A woman is doing a lunge with a barbell on her shoulders. She is wearing a pink sports bra, black leggings, and white sneakers. She has a headband on and is sweating. There is a dumbbell on the floor next to her."
-  },
-  {
-    "image_path": "20240101_173326_YES.jpg",
-    "output": " The image shows a confused looking woman with her hands in the air. The text at the top of the image says \"Names of Presidents\". The image is meant to be ironic, as the woman does not know the names of any presidents."
-  },
-  {
-    "image_path": "20240101_174055_YES.jpg",
-    "output": " This is a drawing of a person with a blue verified checkmark hanging around their neck. The person is smiling and has their thumbs pointed at the checkmark."
-  },
-  {
-    "image_path": "20240101_175647_YES.jpg",
-    "output": " The image is in black and white, and shows an artist's studio. There is a statue, a vase, an easel with a blank canvas, a stool, a box of paints, brushes and a glass on the floor."
-  },
-  {
-    "image_path": "20240101_180455_YES.jpg",
-    "output": " A waiter hands a man a credit card."
-  },
-  {
-    "image_path": "20240101_175752_YES.jpg",
-    "output": " This is an illustration of a person applying sunscreen to their face. They are smiling and have their hair tied back. They are wearing a white tank top and are holding a bottle of sunscreen in their left hand. They are applying the sunscreen to their face with their right hand."
-  },
-  {
-    "image_path": "20240101_174540_YES.jpg",
-    "output": " A cartoon drawing of a boxing referee raising the arm of the winner of a boxing match."
-  },
-  {
-    "image_path": "20240101_173013_YES.jpg",
-    "output": " The image is a poster with a blue background and a white border. The poster has a drawing of a hand pouring water from a pitcher into a glass. The text at the top of the poster says \"DRINK MORE WATER\"."
-  },
-  {
-    "image_path": "20240101_174518_YES.jpg",
-    "output": " A man is watching TV. An elephant and a monkey are in a cage being broadcast on TV. The man is crying."
-  },
-  {
-    "image_path": "20240101_175331_YES.jpg",
-    "output": " This is a picture of two people walking their dogs. The people are standing at a crossroads, and it looks like they are about to cross paths. The dogs are all sniffing each other."
-  },
-  {
-    "image_path": "20240101_173141_YES.jpg",
-    "output": " A cartoon robot with a neutral expression on its face. It is mostly gray with black accents and blue eyes, and is standing with its arms at its sides. The background is pink."
-  },
-  {
-    "image_path": "20240101_173108_YES.jpg",
-    "output": " A person is hiking up a mountain. They are wearing a backpack and there is a rainbow in the sky. There are also birds flying around them. The sun is shining and there are clouds in the sky."
-  },
-  {
-    "image_path": "20240101_182242_YES.jpg",
-    "output": " A pink suitcase with a zipper and a lock. The lock is a 3-digit combination lock"
-  },
-  {
-    "image_path": "20240101_175126_YES.jpg",
-    "output": " A pair of hands holding a white cup of coffee on a saucer with a silver spoon on the saucer."
-  },
-  {
-    "image_path": "20240101_173518_YES.jpg",
-    "output": " A man is shown performing CPR on another man. The image is a still from a video on life-saving first aid."
-  },
-  {
-    "image_path": "20240101_174225_YES.jpg",
-    "output": " A man and woman are sitting at a table in a restaurant. The woman is eating a salad and the man is eating a burger and fries. The woman is looking at the man and smiling."
-  },
-  {
-    "image_path": "20240101_173029_YES.jpg",
-    "output": " This is a package of sliced baloney labeled as \"XXL.\""
-  },
-  {
-    "image_path": "20240101_182545_YES.jpg",
-    "output": " The image shows a sign that says \"Buy 2 Get 1 Free\""
-  },
-  {
-    "image_path": "20240101_180932_YES.jpg",
-    "output": " This is an advertisement for a mobile app called \"Phone Cleaner\". The app is designed to clean your phone's memory and improve its performance. The ad features a simple design with a blue and white icon for the app and a five-star rating. The text reads \"Phone Cleaner - Clean Your Phone's Memory\"."
-  },
-  {
-    "image_path": "20240101_172731_YES.jpg",
-    "output": " The image is a cartoon drawing of a plastic container of Caesar salad with 290 calories."
-  },
-  {
-    "image_path": "20240101_174123_YES.jpg",
-    "output": " A frustrated looking boy with his fists clenched standing in front of a blackboard with math equations on it."
-  },
-  {
-    "image_path": "20240101_175558_YES.jpg",
-    "output": " A blue and green squeeze packet of vegan mayo."
-  },
-  {
-    "image_path": "20240101_173000_YES.jpg",
-    "output": " A person wearing gloves is shown making a taco. The taco is on a white napkin. There is a small bowl of ingredients in front of the person. The ingredients are: salsa, guacamole, sour cream, and cheese. The taco costs $15.00."
-  },
-  {
-    "image_path": "20240101_175859_YES.jpg",
-    "output": ""
-  },
-  {
-    "image_path": "20240101_172913_YES.jpg",
-    "output": " A woman wearing a pink dress is opening a door. The door has a Halloween banner above it."
-  },
-  {
-    "image_path": "20240101_181457_YES.jpg",
-    "output": " A man in a suit stands in the center of a large, empty room. The room is lit by bright white lights, and the floor is covered in a gray carpet. The man is looking at the wall in front of him, which is bare except for a single door."
-  },
-  {
-    "image_path": "20240101_173010_YES.jpg",
-    "output": " The image is of a pair of shoes. The shoes are multicolored. The original price of the shoes is shown as $120.00, with the sale price of $54.99."
-  },
-  {
-    "image_path": "20240101_173232_YES.jpg",
-    "output": " A man is watching TV. He is holding a remote and there is a coffee cup on the table next to him. The TV has the word DIALOGUE on it."
-  },
-  {
-    "image_path": "20240101_180844_YES.jpg",
-    "output": " This is a comic of a man getting out of his car in a parking spot. He seems to be in a hurry as he has left his car door open."
-  },
-  {
-    "image_path": "20240101_174949_YES.jpg",
-    "output": ""
-  },
-  {
-    "image_path": "20240101_174753_YES.jpg",
-    "output": " A woman is sitting in a cafe. She is drinking from a cup and has her laptop open. There is a plant on the table next to her. The cafe is decorated with a \"Cafe\" sign and a plant."
-  },
-  {
-    "image_path": "20240101_173332_YES.jpg",
-    "output": " The image shows a group chat with 28 people. There is a blue button that says \"Join\". A finger is shown pressing the \"Join\" button."
-  },
-  {
-    "image_path": "20240101_175554_YES.jpg",
-    "output": " This is a drawing of a brown cardboard tube toy for cats. It has two holes on the side and a small ball attached to a string on one end."
-  },
-  {
-    "image_path": "20240101_172400_YES.jpg",
-    "output": " This is a traffic signal for bicycles and pedestrians. The red light indicates that it is not safe to cross the street."
-  },
-  {
-    "image_path": "20240101_172928_YES.jpg",
-    "output": " A hand holding a pink Rubik's cube in front of a blue background"
-  },
-  {
-    "image_path": "20240101_182246_YES.jpg",
-    "output": " The image is a two-panel comic strip. The first panel shows a recipe book open to a page for a strawberry cake. The second panel shows the cake after someone has attempted to bake it, with the cake looking burnt and misshapen."
-  },
-  {
-    "image_path": "20240101_174654_YES.jpg",
-    "output": " This is a picture of a king. He has a sword in one hand, and his other hand is on his hip. He has a beard and a crown on his head. He is wearing a cape. There is a castle in the background."
-  },
-  {
-    "image_path": "20240101_173654_YES.jpg",
-    "output": " The image shows a box of invisible tape. The box is white with a green label that says \"Invisible Tape\". The tape is in a roll, and the box is open, showing the tape inside. The box is sitting on a pink background."
-  },
-  {
-    "image_path": "20240101_180345_YES.jpg",
-    "output": " The image shows a person riding a bicycle. The duration of the ride is 17 minutes and 3 seconds, and the distance traveled is 6.23 kilometers."
-  },
-  {
-    "image_path": "20240101_175820_YES.jpg",
-    "output": " The image shows a relaxation kit. The kit includes a jar of bath salts, a bottle of bubble bath, a scented candle, and a bath bomb. The items are all packaged in a cardboard box with a purple lid. The box is labeled \"Relaxation Kit.\""
-  },
-  {
-    "image_path": "20240101_172412_YES.jpg",
-    "output": " This is a comic showing a woman holding a pregnancy test with one hand while the other hand is holding her head in worry. In the background is a man holding a sign that says \"Abortion\"."
-  },
-  {
-    "image_path": "20240101_173638_YES.jpg",
-    "output": " This is a picture of a man with large muscles and a shaved head. He is wearing a black tank top that says \"KILL\" on it with a skull graphic. He is also wearing blue gym shorts. He is standing with his feet shoulder-width apart and his hands clenched into fists. There is fire in the background."
-  },
-  {
-    "image_path": "20240101_182552_YES.jpg",
-    "output": " The image is a cartoon of a person pouring dry dog food from a bag into a bowl. The bag is labeled \"Organic, 100% Natural, Grass-Fed Lamb & Sweet Potato, With Prebiotics, High Protein, No Grains, No Gluten, No Soy.\""
-  },
-  {
-    "image_path": "20240101_175155_YES.jpg",
-    "output": ""
-  },
-  {
-    "image_path": "20240101_174241_YES.jpg",
-    "output": " A man is standing in front of a wall of shoes. He is wearing a hat and a t-shirt. He has his hand out, as if he is showing off the shoes."
-  },
-  {
-    "image_path": "20240101_182506_YES.jpg",
-    "output": " A woman wearing beige pants and black heels is standing in the rain."
-  },
-  {
-    "image_path": "20240101_180159_YES.jpg",
-    "output": " The image shows a healthy cafe. The cafe has a sign that says \"Healthy Cafe\" on the front door. There are two windows on the left side of the door and a door on the right side. The windows are decorated with green decals and there is a green awning over the door. There is a table and four chairs in front of the cafe. The table is round and has a brown top. The chairs are green and have a modern design."
-  },
-  {
-    "image_path": "20240101_182451_YES.jpg",
-    "output": " A woman holds a cake that says \"Forever Young\" on it. She is surrounded by party streamers and has a birthday hat on. The woman is smiling with her eyes closed. The image is drawn in a simple, cartoon style."
-  },
-  {
-    "image_path": "20240101_174737_YES.jpg",
-    "output": " A woman is sitting in a cafe. She is drinking from a cup and there is an open laptop in front of her. There is a plant on the window sill behind her. The cafe is decorated with a \"Cafe\" sign and has brown trim on the windows and door."
-  },
-  {
-    "image_path": "20240101_172955_YES.jpg",
-    "output": " A person is holding a cup with a straw in it. The cup is filled with a beverage and ice. The person is taking a sip from the straw. The background is purple."
-  },
-  {
-    "image_path": "20240101_173642 (1)_YES.jpg",
-    "output": " The image is a drawing of a shopping basket on a green background. The basket is made of metal and has a handle."
-  },
-  {
-    "image_path": "Screenshot_2024-01-01-18-12-18-789_com.twitter.android-edit_YES.jpg",
-    "output": " A person is reading a book in bed. They have their legs crossed and a cup of coffee on the floor next to them. A cat is sleeping on the bed next to them. The person is wearing a shirt that says \"I love reading\". The image is drawn in a simple, cartoon style."
-  },
-  {
-    "image_path": "20240101_180649_YES.jpg",
-    "output": " A green car is shown from the side. The car is in the lower right hand corner of the image. The rest of the image is a grey background."
-  },
-  {
-    "image_path": "20240101_180751_YES.jpg",
-    "output": " This is a drawing of a salad bowl. The salad bowl is filled with lettuce and radishes. The salad bowl is sitting on a yellow background."
-  },
-  {
-    "image_path": "20240101_174107_YES.jpg",
-    "output": " A man is trying to remove a scratch from his car."
-  },
-  {
-    "image_path": "20240101_173800_YES.jpg",
-    "output": " A hand holding a ticket with a barcode and the text \"FASTPASS ENTRANCE\" above it. Below the barcode is the date \"15/05/23\"."
-  },
-  {
-    "image_path": "20240101_174000_YES.jpg",
-    "output": " The image is of a king-size bed."
-  },
-  {
-    "image_path": "20240101_173024_YES.jpg",
-    "output": " This is an image of a man with tattoos on his arms. He is wearing a white shirt, blue jeans, and sneakers. He has a beard and a mustache. He is standing with his feet shoulder-width apart and his hands at his sides. He is looking at the viewer with a neutral expression."
-  },
-  {
-    "image_path": "20240101_175119_YES.jpg",
-    "output": " The image is a poster for a world tour by a music band. The poster has a grey background, and in the center, a white globe. The words \"Music Band World Tour\" are written in a large, white font at the top of the poster. Two electric guitars are shown at the bottom of the poster."
-  },
-  {
-    "image_path": "20240101_174719_YES.jpg",
-    "output": " This is a drawing of a grey pigeon in cartoonish style, with a pink crop and feet. The pigeon is flying to the right and seems to be in a hurry. The background is a very light blue color."
-  },
-  {
-    "image_path": "20240101_173308_YES.jpg",
-    "output": " The image shows four skincare products: a cleanser, a scrub, a hydrating gel, and an anti-aging cream. The cleanser is in a white tube with the word \"Cleanser\" on it. The scrub is in a white tube with the words \"Bio Scrub\" and an image of a leaf on it. The hydrating gel is in a brown bottle with a dropper and the words \"Hydrating Gel\" on it. The anti-aging cream is in a white jar with the words \"Anti-Aging Skincare\" on it. The products are arranged on a peach-colored background in an off-white box."
-  },
-  {
-    "image_path": "20240101_174218_YES.jpg",
-    "output": " The image shows a person removing a warranty void if removed sticker from a laptop."
-  },
-  {
-    "image_path": "20240101_181101_YES.jpg",
-    "output": " A woman's torso is shown. She is wearing a white cropped shirt and gray sweatpants. Her hands are resting on her hips."
-  },
-  {
-    "image_path": "20240101_172936_YES.jpg",
-    "output": " The image shows a four-way road intersection. There are three cars on the road, all of which are turning right. The cars are all driving in the same direction."
-  },
-  {
-    "image_path": "20240101_173955_YES.jpg",
-    "output": " A person is shown from the neck up. They are wearing a grey swim cap and are in a swimming pool. The water is a light blue color and there are ripples on the surface. The person's eyes are open and they are looking up. Their eyebrows are furrowed and their cheeks are flushed."
-  },
-  {
-    "image_path": "20240101_180658_YES.jpg",
-    "output": " A brown cardboard tube is in the center of a lavender background."
-  },
-  {
-    "image_path": "20240101_173043_YES.jpg",
-    "output": " A can of Diet Cola with the words \"No Sugar\" written on it, sitting on a table. There is a basket of fries sitting on the table to the right of the can."
-  },
-  {
-    "image_path": "20240101_173219_YES.jpg",
-    "output": " A pair of light blue sneakers with white socks and sparkles around them."
-  },
-  {
-    "image_path": "20240101_180312_YES.jpg",
-    "output": " The image is a screenshot of a social media platform. It shows the number of followers a user has. The number of followers is 1,053."
-  },
-  {
-    "image_path": "20240101_172351_YES.jpg",
-    "output": " A man is standing at a breakfast buffet. He is wearing a green shirt and gray pants. He has a plate in his hand and is using tongs to put food on his plate. There are two chafing dishes on the buffet. The one on the left has bacon in it and the one on the right has scrambled eggs. There is also a basket of pastries on the buffet."
-  },
-  {
-    "image_path": "20240101_180548_YES.jpg",
-    "output": " The image is a black and white photo with a white background. The image is of a handwritten phrase that says \"Think Twice\". The phrase is written in cursive script in the center of the photo."
-  },
-  {
-    "image_path": "20240101_180407_YES.jpg",
-    "output": " A person is lying on the ground with a leaf on their face. They are wearing a brown shirt and a red scarf. The background is full of autumn leaves. The person is smiling."
-  },
-  {
-    "image_path": "Screenshot_2024-01-01-17-55-08-129_com.twitter.android~2_YES.jpg",
-    "output": " A person is getting a back massage. Another person, who is the masseuse, is standing behind them in a white uniform and has their hands on the person's back."
-  },
-  {
-    "image_path": "20240101_181054_YES.jpg",
-    "output": " A boy is looking at his phone and does not notice the angry man behind him."
-  },
-  {
-    "image_path": "20240101_175247_YES.jpg",
-    "output": " This is a drawing of a mannequin that is wrapped in caution tape with the words \"Caution Fragile\" written on it."
-  },
-  {
-    "image_path": "20240101_172947_YES.jpg",
-    "output": " The image shows a clothesline with four items of clothing hanging on it. The items are a white t-shirt that says \"B&B\", a pair of brown pants, a pink bodysuit that says \"GUCCI\", and a grey t-shirt that says \"BRAND JEANS\"."
-  },
-  {
-    "image_path": "20240101_173552_YES.jpg",
-    "output": " This is a drawing of a paper coffee cup with a brown liquid inside. There is a white foam design on the top of the liquid. The coffee cup is set against a solid yellow background."
-  },
-  {
-    "image_path": "20240101_182519_YES.jpg",
-    "output": " The image is a social media post. The post is an image of a fist with the words \"Free Speech is a Civil Right\" on it. The post has 245 likes, 16 comments, and 8 shares."
-  },
-  {
-    "image_path": "20240101_173624_YES.jpg",
-    "output": " The image shows a car on a road. In the first panel, there is a tree next to the car. In the second panel, there is a factory next to the car. The factory is labeled \"Car Battery Production\". The car has a sticker on it that says \"ecocar\". The image is drawn in a cartoon style."
-  },
-  {
-    "image_path": "20240101_172924_YES.jpg",
-    "output": " The image is of a brown fox-shaped coffee mug with a handle shaped like a fox's tail. The mug has closed eyes and a smiling face. The mug is set against a solid yellow background."
-  },
-  {
-    "image_path": "20240101_180618_YES.jpg",
-    "output": " A  blue text message bubble with the words \"text me when you get home\" in white text."
-  },
-  {
-    "image_path": "20240101_173100_YES.jpg",
-    "output": " The image shows a power bank connected to a smartphone with a USB cable. The power bank is labeled \"powerbank\" and the smartphone has a low battery indicator. The power bank is charging the smartphone."
-  },
-  {
-    "image_path": "20240101_182413_YES.jpg",
-    "output": " A woman is standing on a balcony overlooking a ballet performance. She is wearing a gray dress and has her hair in a bun. The ballet dancers are wearing white tutus and are dancing on their toes. The background is a light blue color. There are spotlights on the stage. The woman could be a ballet teacher."
-  },
-  {
-    "image_path": "20240101_175531_YES.jpg",
-    "output": " A hand is pulling a wet wipe out of a package."
-  },
-  {
-    "image_path": "20240101_175002_YES.jpg",
-    "output": " A grey nail clipper on a pink background."
-  },
-  {
-    "image_path": "20240101_172407_YES.jpg",
-    "output": " The image shows a woman with long hair and blue shirt kneeling and praying in front of a statue of Buddha. The statue is seated in a lotus position on a pedestal."
-  },
-  {
-    "image_path": "20240101_174903_YES.jpg",
-    "output": " This is an illustration of a person wearing headphones and using a laptop. The illustration is accompanied by a caption that reads \"Bird songs. Sounds of the forest.\" The caption is likely a reference to the fact that the person in the illustration is listening to a playlist called \"Bird Songs\" on their laptop."
-  },
-  {
-    "image_path": "20240101_181310_YES.jpg",
-    "output": " The image is a screenshot of a Twitter search for the user \"Yes, But\". The search results show that the user is a parody account, and that their tweets are usually taken from the original owner, @like_gudim. The screenshot also shows that the user has 7 followers and 59.5 thousand readers."
-  },
-  {
-    "image_path": "20240101_175535_YES.jpg",
-    "output": " This is a drawing of a pair of limited edition pink and orange soccer cleats on a pedestal. The cleats have \"limited edition\" written on them and are signed by someone named Leo."
-  },
-  {
-    "image_path": "20240101_180851_YES.jpg",
-    "output": " There is a picnic blanket on the grass with a picnic basket, a bottle of wine, two glasses, some cheese, fruit, and bread."
-  },
-  {
-    "image_path": "20240101_173245_YES.jpg",
-    "output": ""
-  },
-  {
-    "image_path": "20240101_172414_YES.jpg",
-    "output": " A person wearing a brown and gray winter coat with a red beanie. It is snowing."
-  },
-  {
-    "image_path": "20240101_175808_YES.jpg",
-    "output": " The image is a quote that says \"Beauty is Inside\" with a flower and leaves. The background is a light gray color."
-  },
-  {
-    "image_path": "20240101_173254_YES.jpg",
-    "output": " A cartoon image of a gray container filled with red strawberries. The container is set on a blue background."
-  },
-  {
-    "image_path": "20240101_174213_YES.jpg",
-    "output": " This is a drawing of a Ford Focus. It is black and green in color and has a camouflage pattern. The car is also lowered and has a spoiler."
-  },
-  {
-    "image_path": "20240101_175031_YES.jpg",
-    "output": " A cartoon-style drawing of a hand holding a gun that shoots money."
-  },
-  {
-    "image_path": "20240101_174958_YES.jpg",
-    "output": " A bicycle is locked to a pole."
-  },
-  {
-    "image_path": "20240101_180509_YES.jpg",
-    "output": " The image shows a recording studio. There is a mixing console, a microphone, a guitar, and a saxophone in the studio."
-  },
-  {
-    "image_path": "20240101_172902_YES.jpg",
-    "output": " The image shows a man with a receding hairline at four stages."
-  },
-  {
-    "image_path": "20240101_173317_YES.jpg",
-    "output": " The image shows a person trying to swat a mosquito on their shoulder. In the first panel, the person is about to swat down on the mosquito. In the second panel, the person has already swatted down."
-  },
-  {
-    "image_path": "20240101_173205_YES.jpg",
-    "output": " This is the top of a smart phone screen. The time is 15:34. The battery  is 15% charged. The weather icon shows it is partly cloudy and 19 degrees."
-  },
-  {
-    "image_path": "20240101_182531_YES.jpg",
-    "output": " A hand holding a phone with the text \"Ultra Slim\" on the screen."
-  },
-  {
-    "image_path": "20240101_173647_YES.jpg",
-    "output": " A person is holding a Nintendo Switch while driving a car."
-  },
-  {
-    "image_path": "20240101_180832_YES.jpg",
-    "output": " The image shows a shopping cart with various groceries in it. There is a pineapple, a baguette, a carton of milk, a box of cereal, and other items. The cart is on wheels and is in front of a peach-tone background."
-  },
-  {
-    "image_path": "Screenshot_2024-01-01-17-59-17-340_com.twitter.android-edit_YES.jpg",
-    "output": " The image is of an exercise bike. It is a stationary bike that is used for indoor cycling. The bike has a seat, handlebars, and pedals. It is made of metal and has a gray color."
-  },
-  {
-    "image_path": "20240101_173341_YES.jpg",
-    "output": " A man and a woman are sleeping in bed together. The man is holding the woman close. The woman is smiling."
-  },
-  {
-    "image_path": "20240101_182328_YES.jpg",
-    "output": " This is a drawing of a reusable shopping bag made of natural-colored canvas fabric. The bag has two handles and a design printed on the front consisting of a leaf inside a circle and the text \"eco bag\" below it. The bag is set against a pale green background."
-  },
-  {
-    "image_path": "20240101_173927_YES.jpg",
-    "output": " A blonde woman in a green dress and pink coat is walking in an airport. She is wearing sunglasses and carrying two suitcases."
-  },
-  {
-    "image_path": "20240101_174134_YES.jpg",
-    "output": " A woman is holding a present in front of a man. The man has his eyes closed. The present has a heart-shaped tag that says \"Bob.\" The woman has a surprised expression."
-  },
-  {
-    "image_path": "20240101_173239_YES.jpg",
-    "output": " A woman is sitting in the passenger seat of a car. She is wearing a brown dress and looking out the window. The sun is setting outside."
-  },
-  {
-    "image_path": "20240101_175445_YES.jpg",
-    "output": " This image shows a person holding a scarf of a team that has just won a championship. The person is cheering with two hands up"
-  },
-  {
-    "image_path": "20240101_181128_YES.jpg",
-    "output": " The image shows a soccer player taking off his jersey to reveal a shirt that says \"God is Great\"."
-  },
-  {
-    "image_path": "20240101_181422_YES.jpg",
-    "output": " A man is sitting on a beach in a lounge chair working on his laptop. He is wearing a dress shirt, shorts, and a tie. The sun"
-  },
-  {
-    "image_path": "20240101_180545_YES.jpg",
-    "output": " This image shows a person with a beard and a t-shirt that says \u201cVEGAN\u201d. The person is holding a fork and a bowl of lettuce. The person is smiling."
-  },
-  {
-    "image_path": "20240101_173706_YES.jpg",
-    "output": " The image shows a row of electric scooters."
-  },
-  {
-    "image_path": "20240101_174029_YES.jpg",
-    "output": " A mother and her son are preparing food in the kitchen. They are both wearing glasses made of cucumbers and bell peppers."
-  },
-  {
-    "image_path": "20240101_175231_YES.jpg",
-    "output": " The image shows a close-up of the camera on the back of a smartphone. The camera is a triple-lens camera with a flash. The camera is labeled \"MEGA CAMERA\"."
-  },
-  {
-    "image_path": "20240101_180856_YES.jpg",
-    "output": " This is a drawing of a trash can that is divided into two parts. One part has a green sign on it while the other has a red sign."
-  },
-  {
-    "image_path": "20240101_173756_YES.jpg",
-    "output": " A cartoon of a person wearing a green hat and red necklace, with their hands hovering over a crystal ball that says \"FUTURE\". There is a candle on the table. The background is pink."
-  },
-  {
-    "image_path": "20240101_182357_YES.jpg",
-    "output": " A man is shown wearing a gray jacket, white shirt, and gray pants. The jacket is unzipped, and his hands are shown with tattoos on them. The pants are ripped at the knees."
-  },
-  {
-    "image_path": "20240101_172932_YES.jpg",
-    "output": " The image shows 4 empty wooden hangers on a brown background"
-  },
-  {
-    "image_path": "20240101_180758_YES.jpg",
-    "output": " This is a drawing of a cat scratching post."
-  },
-  {
-    "image_path": "20240101_174842_YES.jpg",
-    "output": " A man is having trouble breathing on an airplane. He tries to get the attention of the flight attendant, but she is not paying attention. He then tries to get the attention of the other passengers, but they are all asleep. He then realizes that he is the only one on the plane."
-  },
-  {
-    "image_path": "20240101_180952_YES.jpg",
-    "output": " A hand holding an open umbrella. It is raining."
-  },
-  {
-    "image_path": "20240101_172420_YES.jpg",
-    "output": " The image shows a turquoise t-shirt with the word SIZE on the neck label."
-  },
-  {
-    "image_path": "20240101_172317_YES.jpg",
-    "output": " This is an illustration of a person wearing a black jacket, white shirt, and black pants. The jacket and pants are ripped. The person has tattoos on their neck, arms, and hands."
-  },
-  {
-    "image_path": "20240101_173355_YES.jpg",
-    "output": " The image is a simple illustration of a white phone box with the words \"Phone 256GB\" on the side. The box is sitting on a brown background."
-  },
-  {
-    "image_path": "20240101_181138_YES.jpg",
-    "output": " A screenshot of a comment on a social media post. The comment is about a drawing of a soccer player taking off his shirt to reveal a message written on his inner shirt."
-  },
-  {
-    "image_path": "20240101_173752_YES.jpg",
-    "output": " A black and white illustration of an electrical outlet on the floor."
-  },
-  {
-    "image_path": "20240101_174119_YES.jpg",
-    "output": ""
-  },
-  {
-    "image_path": "20240101_180332_YES.jpg",
-    "output": " The image is of a bathroom with a large bathtub in front of a picture window. The window has a view of a lake and mountains. The bathroom is decorated in a modern style with white walls and fixtures."
-  },
-  {
-    "image_path": "20240101_180947_YES.jpg",
-    "output": " A cartoon drawing of a car on a road next to a family of ducks."
-  },
-  {
-    "image_path": "20240101_173642_YES.jpg",
-    "output": " A man is sitting on the couch eating pizza. He appears to be alone."
-  },
-  {
-    "image_path": "20240101_173214_YES.jpg",
-    "output": " The image is a black-and-white line drawing of a house. The house has two windows, a door, and a chimney. There are three clouds and a sun in the sky. There are also three flowers on the ground in front of the house."
-  },
-  {
-    "image_path": "20240101_173007_YES.jpg",
-    "output": " This is a\u883b\u6746\u684c\u6905\u26f1\ufe0f"
-  },
-  {
-    "image_path": "20240101_180626_YES.jpg",
-    "output": " A hand holding a remote control is pointed at a television."
-  },
-  {
-    "image_path": "20240101_180319_YES.jpg",
-    "output": " The image is a drawing of a vase of flowers. The flowers are mostly pink and blue, with some yellow and green leaves. The vase is white. The image has a simple, cartoon-like style."
-  },
-  {
-    "image_path": "20240101_182238_YES.jpg",
-    "output": " This is a comic about a person receiving a call from a call center. The person is frustrated because the call center is claiming that his call is important, but they are also asking him to hold the line. The comic is\u8bbd\u523a\u7684, because it shows how call centers often waste people's time."
-  },
-  {
-    "image_path": "20240101_181146_YES.jpg",
-    "output": " This image is a drawing of a baseball cap. The brim of the cap is brown and the rest of the cap is blue."
-  },
-  {
-    "image_path": "20240101_173718_YES.jpg",
-    "output": " A man is lying in bed and looking out the window. The sun is shining brightly."
-  },
-  {
-    "image_path": "20240101_182333_YES.jpg",
-    "output": " A grey robot vacuum cleaner is on the floor in front of a pink carpet. The vacuum cleaner is surrounded by sparkles."
-  },
-  {
-    "image_path": "20240101_182338_YES.jpg",
-    "output": " A person wearing a fitness tracker watch that displays 10,000 steps."
-  },
-  {
-    "image_path": "20240101_175614_YES.jpg",
-    "output": " A cartoon of a person in a black mask and dark clothing holding a sign that says \"ACAB\"."
-  },
-  {
-    "image_path": "Screenshot_2024-01-01-17-38-54-117_com.twitter.android-edit_YES.jpg",
-    "output": " A cartoon of a boxing match. A woman in a bikini is holding up a sign that says \"1\". Two men in boxing gloves are standing on either side of her."
-  },
-  {
-    "image_path": "20240101_181251_YES.jpg",
-    "output": " This is a drawing of the inside of a car. There is a hand putting a CD into the CD player. The CD is labeled \"Favorite Songs.\""
-  },
-  {
-    "image_path": "20240101_175847_YES.jpg",
-    "output": " The image is of a pair of open scissors with gray handles. A single screw is visible between the handles."
-  },
-  {
-    "image_path": "20240101_182235_YES.jpg",
-    "output": " The image shows a hand with a snake tattoo on the underarm side of the forearm. The snake is shown in a striking position with its head near the"
-  },
-  {
-    "image_path": "20240103_213052_YES.jpg",
-    "output": " This is a drawing of a fireplace. There are logs in the fireplace and a vase of blue flowers on the mantel above the fireplace."
-  }
-]
+{
+    "20240101_173813_YES.jpg": " The image shows a blue and gray office chair with a high back and a headrest. The chair is on wheels and has a lever to adjust the height of the seat. The chair is also tilted back slightly.",
+    "20240101_175208_YES.jpg": " A hand holding an ice cream cone with purple ice cream. The background is yellow.",
+    "20240101_182526_YES.jpg": " The image is of a person's back with a cross tattoo in the center. The person's hair is long and dark, and they are wearing a light colored shirt. The tattoo appears to be a Catholic cross, it is black, gray, and white in color, and it is surrounded by a dark background.",
+    "20240101_174025_YES.jpg": " A blue text message bubble with the words \"wish you were here\" and a brown heart emoji.",
+    "20240101_174536_YES.jpg": " A man is walking through a door that says \"open\".",
+    "20240101_172858_YES.jpg": " A person is shown removing seeds from a pumpkin with a knife and bowl sitting on a table. The background is a solid color.",
+    "20240101_181001_YES.jpg": " The image is a cartoon drawing of a pie. The pie has a golden crust and is on a blue checkered tablecloth.",
+    "20240101_180927_YES.jpg": "",
+    "20240101_173419_YES.jpg": " The image is a digital drawing of a city at night. There is a large apartment building in the foreground, and a smaller one in the background. The moon is large and pink, and there are a few stars in the sky. The buildings are lit up by the moon, and there are a few lights on inside the apartments. The image is in a cartoon style, and the colors are flat and simple.",
+    "20240101_182448_YES.jpg": " The image is of a pink suitcase on wheels. The suitcase is closed and has a handle on the top and one on the side.",
+    "20240101_172417_YES.jpg": " This is a screenshot of a phone that is trying to connect to a Wi-Fi network. The network is named \"Wi-Fi\" and the password is \"9-p3Jwfn=Z?A?-qcTIY\". The user is trying to connect to the network.",
+    "20240101_180912_YES.jpg": " The image is a map of the world with 15 locations marked. The locations are marked with pink circles. The title of the image is \"Visited Places\".",
+    "20240101_174813_YES.jpg": " A woman is sitting in a cafe. She is drinking from a cup and looking at her laptop. The cafe is decorated with a plant and a painting.",
+    "20240101_182625_YES.jpg": " A snow globe with the New York City skyline inside.",
+    "20240101_172354_YES.jpg": " A gray t-shirt with a quote from the movie Fight Club on it. The quote says, \"We work jobs we hate to buy shit we don't need.\"",
+    "20240101_181415_YES.jpg": " The image is a nutritional label for a serving of chocolate chip cookies. The label states that there are 160 calories per serving.",
+    "20240101_180958_YES.jpg": " The image shows a car's reverse camera. The camera is showing two cars behind the car.",
+    "20240101_182252_YES.jpg": " The image is of a vegan tattoo on a person's wrist. The tattoo is a heart with a carrot in it. The heart has a banner with the word \"vegan\" on it. There are also some leaves and flowers around the heart.",
+    "20240101_180247_YES.jpg": " The image shows four panels. In the first panel, a pot is boiling on a stove. In the second panel, a phone is ringing. In the third panel, a hand is pressing a doorbell. In the fourth panel, an iron is burning a shirt.",
+    "20240101_173159_YES.jpg": " A cartoon drawing of a trash can with a purple background",
+    "20240101_173525_YES.jpg": " A black and white drawing of a pill.",
+    "20240101_174232_YES.jpg": " This is a drawing of a pedestrian traffic light. The top light is red with a person standing, and the bottom light is green with a person walking.",
+    "20240101_173605_YES.jpg": " A man holds a sign that says \"Free Hugs\".",
+    "20240101_174853_YES.jpg": " A cartoon drawing of a milk carton with a grey cap. The milk carton is set against a purple background.",
+    "20240101_175107_YES.jpg": " There is a round mirror with a light above it. There is a sink below the mirror. There is a faucet on the sink. There is an outlet to the right of the sink. There are two light switches above the outlet. The walls are tiled.",
+    "20240101_173401_YES.jpg": " A person is hugging themselves and smiling. They are wearing a brown turtleneck sweater. The background is green and the outline of the person and their turtleneck is black.",
+    "20240101_175259_YES.jpg": " A boy is driving a toy car in his bedroom. There are posters of cars on the walls and toy cars on the floor. The boy is happy and carefree. He is enjoying his childhood.",
+    "20240101_173210_YES.jpg": " This is an image of a woman tearing up a paper that says beauty standards with a picture of a woman's body with measurements on it.",
+    "20240101_174548_YES.jpg": " A man is crashing his scooter into a pole.",
+    "20240101_180501_YES.jpg": " A cartoon of a man with no shirt on, gray pants, and his hands at his side. There is a light bulb at the top right of the image that is turned off.",
+    "20240101_174848_YES.jpg": " The image shows a disposable razor in a plastic package.",
+    "20240101_175942_YES.jpg": " The image has a peach-colored circle with a bomb icon in the center of the circle. The word \u201cSend\u201d is above the circle, and the words \u201cView Once\u201d are below the circle.",
+    "20240101_174708_YES.jpg": " The image shows a picnic on a cliff. There is a bottle of wine, two glasses, and a plate with croissants, cheese, and strawberries on a pink tablecloth. The background shows the sea and a cliff. The image has a simple and clean design with a limited color palette.",
+    "20240101_180340_YES.jpg": " A box containing an airplane toy and some Lego bricks is buckled up in the backseat of a car.",
+    "20240101_175608_YES.jpg": " This is a drawing of a group of people celebrating. They are all wearing the same uniforms and are jumping and hugging each other. One person is doing a handstand while another is kneeling on the ground.",
+    "20240101_172336_YES.jpg": " A gaming setup with a black desk, a comfortable black and red gaming chair, and a powerful-looking black and gray computer tower. There are two monitors on the desk.",
+    "20240101_175602_YES.jpg": " The image is a drawing of a green vegetable peeler on a pink background.",
+    "20240101_172350_YES.jpg": " A cup of strawberries in cream. The cup is half-full.",
+    "20240101_173017_YES.jpg": " The image is of a hand holding a smartphone. The screen is on and a text message is displayed that says \"You are cute\".",
+    "20240101_172834_YES.jpg": " A bus drives down the road with three passengers sitting in the window seats.",
+    "20240101_175627_YES.jpg": " The image shows a person turning on a faucet with one hand, and holding their other hand under the stream of water.",
+    "20240101_172940_YES.jpg": " This is a picture of a boy with a cow. The boy is standing on the left side of the image, and the cow is on the right side. The boy is wearing an orange shirt and blue pants, and the cow is brown and white. The cow has its head over a wooden fence, and the boy is petting it. There are some rocks on the ground in front of them, and some bushes and trees in the background.",
+    "20240101_180636_YES.jpg": " A man with a beard and sunglasses is playing guitar on stage. He is wearing a black jacket and jeans. There is a microphone in front of him. The audience is cheering and waving their hands in the air.",
+    "20240101_182249_YES.jpg": " A blue pen in a fancy box with a tag that says $2,065.00.",
+    "20240101_182426_YES.jpg": " The image shows a desktop computer with a brown background. There are 5 different windows open on the computer. The windows are labeled \"Downloads\", \"Documents\", \"Folders\", and \"Photos\".",
+    "20240101_174021_YES.jpg": " The image is of a green water bottle with a grey carabiner attached to the neck of the bottle. The bottle has a white recycle logo on it. The bottle is set against a pink background.",
+    "20240101_173921_YES.jpg": " This is a weather forecast for the week. It shows the weather for each day of the week, from Monday to Friday. The weather is sunny every day.",
+    "20240101_175953_YES.jpg": " A person in a purple shirt is covering their face with their hands as someone in a blue glove holds a syringe. The person in the purple shirt has blond hair.",
+    "20240101_173748_YES.jpg": " The image shows a monthly calendar with the current month being July. The days of the week are listed on the top row, starting with Sunday. The current",
+    "20240101_180643_YES.jpg": " Stacks of money.",
+    "20240101_175339_YES.jpg": " A man is looking at a bed with a zipper on the top of the comforter.",
+    "20240101_175353_YES.jpg": " The image is of a hotel room with a large window looking out onto the ocean. There is a table and two chairs in the room, as well as a small potted plant. The curtains are open and the sun is shining brightly.",
+    "20240101_181404_YES.jpg": " A girl standing in a field of flowers. She is wearing a white dress and has her hand outstretched. The background is a green field with hills in the distance. The sky is blue with white clouds. The image has three hashtags: #naturelovers, #nature, and #lovenature.",
+    "20240101_172325_YES.jpg": " The image shows a bare tree with a few branches decorated with a string of lights against a white background.",
+    "20240101_172357_YES.jpg": " A living room with a large TV, a coffee table, a sofa, and a plant. The TV is mounted on the wall above a long, low console with drawers. The living room has a large rug on the floor, and there is a plant in the corner.",
+    "20240101_173054_YES.jpg": " The image is a bumper sticker that says \"Anti-Capitalist\". The letters are pink and the background is grey with a black outline.",
+    "20240101_175217_YES.jpg": " A woman in a bikini is sitting on the bow of a boat. The water is calm and blue, and the mountains are in the distance. The woman is wearing sunglasses and has her hand in her hair. She is looking out at the view. The image is tagged with the hashtags \"#boating\", \"#summer\", and \"#vacation\".",
+    "20240101_181319_YES.jpg": " A man is on a rowing machine. He looks like he is struggling.",
+    "20240101_175326_YES.jpg": " This is a winter scene. There is snow on the ground and the trees are bare. The sun is setting and there is a bird in the tree.",
+    "20240101_182629_YES.jpg": " The image shows a 5-star rating. The stars are yellow and the background is grey with a black border. The text \"Ratings & Reviews\" is at the top and \"5.0 out of 5\" is below the stars.",
+    "20240101_182604_YES.jpg": " The image shows a sink with soap and a hand sanitizer dispenser. There is a paper towel dispenser on the wall behind the sink. The sink is made of ceramic and is white. The soap dispenser is made of plastic and is white. The hand sanitizer dispenser is made of plastic and is green. The paper towel dispenser is made of plastic and is gray.",
+    "20240101_182503_YES.jpg": " The image shows a pair of hands holding a small coral reef with various species of fish swimming above it.",
+    "20240101_181411_YES.jpg": " This is an image of a person with short blue hair and dark eyebrows. The person is drawn in a cartoon style and is looking down at the viewer. The background is a solid peach color.",
+    "20240101_181316_YES.jpg": " This is a drawing of a cat tree. It has five levels. There are two round platforms for the cat to lay on and one square platform with a hammock. The cat tree is gray and beige in color.",
+    "20240101_173227_YES.jpg": " This is a picture of a road with a truck on it. The speed limit sign says 130, but the truck is only going 80.",
+    "20240101_175759_YES.jpg": " The image shows a hand holding a pen and a to-do list. The to-do list has 6 items on it, all of which are crossed out.",
+    "20240101_180607_YES.jpg": " A woman is wearing a white see-through dress and posing on the beach. The dress has a plunging neckline and a high slit, and is exposing her black bikini underneath. She has her hand on her hip and is looking away from the camera. She has blonde hair and dark skin. The background is a blue ocean with a sandy beach.",
+    "20240101_182541_YES.jpg": " A cartoon image of a hand with long purple nails, holding a lit cigarette with smoke coming out of the end. The hand is on a grey background.",
+    "20240101_173039_YES.jpg": " This image shows a man with a microphone in his hand, standing on a stage and singing. There are several people in the audience, all of whom are women. They are all holding their phones up to take pictures or videos of the man. The man is wearing a black leather jacket and blue jeans, and he has a confident expression on his face. The women in the audience are all dressed differently, but they all have their hair down and are wearing makeup. They are all looking at the man on stage with adoring expressions.",
+    "20240101_173532_YES.jpg": " This is an image of a man trying to get into a club. There is a bouncer standing in front of the door. There is a sign on the door that says no pants allowed. The man is wearing a t-shirt and shorts. The bouncer is not letting the man into the club.",
+    "20240101_173104_YES.jpg": " A woman is taking a picture of her food. The food is on a plate and includes eggs, bacon, toast, and fruit. The woman is holding her phone in one hand and is smiling. The background is a table with a fork and knife.",
+    "20240101_174237_YES.jpg": " This is an image of a traffic signal for pedestrians. The upper signal is red and shows a person standing, indicating that pedestrians should stop. The lower signal is green and shows a person walking, indicating that pedestrians may proceed.",
+    "20240101_172843_YES.jpg": " A hand is closing the laptop's camera.",
+    "20240101_173003_YES.jpg": " A woman is painting a picture of a landscape. She is standing in front of an easel, and she is using a brush to apply paint to the canvas. The landscape is a scene of a river flowing through a valley. There are trees and mountains in the background. The woman is wearing a gray shirt and a brown apron. She has her hair tied back in a ponytail. She is focused on her painting, and she is enjoying the process.",
+    "20240101_180403_YES.jpg": " The image shows a water cooler with a sign next to it that says \"Drinking Water\".",
+    "20240101_173123_YES.jpg": " A person is holding a ticket for a seat in a stadium. The stadium is empty, except for one other person.",
+    "20240101_174757_YES.jpg": " A woman is sitting in a cafe. She has a laptop on the table. She is holding a coffee cup. There is a plant on the table.",
+    "20240101_181143_YES.jpg": " The image shows a parking lot with three cars. One car is parked in a handicapped spot. The other two cars are parked next to each other.",
+    "20240101_181439_YES.jpg": " A tray with a cup of coffee, croissants, and orange juice sits on an unmade bed. The curtains are open and the sun is shining through the window.",
+    "20240101_172322_YES.jpg": " This is a drawing of three fireworks. The fireworks are red, green, and yellow. The background is black.",
+    "20240101_174629_YES.jpg": " This is a screenshot of a fitness app on a smartphone. The app tracks the user's daily step count and displays it in a circular progress bar. The user has taken 9,999 steps and needs to take one more step to complete their daily goal of 10,000 steps.",
+    "20240101_175048_YES.jpg": " This is a white tote bag with the words \"eco bag\" printed on it in green letters. There is a green leaf logo above the text. The bag has white drawstrings.",
+    "20240101_180807_YES.jpg": " The image is of a print and copy shop. The shop has a blue awning with the words \"Print & Copy\" on it. The shop has two glass windows and a door.",
+    "20240101_173729_YES.jpg": " A man is sitting on the couch eating chips while his wife is vacuuming. The woman is not happy about this.",
+    "20240101_173119_YES.jpg": " A woman is looking at a blue cat in a pet store. The cat is sitting on a table. The woman is smiling. The store owner is standing next to the woman. He has his arm around the cat and is smiling at the woman.",
+    "20240101_173135_YES.jpg": " A hand is unplugging a power cord from an electrical outlet.",
+    "20240101_173826_YES.jpg": " The image shows a man with glasses and a vest. There is a microphone in front of him. There are 5 categories of expertise listed with checkboxes next to them. The categories are astronomy, math, physics, TikTok, and life experience. The man has very little expertise in TikTok and a lot of expertise in math.",
+    "20240101_181009_YES.jpg": " This is an image of a web page where a user can create an account.",
+    "20240101_173112_YES.jpg": " A man is taking a picture of a woman who is posing on a ledge high above the city. The woman is smiling and has her arms outstretched. The man is standing on the ground and is holding his phone up to take the picture.",
+    "20240101_173700_YES.jpg": " A person is eating pizza while also eating a plate full of hotdogs.",
+    "20240101_173542_YES.jpg": " The image is a cartoon drawing of a sign that says \"Secret Beach\". The sign is brown with white letters. The background of the sign is tan.",
+    "20240101_175745_YES.jpg": " The image is of a hand holding a smartphone. The screen of the smartphone is displaying a photo of a mountain landscape.",
+    "20240101_175009_YES.jpg": " This is a bowler hat. It is gray.",
+    "20240101_172315_YES.jpg": " A pair of pink high heel shoes with a platform sole.",
+    "20240101_173936_YES.jpg": " A screenshot of a music playlist titled \u201cMusic I Love\u201d with a lavender background and a peach heart icon.",
+    "20240101_180706_YES.jpg": " The image shows the entrance to a hotel. There is a large door with a sign that says \"HOTEL\" and there are stairs leading up to it. The hotel has a five-star rating.",
+    "20240101_180037_YES.jpg": " The image is a digital painting of a sunset. The sky and clouds are painted in a gradient of orange, pink, and blue. The sun is a large, white circle that is setting behind the clouds. The clouds are painted in a variety of shapes and sizes, and they are all different shades of orange, pink, and blue. The painting has a soft, dreamy quality, and it captures the beauty of a summer sunset.",
+    "20240101_173712_YES.jpg": " The image shows a person applying lipstick. The person is holding the lipstick in their right hand and is shown from the neck up. They have their lips slightly parted and are looking at the lipstick in their hand. They have a light skin tone and are wearing a natural makeup look.",
+    "20240101_180754_YES.jpg": " This is an e-ticket. It has a blue background with a white box in the center. The white box contains the ticket information: the ticket type (e-ticket), the date (25 Jul), and the time (4:00 PM). There is also a QR code in the white box.",
+    "20240101_180155_YES.jpg": " The image is a drawing of a camel and a needle with a quote from the Bible. The quote says that it is easier for a camel to go through the eye of a needle than for a rich man to enter heaven.",
+    "20240101_180802_YES.jpg": " A man wearing a cap and a mask is holding a puppy in a blanket. The background is orange and there are flames.",
+    "20240101_174544_YES.jpg": " A person is being attacked by two dogs. The dogs are biting and clawing at the person's legs. The person is trying to fight back, but they are outnumbered and outmatched. The dogs are getting more and more aggressive, and the person looks like they are about to be overwhelmed.",
+    "20240101_175836_YES.jpg": " A hand holding a phone with a resume on the screen. The user is about to press the send button.",
+    "20240101_175738_YES.jpg": " This image shows a stock market graph with a bald man in a suit standing to the right of it. The man has his arms crossed and is looking at the graph with a smug expression on his face. The graph is menunjukkan an upward trend, with a peak at the end. It is unclear what the graph is measuring, but it is likely that it is related to the man's wealth. The image is a commentary on the stock market, and it suggests that the man is a successful investor.",
+    "20240101_181343_YES.jpg": " This is an illustration of four men. They all have the same facial expression, except for the man in the middle. He has a more serious expression.",
+    "20240101_175023_YES.jpg": " A bottle of water with a blue label that says \u201cPremium Mineral Water\u201d. The bottle is on a green background.",
+    "20240101_180335_YES.jpg": " A woman in a green dress is sitting at a table in a Chinese restaurant. She is pointing at the chopsticks and the fork on the table.",
+    "20240101_175541_YES.jpg": " A person is painting a mural on a wall. The mural says \"SAVE OUR EARTH\". There are buildings and factories in the background. The person is wearing a mask and gloves. They have a paintbrush in their hand. The mural is of a hand holding the Earth. The Earth is surrounded by plants. The person is standing on a ladder.",
+    "20240101_182638_YES.jpg": " This is a picture of a chicken wearing a flower crown. The chicken is standing in front of a blue heart. The words \"Happy Chicken\" are written on either side of the chicken. The background is a light green color.",
+    "20240101_181006_YES.jpg": " The image shows a  window with an aluminum frame and a screen.",
+    "20240101_174147_YES.jpg": " A series of 18 small comics, each with two panels. The first panel of each comic has the word \"YES\" and an image. The second panel has the word \"BUT\" and an image that contradicts the first panel.",
+    "20240101_172348_YES.jpg": " A man is looking at a decorated Christmas tree. He is wearing a blue shirt and khaki pants. The tree is decorated with lights, ornaments, and a ribbon. The man has his hands on his hips and is looking at the tree with a thoughtful expression.",
+    "20240101_172339_YES.jpg": " A man in a gray suit is sitting in a chair with a serious expression on his face. He has his hands resting on his lap and is looking at the viewer. He is wearing a black turtleneck sweater under the suit jacket.",
+    "20240101_173433_YES.jpg": " The image shows a man driving a car. The steering wheel is sparkling clean.",
+    "20240101_174927_YES.jpg": " This is a drawing of a chair with a light brown wooden frame and a dark pink cushion. The chair is set against a pale blue background.",
+    "20240101_180601_YES.jpg": " A close up of the handle of a pink coffee mug.",
+    "20240101_173144_YES.jpg": " A woman is climbing up the stairs of a StairMaster exercise machine. She is wearing a green tank top, lime green leggings, and white sneakers. The handrails of the machine are gray, and the machine itself is dark gray. The background is a blue-gray color.",
+    "20240101_182549_YES.jpg": " The image is of a stationary bicycle. It is gray and has a black seat. The pedals are black and the wheels are gray. There is a small black computer on the handlebars. The bicycle is sitting on a brown floor in front of a beige wall.",
+    "20240101_172951_YES.jpg": " A man is getting his hair cut in a barbershop and simultaneously playing video games and having a drink served to him.",
+    "20240101_175413_YES.jpg": " The image shows a pie chart of the fruits. \n\nThe fruits included are bananas, strawberries, grapes, apples, watermelon, and oranges. \n\nThe largest portion of the pie chart is bananas, followed by strawberries, grapes, apples, watermelon, and oranges.",
+    "20240101_175135_YES.jpg": " This is a picture of a pedestrian traffic signal. The top light is red and shows a person standing. The bottom light it green and shows a person walking.",
+    "20240101_172838_YES.jpg": " The image is a drawing of a gray t-shirt with the word \"NONBINARY\" written on it. The letters are arranged in a horizontal line and are in the colors of the non-binary flag. The shirt is against a pale blue green background.",
+    "20240101_180032_YES.jpg": " A man is holding an x-ray of his teeth.",
+    "20240101_173411_YES.jpg": " A person with long hair tied in a ponytail is shown from behind.",
+    "20240101_180515_YES.jpg": " A waiter is holding a plate in his left hand. He is wearing a white shirt, black bow tie, and gray apron.",
+    "20240101_175722_YES.jpg": " A gloved hand is shown pouring rubbing alcohol from a blue bottle onto a cotton ball. The cotton ball is being used to clean a person's arm.",
+    "20240101_175803_YES.jpg": " The image shows a variety of dog toys. There is a bone, a ball, a rope toy, a chicken toy, and a knotted toy. The toys are all different colors and shapes.",
+    "20240101_180026_YES.jpg": " A green circle with the words \"Not Tested on Animals\" written in white, and a white paw print in the center.",
+    "20240101_172853_YES.jpg": " The image shows an empty egg holder in the fridge.",
+    "Screenshot_2024-01-01-18-15-32-614_com.twitter.android-edit_YES.jpg": " This is an image of a cartoon character. He appears to be happy and carefree. He is wearing a brown hat, a red shirt, and blue pants. He has his arms outstretched.",
+    "20240101_175237_YES.jpg": "",
+    "20240101_174200_YES.jpg": " The image shows a woman with long blonde hair, blue eyes, and a pink manicure. She is smiling and has a smiley face emoji next to her head. The background is pink and there are sparkles around her. The text \"smile!\" is written below the image.",
+    "20240101_175730_YES.jpg": " A bowl of Tom Yum soup with a spoon on the side.",
+    "20240101_182511_YES.jpg": " This is a drawing of a person with short pink, green, and yellow hair and a beard. They are wearing a black shirt with a white collar and have a chain with a cross on it around their neck. They have a small blush on their cheeks and their eyes are closed. The background is a light beige color.",
+    "20240101_172944_YES.jpg": " The image is a sale advertisement. It is 50% off only today. The background is pink. There are some maple leaves at the bottom right corner.",
+    "20240101_182308_YES.jpg": " A woman is doing a lunge with a barbell on her shoulders. She is wearing a pink sports bra, black leggings, and white sneakers. She has a headband on and is sweating. There is a dumbbell on the floor next to her.",
+    "20240101_173326_YES.jpg": " The image shows a confused looking woman with her hands in the air. The text at the top of the image says \"Names of Presidents\". The image is meant to be ironic, as the woman does not know the names of any presidents.",
+    "20240101_174055_YES.jpg": " This is a drawing of a person with a blue verified checkmark hanging around their neck. The person is smiling and has their thumbs pointed at the checkmark.",
+    "20240101_175647_YES.jpg": " The image is in black and white, and shows an artist's studio. There is a statue, a vase, an easel with a blank canvas, a stool, a box of paints, brushes and a glass on the floor.",
+    "20240101_180455_YES.jpg": " A waiter hands a man a credit card.",
+    "20240101_175752_YES.jpg": " This is an illustration of a person applying sunscreen to their face. They are smiling and have their hair tied back. They are wearing a white tank top and are holding a bottle of sunscreen in their left hand. They are applying the sunscreen to their face with their right hand.",
+    "20240101_174540_YES.jpg": " A cartoon drawing of a boxing referee raising the arm of the winner of a boxing match.",
+    "20240101_173013_YES.jpg": " The image is a poster with a blue background and a white border. The poster has a drawing of a hand pouring water from a pitcher into a glass. The text at the top of the poster says \"DRINK MORE WATER\".",
+    "20240101_174518_YES.jpg": " A man is watching TV. An elephant and a monkey are in a cage being broadcast on TV. The man is crying.",
+    "20240101_175331_YES.jpg": " This is a picture of two people walking their dogs. The people are standing at a crossroads, and it looks like they are about to cross paths. The dogs are all sniffing each other.",
+    "20240101_173141_YES.jpg": " A cartoon robot with a neutral expression on its face. It is mostly gray with black accents and blue eyes, and is standing with its arms at its sides. The background is pink.",
+    "20240101_173108_YES.jpg": " A person is hiking up a mountain. They are wearing a backpack and there is a rainbow in the sky. There are also birds flying around them. The sun is shining and there are clouds in the sky.",
+    "20240101_182242_YES.jpg": " A pink suitcase with a zipper and a lock. The lock is a 3-digit combination lock",
+    "20240101_175126_YES.jpg": " A pair of hands holding a white cup of coffee on a saucer with a silver spoon on the saucer.",
+    "20240101_173518_YES.jpg": " A man is shown performing CPR on another man. The image is a still from a video on life-saving first aid.",
+    "20240101_174225_YES.jpg": " A man and woman are sitting at a table in a restaurant. The woman is eating a salad and the man is eating a burger and fries. The woman is looking at the man and smiling.",
+    "20240101_173029_YES.jpg": " This is a package of sliced baloney labeled as \"XXL.\"",
+    "20240101_182545_YES.jpg": " The image shows a sign that says \"Buy 2 Get 1 Free\"",
+    "20240101_180932_YES.jpg": " This is an advertisement for a mobile app called \"Phone Cleaner\". The app is designed to clean your phone's memory and improve its performance. The ad features a simple design with a blue and white icon for the app and a five-star rating. The text reads \"Phone Cleaner - Clean Your Phone's Memory\".",
+    "20240101_172731_YES.jpg": " The image is a cartoon drawing of a plastic container of Caesar salad with 290 calories.",
+    "20240101_174123_YES.jpg": " A frustrated looking boy with his fists clenched standing in front of a blackboard with math equations on it.",
+    "20240101_175558_YES.jpg": " A blue and green squeeze packet of vegan mayo.",
+    "20240101_173000_YES.jpg": " A person wearing gloves is shown making a taco. The taco is on a white napkin. There is a small bowl of ingredients in front of the person. The ingredients are: salsa, guacamole, sour cream, and cheese. The taco costs $15.00.",
+    "20240101_175859_YES.jpg": "",
+    "20240101_172913_YES.jpg": " A woman wearing a pink dress is opening a door. The door has a Halloween banner above it.",
+    "20240101_181457_YES.jpg": " A man in a suit stands in the center of a large, empty room. The room is lit by bright white lights, and the floor is covered in a gray carpet. The man is looking at the wall in front of him, which is bare except for a single door.",
+    "20240101_173010_YES.jpg": " The image is of a pair of shoes. The shoes are multicolored. The original price of the shoes is shown as $120.00, with the sale price of $54.99.",
+    "20240101_173232_YES.jpg": " A man is watching TV. He is holding a remote and there is a coffee cup on the table next to him. The TV has the word DIALOGUE on it.",
+    "20240101_180844_YES.jpg": " This is a comic of a man getting out of his car in a parking spot. He seems to be in a hurry as he has left his car door open.",
+    "20240101_174949_YES.jpg": "",
+    "20240101_174753_YES.jpg": " A woman is sitting in a cafe. She is drinking from a cup and has her laptop open. There is a plant on the table next to her. The cafe is decorated with a \"Cafe\" sign and a plant.",
+    "20240101_173332_YES.jpg": " The image shows a group chat with 28 people. There is a blue button that says \"Join\". A finger is shown pressing the \"Join\" button.",
+    "20240101_175554_YES.jpg": " This is a drawing of a brown cardboard tube toy for cats. It has two holes on the side and a small ball attached to a string on one end.",
+    "20240101_172400_YES.jpg": " This is a traffic signal for bicycles and pedestrians. The red light indicates that it is not safe to cross the street.",
+    "20240101_172928_YES.jpg": " A hand holding a pink Rubik's cube in front of a blue background",
+    "20240101_182246_YES.jpg": " The image is a two-panel comic strip. The first panel shows a recipe book open to a page for a strawberry cake. The second panel shows the cake after someone has attempted to bake it, with the cake looking burnt and misshapen.",
+    "20240101_174654_YES.jpg": " This is a picture of a king. He has a sword in one hand, and his other hand is on his hip. He has a beard and a crown on his head. He is wearing a cape. There is a castle in the background.",
+    "20240101_173654_YES.jpg": " The image shows a box of invisible tape. The box is white with a green label that says \"Invisible Tape\". The tape is in a roll, and the box is open, showing the tape inside. The box is sitting on a pink background.",
+    "20240101_180345_YES.jpg": " The image shows a person riding a bicycle. The duration of the ride is 17 minutes and 3 seconds, and the distance traveled is 6.23 kilometers.",
+    "20240101_175820_YES.jpg": " The image shows a relaxation kit. The kit includes a jar of bath salts, a bottle of bubble bath, a scented candle, and a bath bomb. The items are all packaged in a cardboard box with a purple lid. The box is labeled \"Relaxation Kit.\"",
+    "20240101_172412_YES.jpg": " This is a comic showing a woman holding a pregnancy test with one hand while the other hand is holding her head in worry. In the background is a man holding a sign that says \"Abortion\".",
+    "20240101_173638_YES.jpg": " This is a picture of a man with large muscles and a shaved head. He is wearing a black tank top that says \"KILL\" on it with a skull graphic. He is also wearing blue gym shorts. He is standing with his feet shoulder-width apart and his hands clenched into fists. There is fire in the background.",
+    "20240101_182552_YES.jpg": " The image is a cartoon of a person pouring dry dog food from a bag into a bowl. The bag is labeled \"Organic, 100% Natural, Grass-Fed Lamb & Sweet Potato, With Prebiotics, High Protein, No Grains, No Gluten, No Soy.\"",
+    "20240101_175155_YES.jpg": "",
+    "20240101_174241_YES.jpg": " A man is standing in front of a wall of shoes. He is wearing a hat and a t-shirt. He has his hand out, as if he is showing off the shoes.",
+    "20240101_182506_YES.jpg": " A woman wearing beige pants and black heels is standing in the rain.",
+    "20240101_180159_YES.jpg": " The image shows a healthy cafe. The cafe has a sign that says \"Healthy Cafe\" on the front door. There are two windows on the left side of the door and a door on the right side. The windows are decorated with green decals and there is a green awning over the door. There is a table and four chairs in front of the cafe. The table is round and has a brown top. The chairs are green and have a modern design.",
+    "20240101_182451_YES.jpg": " A woman holds a cake that says \"Forever Young\" on it. She is surrounded by party streamers and has a birthday hat on. The woman is smiling with her eyes closed. The image is drawn in a simple, cartoon style.",
+    "20240101_174737_YES.jpg": " A woman is sitting in a cafe. She is drinking from a cup and there is an open laptop in front of her. There is a plant on the window sill behind her. The cafe is decorated with a \"Cafe\" sign and has brown trim on the windows and door.",
+    "20240101_172955_YES.jpg": " A person is holding a cup with a straw in it. The cup is filled with a beverage and ice. The person is taking a sip from the straw. The background is purple.",
+    "20240101_173642 (1)_YES.jpg": " The image is a drawing of a shopping basket on a green background. The basket is made of metal and has a handle.",
+    "Screenshot_2024-01-01-18-12-18-789_com.twitter.android-edit_YES.jpg": " A person is reading a book in bed. They have their legs crossed and a cup of coffee on the floor next to them. A cat is sleeping on the bed next to them. The person is wearing a shirt that says \"I love reading\". The image is drawn in a simple, cartoon style.",
+    "20240101_180649_YES.jpg": " A green car is shown from the side. The car is in the lower right hand corner of the image. The rest of the image is a grey background.",
+    "20240101_180751_YES.jpg": " This is a drawing of a salad bowl. The salad bowl is filled with lettuce and radishes. The salad bowl is sitting on a yellow background.",
+    "20240101_174107_YES.jpg": " A man is trying to remove a scratch from his car.",
+    "20240101_173800_YES.jpg": " A hand holding a ticket with a barcode and the text \"FASTPASS ENTRANCE\" above it. Below the barcode is the date \"15/05/23\".",
+    "20240101_174000_YES.jpg": " The image is of a king-size bed.",
+    "20240101_173024_YES.jpg": " This is an image of a man with tattoos on his arms. He is wearing a white shirt, blue jeans, and sneakers. He has a beard and a mustache. He is standing with his feet shoulder-width apart and his hands at his sides. He is looking at the viewer with a neutral expression.",
+    "20240101_175119_YES.jpg": " The image is a poster for a world tour by a music band. The poster has a grey background, and in the center, a white globe. The words \"Music Band World Tour\" are written in a large, white font at the top of the poster. Two electric guitars are shown at the bottom of the poster.",
+    "20240101_174719_YES.jpg": " This is a drawing of a grey pigeon in cartoonish style, with a pink crop and feet. The pigeon is flying to the right and seems to be in a hurry. The background is a very light blue color.",
+    "20240101_173308_YES.jpg": " The image shows four skincare products: a cleanser, a scrub, a hydrating gel, and an anti-aging cream. The cleanser is in a white tube with the word \"Cleanser\" on it. The scrub is in a white tube with the words \"Bio Scrub\" and an image of a leaf on it. The hydrating gel is in a brown bottle with a dropper and the words \"Hydrating Gel\" on it. The anti-aging cream is in a white jar with the words \"Anti-Aging Skincare\" on it. The products are arranged on a peach-colored background in an off-white box.",
+    "20240101_174218_YES.jpg": " The image shows a person removing a warranty void if removed sticker from a laptop.",
+    "20240101_181101_YES.jpg": " A woman's torso is shown. She is wearing a white cropped shirt and gray sweatpants. Her hands are resting on her hips.",
+    "20240101_172936_YES.jpg": " The image shows a four-way road intersection. There are three cars on the road, all of which are turning right. The cars are all driving in the same direction.",
+    "20240101_173955_YES.jpg": " A person is shown from the neck up. They are wearing a grey swim cap and are in a swimming pool. The water is a light blue color and there are ripples on the surface. The person's eyes are open and they are looking up. Their eyebrows are furrowed and their cheeks are flushed.",
+    "20240101_180658_YES.jpg": " A brown cardboard tube is in the center of a lavender background.",
+    "20240101_173043_YES.jpg": " A can of Diet Cola with the words \"No Sugar\" written on it, sitting on a table. There is a basket of fries sitting on the table to the right of the can.",
+    "20240101_173219_YES.jpg": " A pair of light blue sneakers with white socks and sparkles around them.",
+    "20240101_180312_YES.jpg": " The image is a screenshot of a social media platform. It shows the number of followers a user has. The number of followers is 1,053.",
+    "20240101_172351_YES.jpg": " A man is standing at a breakfast buffet. He is wearing a green shirt and gray pants. He has a plate in his hand and is using tongs to put food on his plate. There are two chafing dishes on the buffet. The one on the left has bacon in it and the one on the right has scrambled eggs. There is also a basket of pastries on the buffet.",
+    "20240101_180548_YES.jpg": " The image is a black and white photo with a white background. The image is of a handwritten phrase that says \"Think Twice\". The phrase is written in cursive script in the center of the photo.",
+    "20240101_180407_YES.jpg": " A person is lying on the ground with a leaf on their face. They are wearing a brown shirt and a red scarf. The background is full of autumn leaves. The person is smiling.",
+    "Screenshot_2024-01-01-17-55-08-129_com.twitter.android~2_YES.jpg": " A person is getting a back massage. Another person, who is the masseuse, is standing behind them in a white uniform and has their hands on the person's back.",
+    "20240101_181054_YES.jpg": " A boy is looking at his phone and does not notice the angry man behind him.",
+    "20240101_175247_YES.jpg": " This is a drawing of a mannequin that is wrapped in caution tape with the words \"Caution Fragile\" written on it.",
+    "20240101_172947_YES.jpg": " The image shows a clothesline with four items of clothing hanging on it. The items are a white t-shirt that says \"B&B\", a pair of brown pants, a pink bodysuit that says \"GUCCI\", and a grey t-shirt that says \"BRAND JEANS\".",
+    "20240101_173552_YES.jpg": " This is a drawing of a paper coffee cup with a brown liquid inside. There is a white foam design on the top of the liquid. The coffee cup is set against a solid yellow background.",
+    "20240101_182519_YES.jpg": " The image is a social media post. The post is an image of a fist with the words \"Free Speech is a Civil Right\" on it. The post has 245 likes, 16 comments, and 8 shares.",
+    "20240101_173624_YES.jpg": " The image shows a car on a road. In the first panel, there is a tree next to the car. In the second panel, there is a factory next to the car. The factory is labeled \"Car Battery Production\". The car has a sticker on it that says \"ecocar\". The image is drawn in a cartoon style.",
+    "20240101_172924_YES.jpg": " The image is of a brown fox-shaped coffee mug with a handle shaped like a fox's tail. The mug has closed eyes and a smiling face. The mug is set against a solid yellow background.",
+    "20240101_180618_YES.jpg": " A  blue text message bubble with the words \"text me when you get home\" in white text.",
+    "20240101_173100_YES.jpg": " The image shows a power bank connected to a smartphone with a USB cable. The power bank is labeled \"powerbank\" and the smartphone has a low battery indicator. The power bank is charging the smartphone.",
+    "20240101_182413_YES.jpg": " A woman is standing on a balcony overlooking a ballet performance. She is wearing a gray dress and has her hair in a bun. The ballet dancers are wearing white tutus and are dancing on their toes. The background is a light blue color. There are spotlights on the stage. The woman could be a ballet teacher.",
+    "20240101_175531_YES.jpg": " A hand is pulling a wet wipe out of a package.",
+    "20240101_175002_YES.jpg": " A grey nail clipper on a pink background.",
+    "20240101_172407_YES.jpg": " The image shows a woman with long hair and blue shirt kneeling and praying in front of a statue of Buddha. The statue is seated in a lotus position on a pedestal.",
+    "20240101_174903_YES.jpg": " This is an illustration of a person wearing headphones and using a laptop. The illustration is accompanied by a caption that reads \"Bird songs. Sounds of the forest.\" The caption is likely a reference to the fact that the person in the illustration is listening to a playlist called \"Bird Songs\" on their laptop.",
+    "20240101_181310_YES.jpg": " The image is a screenshot of a Twitter search for the user \"Yes, But\". The search results show that the user is a parody account, and that their tweets are usually taken from the original owner, @like_gudim. The screenshot also shows that the user has 7 followers and 59.5 thousand readers.",
+    "20240101_175535_YES.jpg": " This is a drawing of a pair of limited edition pink and orange soccer cleats on a pedestal. The cleats have \"limited edition\" written on them and are signed by someone named Leo.",
+    "20240101_180851_YES.jpg": " There is a picnic blanket on the grass with a picnic basket, a bottle of wine, two glasses, some cheese, fruit, and bread.",
+    "20240101_173245_YES.jpg": "",
+    "20240101_172414_YES.jpg": " A person wearing a brown and gray winter coat with a red beanie. It is snowing.",
+    "20240101_175808_YES.jpg": " The image is a quote that says \"Beauty is Inside\" with a flower and leaves. The background is a light gray color.",
+    "20240101_173254_YES.jpg": " A cartoon image of a gray container filled with red strawberries. The container is set on a blue background.",
+    "20240101_174213_YES.jpg": " This is a drawing of a Ford Focus. It is black and green in color and has a camouflage pattern. The car is also lowered and has a spoiler.",
+    "20240101_175031_YES.jpg": " A cartoon-style drawing of a hand holding a gun that shoots money.",
+    "20240101_174958_YES.jpg": " A bicycle is locked to a pole.",
+    "20240101_180509_YES.jpg": " The image shows a recording studio. There is a mixing console, a microphone, a guitar, and a saxophone in the studio.",
+    "20240101_172902_YES.jpg": " The image shows a man with a receding hairline at four stages.",
+    "20240101_173317_YES.jpg": " The image shows a person trying to swat a mosquito on their shoulder. In the first panel, the person is about to swat down on the mosquito. In the second panel, the person has already swatted down.",
+    "20240101_173205_YES.jpg": " This is the top of a smart phone screen. The time is 15:34. The battery  is 15% charged. The weather icon shows it is partly cloudy and 19 degrees.",
+    "20240101_182531_YES.jpg": " A hand holding a phone with the text \"Ultra Slim\" on the screen.",
+    "20240101_173647_YES.jpg": " A person is holding a Nintendo Switch while driving a car.",
+    "20240101_180832_YES.jpg": " The image shows a shopping cart with various groceries in it. There is a pineapple, a baguette, a carton of milk, a box of cereal, and other items. The cart is on wheels and is in front of a peach-tone background.",
+    "Screenshot_2024-01-01-17-59-17-340_com.twitter.android-edit_YES.jpg": " The image is of an exercise bike. It is a stationary bike that is used for indoor cycling. The bike has a seat, handlebars, and pedals. It is made of metal and has a gray color.",
+    "20240101_173341_YES.jpg": " A man and a woman are sleeping in bed together. The man is holding the woman close. The woman is smiling.",
+    "20240101_182328_YES.jpg": " This is a drawing of a reusable shopping bag made of natural-colored canvas fabric. The bag has two handles and a design printed on the front consisting of a leaf inside a circle and the text \"eco bag\" below it. The bag is set against a pale green background.",
+    "20240101_173927_YES.jpg": " A blonde woman in a green dress and pink coat is walking in an airport. She is wearing sunglasses and carrying two suitcases.",
+    "20240101_174134_YES.jpg": " A woman is holding a present in front of a man. The man has his eyes closed. The present has a heart-shaped tag that says \"Bob.\" The woman has a surprised expression.",
+    "20240101_173239_YES.jpg": " A woman is sitting in the passenger seat of a car. She is wearing a brown dress and looking out the window. The sun is setting outside.",
+    "20240101_175445_YES.jpg": " This image shows a person holding a scarf of a team that has just won a championship. The person is cheering with two hands up",
+    "20240101_181128_YES.jpg": " The image shows a soccer player taking off his jersey to reveal a shirt that says \"God is Great\".",
+    "20240101_181422_YES.jpg": " A man is sitting on a beach in a lounge chair working on his laptop. He is wearing a dress shirt, shorts, and a tie. The sun",
+    "20240101_180545_YES.jpg": " This image shows a person with a beard and a t-shirt that says \u201cVEGAN\u201d. The person is holding a fork and a bowl of lettuce. The person is smiling.",
+    "20240101_173706_YES.jpg": " The image shows a row of electric scooters.",
+    "20240101_174029_YES.jpg": " A mother and her son are preparing food in the kitchen. They are both wearing glasses made of cucumbers and bell peppers.",
+    "20240101_175231_YES.jpg": " The image shows a close-up of the camera on the back of a smartphone. The camera is a triple-lens camera with a flash. The camera is labeled \"MEGA CAMERA\".",
+    "20240101_180856_YES.jpg": " This is a drawing of a trash can that is divided into two parts. One part has a green sign on it while the other has a red sign.",
+    "20240101_173756_YES.jpg": " A cartoon of a person wearing a green hat and red necklace, with their hands hovering over a crystal ball that says \"FUTURE\". There is a candle on the table. The background is pink.",
+    "20240101_182357_YES.jpg": " A man is shown wearing a gray jacket, white shirt, and gray pants. The jacket is unzipped, and his hands are shown with tattoos on them. The pants are ripped at the knees.",
+    "20240101_172932_YES.jpg": " The image shows 4 empty wooden hangers on a brown background",
+    "20240101_180758_YES.jpg": " This is a drawing of a cat scratching post.",
+    "20240101_174842_YES.jpg": " A man is having trouble breathing on an airplane. He tries to get the attention of the flight attendant, but she is not paying attention. He then tries to get the attention of the other passengers, but they are all asleep. He then realizes that he is the only one on the plane.",
+    "20240101_180952_YES.jpg": " A hand holding an open umbrella. It is raining.",
+    "20240101_172420_YES.jpg": " The image shows a turquoise t-shirt with the word SIZE on the neck label.",
+    "20240101_172317_YES.jpg": " This is an illustration of a person wearing a black jacket, white shirt, and black pants. The jacket and pants are ripped. The person has tattoos on their neck, arms, and hands.",
+    "20240101_173355_YES.jpg": " The image is a simple illustration of a white phone box with the words \"Phone 256GB\" on the side. The box is sitting on a brown background.",
+    "20240101_181138_YES.jpg": " A screenshot of a comment on a social media post. The comment is about a drawing of a soccer player taking off his shirt to reveal a message written on his inner shirt.",
+    "20240101_173752_YES.jpg": " A black and white illustration of an electrical outlet on the floor.",
+    "20240101_174119_YES.jpg": "",
+    "20240101_180332_YES.jpg": " The image is of a bathroom with a large bathtub in front of a picture window. The window has a view of a lake and mountains. The bathroom is decorated in a modern style with white walls and fixtures.",
+    "20240101_180947_YES.jpg": " A cartoon drawing of a car on a road next to a family of ducks.",
+    "20240101_173642_YES.jpg": " A man is sitting on the couch eating pizza. He appears to be alone.",
+    "20240101_173214_YES.jpg": " The image is a black-and-white line drawing of a house. The house has two windows, a door, and a chimney. There are three clouds and a sun in the sky. There are also three flowers on the ground in front of the house.",
+    "20240101_173007_YES.jpg": " This is a\u883b\u6746\u684c\u6905\u26f1\ufe0f",
+    "20240101_180626_YES.jpg": " A hand holding a remote control is pointed at a television.",
+    "20240101_180319_YES.jpg": " The image is a drawing of a vase of flowers. The flowers are mostly pink and blue, with some yellow and green leaves. The vase is white. The image has a simple, cartoon-like style.",
+    "20240101_182238_YES.jpg": " This is a comic about a person receiving a call from a call center. The person is frustrated because the call center is claiming that his call is important, but they are also asking him to hold the line. The comic is\u8bbd\u523a\u7684, because it shows how call centers often waste people's time.",
+    "20240101_181146_YES.jpg": " This image is a drawing of a baseball cap. The brim of the cap is brown and the rest of the cap is blue.",
+    "20240101_173718_YES.jpg": " A man is lying in bed and looking out the window. The sun is shining brightly.",
+    "20240101_182333_YES.jpg": " A grey robot vacuum cleaner is on the floor in front of a pink carpet. The vacuum cleaner is surrounded by sparkles.",
+    "20240101_182338_YES.jpg": " A person wearing a fitness tracker watch that displays 10,000 steps.",
+    "20240101_175614_YES.jpg": " A cartoon of a person in a black mask and dark clothing holding a sign that says \"ACAB\".",
+    "Screenshot_2024-01-01-17-38-54-117_com.twitter.android-edit_YES.jpg": " A cartoon of a boxing match. A woman in a bikini is holding up a sign that says \"1\". Two men in boxing gloves are standing on either side of her.",
+    "20240101_181251_YES.jpg": " This is a drawing of the inside of a car. There is a hand putting a CD into the CD player. The CD is labeled \"Favorite Songs.\"",
+    "20240101_175847_YES.jpg": " The image is of a pair of open scissors with gray handles. A single screw is visible between the handles.",
+    "20240101_182235_YES.jpg": " The image shows a hand with a snake tattoo on the underarm side of the forearm. The snake is shown in a striking position with its head near the",
+    "20240103_213052_YES.jpg": " This is a drawing of a fireplace. There are logs in the fireplace and a vase of blue flowers on the mantel above the fireplace."
+}
