@@ -2,3 +2,4 @@ google-cloud-sdk/
 openai-key.txt
 **/.ipynb_checkpoints/
 **/__pycache__/
+outputs/clip/*.pkl
