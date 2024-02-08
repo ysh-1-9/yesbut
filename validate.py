@@ -26,9 +26,10 @@ def validate_file(file_path, verbose = True) -> bool:
         return True
     # Determine the directory to apply the correct validation rule
     directory = file_path.split(os.sep)[-2]
+    round = file_path.split(os.sep)[-3]
 
     # Define directories for images
-    image_dir = 'images/'
+    image_dir = 'images/' if round!="second_round" else 'yesbut_second_round'
     image_split_dir = 'images_split/'
 
     # Determine the set of valid keys based on the directory
