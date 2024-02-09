@@ -25108,5 +25108,4802 @@
       "completion_tokens": 128,
       "total_tokens": 235
     }
+  },
+  {
+    "image_path": "20240101_180340_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 84,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "20240101_174753_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 89,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_175023_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 74,
+      "total_tokens": 170
+    }
+  },
+  {
+    "image_path": "20240101_180807_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_173239_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 66,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240101_182519_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 101,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_173341_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 68,
+      "total_tokens": 164
+    }
+  },
+  {
+    "image_path": "20240101_175331_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 119,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_173800_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_174540_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 105,
+      "total_tokens": 201
+    }
+  },
+  {
+    "image_path": "20240101_174927_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 56,
+      "total_tokens": 152
+    }
+  },
+  {
+    "image_path": "20240101_182545_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 79,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "20240101_173141_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_182545_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 80,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_173104_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_182503_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 84,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-59-17-340_com.twitter.android-edit_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 45,
+      "total_tokens": 141
+    }
+  },
+  {
+    "image_path": "20240101_173007_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 104,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_173826_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 116,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_173800_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 96,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "20240101_180407_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 98,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_182246_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_172325_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 100,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_180509_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 86,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_173017_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 67,
+      "total_tokens": 163
+    }
+  },
+  {
+    "image_path": "20240101_175541_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 112,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_173647_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 115,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "20240101_182328_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 103,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_173000_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 127,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "20240101_180832_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 95,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_174548_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 94,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_172838_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 77,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_175602_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 60,
+      "total_tokens": 156
+    }
+  },
+  {
+    "image_path": "20240101_173433_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 81,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "20240101_173308_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_182338_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 92,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_174241_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 89,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_182238_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 103,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_174737_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 77,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_175859_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 106,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_181319_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 75,
+      "total_tokens": 171
+    }
+  },
+  {
+    "image_path": "20240101_175647_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 101,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_172947_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 66,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240101_180545_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 79,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "20240101_173024_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 67,
+      "total_tokens": 163
+    }
+  },
+  {
+    "image_path": "20240101_175847_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 94,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_172339_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 74,
+      "total_tokens": 170
+    }
+  },
+  {
+    "image_path": "20240101_173638_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 121,
+      "total_tokens": 217
+    }
+  },
+  {
+    "image_path": "20240101_175738_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_174753_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_182235_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 64,
+      "total_tokens": 160
+    }
+  },
+  {
+    "image_path": "20240101_181251_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_173729_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_180026_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_174737_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_182625_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 106,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_181319_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 98,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_172351_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 98,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_174518_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 119,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_172951_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_174134_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_172947_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 51,
+      "total_tokens": 147
+    }
+  },
+  {
+    "image_path": "20240101_181422_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 103,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_174813_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 102,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_175722_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 77,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_180851_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 97,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_172325_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 78,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_173756_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 124,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "20240101_180548_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 102,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_173712_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 83,
+      "total_tokens": 179
+    }
+  },
+  {
+    "image_path": "20240101_182541_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 104,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_182308_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 126,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_182333_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 66,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240101_173638_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_175836_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 112,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_173119_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 104,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_173401_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_175413_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 82,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_173108_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_174654_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 79,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "20240101_173119_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 99,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_182249_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 118,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "20240101_175531_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 66,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240101_172315_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 73,
+      "total_tokens": 169
+    }
+  },
+  {
+    "image_path": "20240101_175803_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 88,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_175614_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 64,
+      "total_tokens": 160
+    }
+  },
+  {
+    "image_path": "20240101_181439_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 98,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_173936_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 82,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_180335_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 126,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_173712_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 68,
+      "total_tokens": 164
+    }
+  },
+  {
+    "image_path": "20240101_173955_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 88,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_173542_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 84,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "20240101_172834_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 126,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_173144_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 54,
+      "total_tokens": 150
+    }
+  },
+  {
+    "image_path": "20240101_181128_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 77,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_181439_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 120,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "20240101_175135_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 120,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "20240101_173332_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 70,
+      "total_tokens": 166
+    }
+  },
+  {
+    "image_path": "20240101_172843_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 45,
+      "total_tokens": 141
+    }
+  },
+  {
+    "image_path": "20240101_173401_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 91,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_173706_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 85,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_173254_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_175259_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 116,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_172913_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 88,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_173341_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 100,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_173927_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 75,
+      "total_tokens": 171
+    }
+  },
+  {
+    "image_path": "20240101_175445_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 123,
+      "total_tokens": 219
+    }
+  },
+  {
+    "image_path": "20240101_175155_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_180407_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_172414_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_180026_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_173000_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_175627_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 119,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_181411_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 113,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_173752_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 75,
+      "total_tokens": 171
+    }
+  },
+  {
+    "image_path": "20240101_173219_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 77,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_174842_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_181001_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 70,
+      "total_tokens": 166
+    }
+  },
+  {
+    "image_path": "20240101_182625_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 76,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_172400_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 63,
+      "total_tokens": 159
+    }
+  },
+  {
+    "image_path": "20240101_174949_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 89,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_175353_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 104,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_175326_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 108,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "20240101_173210_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 92,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_172339_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 55,
+      "total_tokens": 151
+    }
+  },
+  {
+    "image_path": "20240101_175745_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 94,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_175048_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 78,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_182511_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 112,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_182526_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 84,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "20240101_175326_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_181009_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 109,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_175953_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_175217_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 80,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_180545_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 70,
+      "total_tokens": 166
+    }
+  },
+  {
+    "image_path": "20240101_172924_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 78,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_173355_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 112,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_173605_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 114,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_181404_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 121,
+      "total_tokens": 217
+    }
+  },
+  {
+    "image_path": "20240101_173010_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 65,
+      "total_tokens": 161
+    }
+  },
+  {
+    "image_path": "20240101_175208_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 98,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_175554_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 70,
+      "total_tokens": 166
+    }
+  },
+  {
+    "image_path": "20240101_180952_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 69,
+      "total_tokens": 165
+    }
+  },
+  {
+    "image_path": "20240101_174536_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 110,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_181415_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 82,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_173647_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 90,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_172322_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 99,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_175608_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 95,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_172951_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_175259_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 97,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-59-17-340_com.twitter.android-edit_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 47,
+      "total_tokens": 143
+    }
+  },
+  {
+    "image_path": "20240101_180037_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_180626_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 73,
+      "total_tokens": 169
+    }
+  },
+  {
+    "image_path": "20240101_180932_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 103,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_174000_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 98,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_180319_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 95,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_175002_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 68,
+      "total_tokens": 164
+    }
+  },
+  {
+    "image_path": "20240101_174200_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 68,
+      "total_tokens": 164
+    }
+  },
+  {
+    "image_path": "20240101_182629_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 100,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_174134_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 79,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "20240101_173552_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 72,
+      "total_tokens": 168
+    }
+  },
+  {
+    "image_path": "20240101_175048_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 59,
+      "total_tokens": 155
+    }
+  },
+  {
+    "image_path": "20240101_175808_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 63,
+      "total_tokens": 159
+    }
+  },
+  {
+    "image_path": "20240101_175155_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 126,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_180607_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 117,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_173100_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 47,
+      "total_tokens": 143
+    }
+  },
+  {
+    "image_path": "20240101_175002_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 86,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_182252_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 64,
+      "total_tokens": 160
+    }
+  },
+  {
+    "image_path": "20240101_173210_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 96,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "20240101_182426_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 69,
+      "total_tokens": 165
+    }
+  },
+  {
+    "image_path": "20240101_180932_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 98,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_175339_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 71,
+      "total_tokens": 167
+    }
+  },
+  {
+    "image_path": "20240101_172913_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_180912_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 59,
+      "total_tokens": 155
+    }
+  },
+  {
+    "image_path": "20240101_174225_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 87,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_175847_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 35,
+      "total_tokens": 131
+    }
+  },
+  {
+    "image_path": "20240101_175730_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_180159_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 121,
+      "total_tokens": 217
+    }
+  },
+  {
+    "image_path": "20240101_182235_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 84,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "20240101_182549_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 64,
+      "total_tokens": 160
+    }
+  },
+  {
+    "image_path": "20240101_172322_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 88,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_182308_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 61,
+      "total_tokens": 157
+    }
+  },
+  {
+    "image_path": "20240101_175339_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 59,
+      "total_tokens": 155
+    }
+  },
+  {
+    "image_path": "20240101_180607_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 104,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_181411_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 70,
+      "total_tokens": 166
+    }
+  },
+  {
+    "image_path": "20240101_182333_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 83,
+      "total_tokens": 179
+    }
+  },
+  {
+    "image_path": "20240101_175126_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 79,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "20240101_180758_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 71,
+      "total_tokens": 167
+    }
+  },
+  {
+    "image_path": "20240101_180947_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 95,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_174540_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 82,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_172354_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 117,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_175558_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 77,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_180832_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 80,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_182448_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 75,
+      "total_tokens": 171
+    }
+  },
+  {
+    "image_path": "20240101_173332_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_175208_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 84,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "20240101_180751_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 116,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_174757_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 83,
+      "total_tokens": 179
+    }
+  },
+  {
+    "image_path": "20240101_175608_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 61,
+      "total_tokens": 157
+    }
+  },
+  {
+    "image_path": "20240101_173003_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 90,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_180037_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 65,
+      "total_tokens": 161
+    }
+  },
+  {
+    "image_path": "20240101_182552_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 125,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_174654_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 120,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "20240101_182511_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 105,
+      "total_tokens": 201
+    }
+  },
+  {
+    "image_path": "20240101_173245_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 102,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_173308_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 89,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_175119_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_181422_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 77,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_182252_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 66,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240101_182448_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 66,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240101_181101_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 83,
+      "total_tokens": 179
+    }
+  },
+  {
+    "image_path": "20240101_175009_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 86,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_172944_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 97,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_180159_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_174029_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 69,
+      "total_tokens": 165
+    }
+  },
+  {
+    "image_path": "20240101_173552_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 103,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_173605_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 73,
+      "total_tokens": 169
+    }
+  },
+  {
+    "image_path": "20240101_174123_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 103,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_175541_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 105,
+      "total_tokens": 201
+    }
+  },
+  {
+    "image_path": "20240101_174813_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 58,
+      "total_tokens": 154
+    }
+  },
+  {
+    "image_path": "20240101_182531_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_180643_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 79,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "20240101_180247_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 122,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "20240101_182604_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 109,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_174518_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 101,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_174225_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 124,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "20240101_174719_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 102,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_172336_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 109,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_175836_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 107,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "20240101_173017_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 76,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_175353_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_182638_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 125,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_172357_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 106,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_175126_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 64,
+      "total_tokens": 160
+    }
+  },
+  {
+    "image_path": "20240101_174757_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 87,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_180952_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 61,
+      "total_tokens": 157
+    }
+  },
+  {
+    "image_path": "20240101_172407_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 110,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_172940_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 75,
+      "total_tokens": 171
+    }
+  },
+  {
+    "image_path": "20240101_175627_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 66,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240101_180335_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_173624_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 122,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "20240101_175445_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 106,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_180618_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 94,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_173039_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 113,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_173039_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 123,
+      "total_tokens": 219
+    }
+  },
+  {
+    "image_path": "20240101_173003_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 95,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_172940_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 86,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_180319_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 58,
+      "total_tokens": 154
+    }
+  },
+  {
+    "image_path": "20240101_172336_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 96,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "20240101_173419_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_175803_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 84,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "20240101_182531_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 91,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_175752_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 85,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_173706_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 81,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "20240101_173144_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 47,
+      "total_tokens": 143
+    }
+  },
+  {
+    "image_path": "20240101_172348_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_175135_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 108,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "20240101_182451_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 112,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240103_213052_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_174200_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 90,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_175023_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 101,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_180658_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 97,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_180912_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 101,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_173813_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 107,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "20240101_180807_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 110,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_173642 (1)_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 86,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_175722_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 116,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_174232_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 104,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_174842_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_182249_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_173239_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 119,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_175808_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 96,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "20240101_180332_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 99,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_174719_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 68,
+      "total_tokens": 164
+    }
+  },
+  {
+    "image_path": "20240101_180851_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 80,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_174123_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 92,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_175331_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 112,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_173135_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 109,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_181343_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 98,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_173024_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_175752_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 95,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_182246_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 112,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_181143_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 116,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_173642_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 83,
+      "total_tokens": 179
+    }
+  },
+  {
+    "image_path": "20240101_173245_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 113,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_172944_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 94,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_172955_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 66,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240101_182503_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 91,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_180601_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 83,
+      "total_tokens": 179
+    }
+  },
+  {
+    "image_path": "20240101_175953_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 110,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_181146_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 69,
+      "total_tokens": 165
+    }
+  },
+  {
+    "image_path": "20240101_172924_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 99,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_174536_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 56,
+      "total_tokens": 152
+    }
+  },
+  {
+    "image_path": "20240101_181054_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 94,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_182604_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 97,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_172315_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 61,
+      "total_tokens": 157
+    }
+  },
+  {
+    "image_path": "20240101_172348_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 97,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_173813_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 72,
+      "total_tokens": 168
+    }
+  },
+  {
+    "image_path": "20240101_173007_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 61,
+      "total_tokens": 157
+    }
+  },
+  {
+    "image_path": "20240101_180626_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 79,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "20240101_173141_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_173159_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 51,
+      "total_tokens": 147
+    }
+  },
+  {
+    "image_path": "20240101_174213_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 94,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_180509_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-38-54-117_com.twitter.android-edit_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 74,
+      "total_tokens": 170
+    }
+  },
+  {
+    "image_path": "20240101_174029_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 106,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_182328_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 70,
+      "total_tokens": 166
+    }
+  },
+  {
+    "image_path": "20240101_173013_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 106,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_180751_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 53,
+      "total_tokens": 149
+    }
+  },
+  {
+    "image_path": "20240101_180754_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 112,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_173043_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 123,
+      "total_tokens": 219
+    }
+  },
+  {
+    "image_path": "20240101_180515_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 71,
+      "total_tokens": 167
+    }
+  },
+  {
+    "image_path": "20240101_175745_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 73,
+      "total_tokens": 169
+    }
+  },
+  {
+    "image_path": "20240101_181009_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_175647_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 126,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_173159_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 95,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_181404_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_180332_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 84,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-55-08-129_com.twitter.android~2_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 89,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_182549_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 57,
+      "total_tokens": 153
+    }
+  },
+  {
+    "image_path": "20240101_172351_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 112,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_173756_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 87,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_173013_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 77,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_173043_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_173232_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 106,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_180754_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 57,
+      "total_tokens": 153
+    }
+  },
+  {
+    "image_path": "20240101_172357_3D_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_180947_STICK_YES.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 68,
+      "total_tokens": 164
+    }
+  },
+  {
+    "image_path": "20240101_173039_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 85,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_175155_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 114,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_172940_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 75,
+      "total_tokens": 171
+    }
+  },
+  {
+    "image_path": "20240101_181411_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 89,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_173700_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 57,
+      "total_tokens": 153
+    }
+  },
+  {
+    "image_path": "20240101_173013_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 73,
+      "total_tokens": 169
+    }
+  },
+  {
+    "image_path": "20240101_175602_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 60,
+      "total_tokens": 156
+    }
+  },
+  {
+    "image_path": "20240101_173054_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 99,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_175002_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 73,
+      "total_tokens": 169
+    }
+  },
+  {
+    "image_path": "20240101_175535_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 112,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_180626_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 68,
+      "total_tokens": 164
+    }
+  },
+  {
+    "image_path": "20240101_173239_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 87,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_175608_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 103,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_175126_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 76,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_175608_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_181009_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 110,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_180037_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 82,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_173706_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 94,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_174218_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_173813_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 73,
+      "total_tokens": 169
+    }
+  },
+  {
+    "image_path": "20240101_182235_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 57,
+      "total_tokens": 153
+    }
+  },
+  {
+    "image_path": "20240101_173401_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 125,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_182506_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 92,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_180643_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 78,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_173108_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 86,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_182625_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 126,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "20240101_173642 (1)_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 109,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_174757_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 103,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_180832_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_174737_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 106,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_182638_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 76,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_181319_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 72,
+      "total_tokens": 168
+    }
+  },
+  {
+    "image_path": "20240101_172955_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 63,
+      "total_tokens": 159
+    }
+  },
+  {
+    "image_path": "20240101_181143_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 83,
+      "total_tokens": 179
+    }
+  },
+  {
+    "image_path": "20240101_180501_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 95,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_175259_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 114,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_174544_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 112,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_182413_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 90,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_174842_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 77,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_182426_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_180856_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_174000_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 117,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_182238_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_173159_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 89,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_175554_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 102,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "20240101_174000_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 87,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_172336_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 86,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_173642_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 97,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_173054_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 90,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_181143_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 124,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "20240101_175953_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_180626_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 63,
+      "total_tokens": 159
+    }
+  },
+  {
+    "image_path": "20240101_173712_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 99,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "20240101_181101_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 82,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_174025_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 70,
+      "total_tokens": 166
+    }
+  },
+  {
+    "image_path": "20240101_181319_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 87,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_180455_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 112,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "20240101_175752_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 109,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_180927_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 98,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_174842_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_182526_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 87,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_182308_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 90,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_180037_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 91,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_173232_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 74,
+      "total_tokens": 170
+    }
+  },
+  {
+    "image_path": "20240101_180335_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 80,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_173308_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_173013_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 97,
+      "total_tokens": 193
+    }
+  },
+  {
+    "image_path": "20240101_180751_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 92,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_182549_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 122,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "20240101_182604_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 85,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_174107_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 69,
+      "total_tokens": 165
+    }
+  },
+  {
+    "image_path": "20240101_174055_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 109,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_172354_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 108,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "20240101_172354_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 114,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_182638_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_173039_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 108,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "20240101_174213_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 125,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "20240101_172858_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_182531_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 63,
+      "total_tokens": 159
+    }
+  },
+  {
+    "image_path": "20240101_180159_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 87,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_175558_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 87,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_174927_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 113,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_173007_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 68,
+      "total_tokens": 164
+    }
+  },
+  {
+    "image_path": "20240101_175031_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 85,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_174518_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 118,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "20240101_173642 (1)_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 75,
+      "total_tokens": 171
+    }
+  },
+  {
+    "image_path": "20240101_174927_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_182328_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 101,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "20240101_175738_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 107,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "20240101_174518_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 96,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "20240101_180802_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 114,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_182338_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 63,
+      "total_tokens": 159
+    }
+  },
+  {
+    "image_path": "20240101_173542_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_172940_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 84,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "20240101_173525_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 117,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_174540_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 71,
+      "total_tokens": 167
+    }
+  },
+  {
+    "image_path": "20240101_180758_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 89,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_180247_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 76,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_173024_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 66,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240101_175353_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 82,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_173308_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_180643_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_175413_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 77,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_182552_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 53,
+      "total_tokens": 149
+    }
+  },
+  {
+    "image_path": "20240101_173525_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_172315_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 75,
+      "total_tokens": 171
+    }
+  },
+  {
+    "image_path": "20240101_180548_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 105,
+      "total_tokens": 201
+    }
+  },
+  {
+    "image_path": "20240101_173355_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 83,
+      "total_tokens": 179
+    }
+  },
+  {
+    "image_path": "20240101_173317_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 74,
+      "total_tokens": 170
+    }
+  },
+  {
+    "image_path": "20240101_173401_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 82,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_181054_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 71,
+      "total_tokens": 167
+    }
+  },
+  {
+    "image_path": "20240101_180912_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_173647_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 92,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_180832_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 72,
+      "total_tokens": 168
+    }
+  },
+  {
+    "image_path": "20240101_173752_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 73,
+      "total_tokens": 169
+    }
+  },
+  {
+    "image_path": "20240101_181316_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 70,
+      "total_tokens": 166
+    }
+  },
+  {
+    "image_path": "20240101_173219_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 74,
+      "total_tokens": 170
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-59-17-340_com.twitter.android-edit_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 104,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_175353_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_173552_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 88,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_182238_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 76,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_174123_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_174949_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 57,
+      "total_tokens": 153
+    }
+  },
+  {
+    "image_path": "20240101_174029_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 77,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_175614_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_175259_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 116,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_173700_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 104,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "20240101_180851_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 57,
+      "total_tokens": 153
+    }
+  },
+  {
+    "image_path": "20240101_174232_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 117,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "20240101_182549_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 66,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240101_181404_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 80,
+      "total_tokens": 176
+    }
+  },
+  {
+    "image_path": "20240101_173542_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 92,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "20240101_173605_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 103,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_172322_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 118,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "20240101_182448_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 89,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "20240101_180947_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 119,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_173007_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 68,
+      "total_tokens": 164
+    }
+  },
+  {
+    "image_path": "20240101_173706_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 85,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_181251_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_174949_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 65,
+      "total_tokens": 161
+    }
+  },
+  {
+    "image_path": "20240101_182333_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 98,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "20240101_173605_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 109,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_182413_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 70,
+      "total_tokens": 166
+    }
+  },
+  {
+    "image_path": "20240101_172315_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 78,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_180319_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 115,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "20240101_175554_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 71,
+      "total_tokens": 167
+    }
+  },
+  {
+    "image_path": "20240101_174025_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 100,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_174544_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 111,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "20240101_175808_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 103,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_172412_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 119,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_175339_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 90,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_173108_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "20240101_175135_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 114,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "20240101_175808_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 91,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "20240101_173326_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 121,
+      "total_tokens": 217
+    }
+  },
+  {
+    "image_path": "20240101_180407_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 66,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240103_213052_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 108,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "20240101_175237_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_172932_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 87,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "20240101_173144_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 67,
+      "total_tokens": 163
+    }
+  },
+  {
+    "image_path": "20240101_180751_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 90,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_173642_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 73,
+      "total_tokens": 169
+    }
+  },
+  {
+    "image_path": "20240101_180159_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 86,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "20240101_180247_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 67,
+      "total_tokens": 163
+    }
+  },
+  {
+    "image_path": "20240101_172838_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 113,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_180332_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 103,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_180319_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 66,
+      "total_tokens": 162
+    }
+  },
+  {
+    "image_path": "20240101_180509_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 79,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "20240101_173159_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 113,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_175541_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 85,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "20240101_180032_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 109,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_182552_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 119,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "20240101_173119_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 123,
+      "total_tokens": 219
+    }
+  },
+  {
+    "image_path": "20240101_173043_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 60,
+      "total_tokens": 156
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-01-01-17-38-54-117_com.twitter.android-edit_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_180802_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 81,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "20240101_182235_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240103_213052_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 77,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_173552_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 54,
+      "total_tokens": 150
+    }
+  },
+  {
+    "image_path": "20240101_182506_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 78,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_180947_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 128,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "20240101_180548_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 94,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "20240101_173955_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 109,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_172731_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 67,
+      "total_tokens": 163
+    }
+  },
+  {
+    "image_path": "20240101_182426_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 122,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "20240101_175558_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 78,
+      "total_tokens": 174
+    }
+  },
+  {
+    "image_path": "20240101_174237_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 116,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "20240101_181316_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 61,
+      "total_tokens": 157
+    }
+  },
+  {
+    "image_path": "20240101_180332_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 76,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "20240101_180335_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 122,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "20240101_180545_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 77,
+      "total_tokens": 173
+    }
+  },
+  {
+    "image_path": "20240101_173800_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 113,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "20240101_182246_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 100,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "20240101_175031_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 109,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "20240101_173800_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 82,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_180758_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 82,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": "20240101_182308_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 95,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_174757_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 103,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "20240101_182333_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 95,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "20240101_173355_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 110,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "20240101_175820_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 106,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "20240101_173317_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 120,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "20240101_180155_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 93,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "20240101_181054_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 88,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "20240101_180509_STICK_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 90,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "20240101_173108_3D_BUT.jpg",
+    "prompt": "Describe this image briefly",
+    "usage": {
+      "prompt_tokens": 96,
+      "completion_tokens": 75,
+      "total_tokens": 171
+    }
   }
 ]
