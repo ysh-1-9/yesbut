@@ -129,27 +129,27 @@ except FileNotFoundError:
     
 total, correct, adhering = 0,0,0
 files = sum(([os.path.join(folder, file) for file in os.listdir(folder) if "ipynb" not in file] for folder in inpaths),[])   
-random.shuffle(files)
+random.Random(42).shuffle(files)
 pbar = tqdm(files)
 for filepath in pbar:
     folder, file = filepath.split("/")
-    if filepath in outputs and outputs[filepath] and outputs[filepath].get("pred",None):
+    if filepath in outputs and outputs[filepath] :
         total+=1
-        correct+= 1 if ((outputs[filepath]["pred"][0]=="Y" and "negative" not in folder) or (outputs[filepath]["pred"][0]=="N" and "negative" in folder)) else 0
-        adhering+= 1 if outputs[filepath]["pred"][0] in ["Y", "N"] else 0
+        correct+= 1 if ((outputs[filepath][0]=="Y" and "negative" not in folder) or (outputs[filepath][0]=="N" and "negative" in folder)) else 0
+        adhering+= 1 if outputs[filepath][0] in ["Y", "N"] else 0
         pbar.set_postfix({"folder": folder, "total": total, "accuracy": correct/total, "adherance": adhering/total})
         continue
     image = Image.open(filepath)
-    _, reason, pred = caption_image(image, prompt, verbose=False, cot=True)
-    output = {"reason":reason, "pred": pred}
+    _, pred, _  = caption_image(image, prompt, verbose=False, cot=False)
+    output = pred
     
     outputs[filepath]= output
     with open(outpath, "w") as f:
         json.dump(outputs, f, indent=4)
 
     total+=1
-    correct+= 1 if ((output["pred"][0]=="Y" and "negative" not in folder) or (output["pred"][0]=="N" and "negative" in folder)) else 0
-    adhering+= 1 if output["pred"][0] in ["Y", "N"] else 0
+    correct+= 1 if ((output[0]=="Y" and "negative" not in folder) or (output[0]=="N" and "negative" in folder)) else 0
+    adhering+= 1 if output[0] in ["Y", "N"] else 0
     pbar.set_postfix({"folder": folder, "total": total, "accuracy": correct/total, "adherance": adhering/total})
 with open(outpath, "w") as f:
     json.dump(outputs, f, indent=4)
