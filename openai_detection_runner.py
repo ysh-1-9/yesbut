@@ -12,9 +12,9 @@ headers = {
   "Authorization": f"Bearer {api_key}"
 }
 
-prompt = '''You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).
+prompt = prompt = '''You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).
             ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).
-            ###Output format: exactly only "Y" or "N"'''
+            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.'''
 
 def generate(image_path, verbose = False):
     with open(image_path, "rb") as image_file:
@@ -66,7 +66,7 @@ with open("gpt4-usages.json", "r") as f:
     usages = json.load(f)
     total_usage = sum(x["usage"]["total_tokens"] for x in usages)
 
-outpath = "outputs/detection/gpt4-vision.json"
+outpath = "outputs/detection/gpt4-vision-cot.json"
 inpaths = ["images","yesbut_second_round","yesbut_second_round_negatives", "yesbut_third_round", "yesbut_third_round_negatives"]
 
 try:
@@ -79,7 +79,7 @@ except FileNotFoundError:
 def get_pred(output):
     if not output:
         return ""
-    return output[0]
+    return output[-2]
 
 def is_correct(pred, folder):
     if not pred:
