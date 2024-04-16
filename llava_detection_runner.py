@@ -1,7 +1,7 @@
 import sys
 
 # Add your custom path
-custom_path = "/home/abhilash_pg/recipe_llava/LLaVA"
+custom_path = "../LLaVA"
 sys.path.append(custom_path)
 
 from transformers import AutoTokenizer, BitsAndBytesConfig

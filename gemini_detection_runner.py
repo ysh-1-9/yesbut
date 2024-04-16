@@ -5,7 +5,8 @@ from vertexai.preview.generative_models import GenerativeModel, Part
 from vertexai.generative_models._generative_models import HarmCategory, HarmBlockThreshold, ResponseBlockedError
 from pathlib import Path
 
-vertexai.init(project="crypto-resolver-346012", location="us-central1")
+gcp_project_name = "" # get this from your google cloud platform account
+vertexai.init(project=gcp_project_name, location="us-central1")
 
 prompt = '''You are an AI expert in detecting humour or satire. User gives you an image, and you have to make a choice "Y" or "N".
 ###Instructions: Users image has 2 halves called yes and but, and the combination of those might make no sense at all, or be extremely funny. Your job is to find out which one it is and output Y if its EXTREMELY funny and N for otherwise.
