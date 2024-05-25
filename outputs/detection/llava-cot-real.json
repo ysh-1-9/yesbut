@@ -1,0 +1,478 @@
+{
+    "images_real/Screenshot_2024-05-23-20-24-54-542_com.instagram.android.jpg": {
+        "reason": "2 different scenes.\n\n1. On the left side, the image shows a dining table with a plate of food, including carrots and broccoli. The table setting may include a bowl, a fork, a knife, and a spoon.\n2. On the right side, there is a knife, a bowl, and several carrots.\n\nBoth sides of the image appear to display elements of a meal and cooking process. They don't seem to convey any humorous or satirical message on their own.\n\nHowever, if the image is meant to be humorous or satirical, it could be referring to the contrast between the two sides, where one side has vegetables, and the other side has a knife. This contrast might create a humorous or satirical meaning, but it's not directly evident from the image alone.\n\nThus, I cannot confidently determine whether the image is funny or not without more context.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-32-43-904_com.instagram.android.jpg": {
+        "reason": "2 different things. The left half shows a food truck and a red sticker, while the right half shows a sign with a 25 cent price. Based on the content, this image does not appear to be intentionally funny or satirical. Therefore, the answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-23-41-977_com.instagram.android.jpg": {
+        "reason": "2 different buildings: one is a skyscraper, the other is a small building. The skyscraper has a large flag on top of it, while the small building has no flags. This suggests that the flag on the skyscraper might be a humorous or satirical element in the image.\nConsidering this context, I would choose \"Y\" for the combined image as it creates a humorous or satirical juxtaposition between the two buildings. The small building next to the skyscraper, which is significantly taller, and the flag on top of the skyscraper might be interpreted as a comical or ironic display.",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-22-49-979_com.instagram.android.jpg": {
+        "reason": "2 different situations. The left half shows a boat in a frozen river, while the right half shows a person skating in the same area. There are no direct connections between the two halves, so we can choose \"N\" for this image.",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-26-36-875_com.instagram.android.jpg": {
+        "reason": "2 different scenarios. The left half is about a bride (Marry Me) and the right half is about a diamond ring and the word divorce (1-800-Divorce). They are completely unrelated.\n\nSo, the answer is \"N\" for the combined image being not funny.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-26-55-358_com.instagram.android.jpg": {
+        "reason": "2 different situations.\n\nYes:\n\n* Left: A dog in a small bed.\n* Right: A dog sitting on a rug.\n\nN:\n\n* Left: A dog in a small bed.\n* Right: A dog on top of a ladder.\n\nBased on these descriptions, it appears that the image is not funny. Therefore, the answer is \"N\".",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-32-05-687_com.instagram.android.jpg": {
+        "reason": "2 dogs. Both dogs are lying on the ground - one with a blanket and the other without. The blanket has a word \"Yes\" near the top. The second dog is lying on the ground without a blanket. Now, the combined image is the result of merging these two distinct images. There is no funny or humorous connection between the two images, so the answer is \"N\"",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-50-525_com.instagram.android.jpg": {
+        "reason": "2 different scenes. The left half shows a person with a book, and the right half shows another person who is bent over. Both images seem to be unrelated. Based on the content, there is no humor or satire in this image. The answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-24-52-509_com.instagram.android.jpg": {
+        "reason": "2 different situations. Now, the question is: are both halves funny or not?\n\nWe should examine each half individually, and then make a decision based on both parts. If we find that both halves are funny, then the overall image is humorous; if both halves are not funny, then the overall image is not humorous.\n\nLet's look at the left half first:\n\n1. The text is black and white, which creates a contrast with the other halves.\n2. The text is \"Yes, but\" which might suggest a humorous or sarcastic tone.\n\nNow, let's look at the right half:\n\n1. The left half is a photo of a camera.\n2. The right half is a photo of a plug.\n\nBoth parts do not really share any connection or humor. So, the overall image is not funny.\n\nOutput: N",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-24-46-819_com.instagram.android.jpg": {
+        "reason": "2 different situations of the same snack (Lay's chips). The person is holding the bag with the snacks and there's a close-up image of the contents of the bag.\n\nIn one half of the image, there is no snack left, while in the other half, there is a full snack. This image doesn't make any sense or have any humorous meaning. As a result, I'll choose \"N\" - not funny.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-22-06-641_com.instagram.android.jpg": {
+        "reason": "2 windows with a wreath and a bow, respectively. The combined image is a comparison on a \"but\" and a \"yes\".\n\nThe left half of the image shows a wreath on a door. The wreath is a common decoration during holidays. It is a \"yes\" part of the image as it represents something positive or agreeable.\n\nThe right half of the image shows a bow on a door. The bow could represent a gift, a decoration, or an acknowledgment. The bow is a \"but\" part of the image as it is a counterpoint to the wreath, thus creating a contrast or a humorous effect.\n\nOverall, there is no genuine humour in this image. The combination of the wreath and the bow does not create a funny situation or a satirical message. Therefore, the output should be \"N\" for \"no\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-36-006_com.instagram.android.jpg": {
+        "reason": "2 different things.\n\n1. Left: A tow truck is towing a red car, and there is a man inside the tow truck.\n\n2. Right: The car is being lifted onto the tow truck.\n\nThe two parts of the image don't seem to be related in terms of humour or satire. There is no funny overall meaning in this combination. Therefore, I will input [N].",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-32-08-661_com.instagram.android.jpg": {
+        "reason": "2 beaches. The left side shows a sandy beach, and the right side shows a beach littered with trash. The captions \"Yes\" and \"But\" are given to these images, which seem to be somewhat incongruous in nature. As they are related, but not without a sense of irony or humour, the correct choice would be \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-33-30-375_com.instagram.android.jpg": {
+        "reason": "2 different cats. The first one is brown, and the other is white. The cats are shown in various positions, but there is no indication of them being on a pillow or a bed. One of the cats is on a mat, and only one is sleeping.\n\nGiven the lack of a common theme or a shared situation between the two halves, the image does not seem to convey a funny or satirical concept. Thus, the answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-27-02-489_com.instagram.android.jpg": {
+        "reason": "2 different drawings. To determine if the combined image is funny, we need to examine the context and connection between the two halves.\n\nBased on the names provided - \"Yes\" and \"But\" - the image likely contains contrasting or contradictory elements that can evoke humor or satire. For example, it could be a drawing of an animal (like a pig or a goat) with a humorous caption or a caricature of something that may represent a contrasting idea.\n\nLet's look at each half:\n\nLeft: The image contains a pig and a goat. It is a common stereotype that pigs are dirty and goats are stubborn. You might find this funny if you appreciate these stereotypes or if you're a fan of cartoons or memes.\n\nRight: The image shows a man with a computer, which could be related to the left half in terms of humorous stereotypes. For example, people might associate computer users with being extremely tech-savvy or uncoordinated with tasks that don't involve technology.\n\nHowever, without more context, it is difficult to determine if the combination of these two halves is humorous or not. Since I can't see the entire image, I can't confidently say whether it is funny or not.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-22-16-966_com.instagram.android.jpg": {
+        "reason": "2 completely different subjects. The left half is related to Google, which might be a satire or humorous commentary on the search engine. The right half is related to bitcoins and earning money. There is no clear connection or humorous aspect between the two halves. So, the answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-32-20-607_com.instagram.android.jpg": {
+        "reason": "2 different things. Yes, the left image shows a pink tank top on a clothing rack, and the right image shows a tank top with a price tag ($1200). But, the right half does not contain any humorous elements, so the answer is N.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-27-05-788_com.instagram.android.jpg": {
+        "reason": "2 different items. They are not directly related. The image is not funny. Thus, the output is N.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-33-00-880_com.instagram.android.jpg": {
+        "reason": "2 different things. The left half shows a street sign with a yellow circle around it, and the right half has a motorcycle. The yellow circle has text reading \"YESSSSSSSSSSSSSS\". To determine if this is funny, we need to analyze the connection between the two halves.\n\nThe left half is a street sign, and the right half is a motorcycle. Although the yellow circle with text \"YESSSSSSSSSSSSSS\" includes a motorcycle in its image, the motorcycle is not directly related to the street sign. Therefore, the funny factor is limited, and the overall image does not provide a strong sense of humour. Hence, the output is \"N\".",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-23-03-549_com.instagram.android.jpg": {
+        "reason": "2 different situations.",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-24-20-083_com.instagram.android.jpg": {
+        "reason": "2 different things. The left part has a picture of a white bird, which seems to be a fish. The right part has a bag of nuts.\n\nNow, combine these two halves into one single image. The fish and the bag of nuts have no direct connection, and their arrangement does not seem to create a humorous context. Therefore, the answer is:",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-31-58-710_com.instagram.android.jpg": {
+        "reason": "2 different scenes:\n\n1. Left: A scene with the words \"Yes Dyson\".\n2. Right: A scene with the words \"But\".\n\nEach half is referring to a different concept.\n\nThe left half seems to be promoting a product or brand name called Dyson, while the right half appears to be in contrast to the product, indicating that there might be some issue or objection to it.\n\nWhile the image may not be explicitly funny, the juxtaposition of the two halves creates a sense of irony or contradiction, which can be interpreted as humorous.\n\nTherefore, the output is \"Y\".",
+        "pred": "Y]"
+    },
+    "images_real/Screenshot_2024-05-23-20-25-00-305_com.instagram.android.jpg": {
+        "reason": "2 different scenarios. The left half shows a cat playing with a cat tree, while the right half shows a cat sitting inside an open box.\n\nNow, let's consider the context of these cat-related activities. The cat might have been playing and interacting with the cat tree, which could be perceived as a form of entertainment or amusement. The cat sitting in the open box, on the other hand, may be interpreted as a moment of curiosity or playfulness.\n\nHowever, the image doesn't provide a clear connection between the activities, and the humour is subjective. The image might evoke different reactions from different people. It is possible that some people might find these activities amusing, while others may not.\n\nBased on these observations, I cannot confidently label the image as either funny or not funny. The choice of \"Y\" or \"N\" is uncertain, so I will give it a \"N\" for now.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-33-184_com.instagram.android.jpg": {
+        "reason": "2 different things. The left half is a motorcycle and the right half is a parking sign. Are both halves related to each other? Yes. Is the combination of both images funny? No.\n\nThe motorcycle in the left half has a yellow jacket on it, which adds a pop of color, but the image itself does not have any humorous or satirical elements. The parking sign in the right half is simply instructing no parking, but it doesn't contribute any humor or satire to the overall image. Consequently, I make the choice \"N\" for this image.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-24-03-642_com.instagram.android.jpg": {
+        "reason": "2 different situations. Yes, the image may have a funny overall meaning, but it could also be just a random combination of unrelated images. Given the limited information I have, it is not possible to confidently determine the funniness of the combined image. Hence, I need more context or a clear understanding of the intended humor before making a decision.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-47-884_com.instagram.android.jpg": {
+        "reason": "2 different things.\n\nThe left half of the image \"Yes\" has a silver can lid and the letter Y on top of it. The right half of the image \"but\" seems to be of a can opener.\n\nThe connection between these two halves is a bit ambiguous, as the can lid in the left half doesn't seem to be in direct relation to the can opener in the right half. While the can opener is necessary for opening a can, it doesn't make the image inherently funny.\n\nConsidering this, I would say \"N\" for the combined image.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-26-10-230_com.instagram.android.jpg": {
+        "reason": "2 switches, one for \"Yes\" and the other for \"But\". The image is a combination of these two halves with a sign between them. \n\nThe sign says \"but yea,\" which is a combination of the phrases \"but\" and \"yea.\" This phrase may be a play on words or a form of sarcasm, as it appears to be a positive affirmation (\"yea\") in response to a negative (\"but\"). However, without knowing the context, it's difficult to determine whether the intention behind this phrase is meant to be humorous or sarcastic.\n\nSince the phrase \"but yea\" is not universally understood as a humorous or satirical expression, I can make a safe choice neither \"Y\" or \"N.\" However, if the user provides more context or information regarding the intended humor or satire, I will be able to make a more informed decision.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-07-695_com.instagram.android.jpg": {
+        "reason": "2 different things. The left half shows a path covered in water and the word \"Yes\" in the upper part. The right half shows a reflection of the path with no people and the word \"But\" in the upper part.\n\nIn the context of the image, it seems that the left half is intended to be funny, while the right half is intended to be serious. The combination of these two halves creates an interesting contrast that forces the viewer to question the intent behind the image.\n\nHowever, the image doesn't seem to be intentionally humorous or satirical, as it does not have a cohesive or ironic message. It appears to be more of an artistic or thought-provoking piece, rather than a humorous one. \n\nTherefore, I would choose \"N\" as the output for this image.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-26-50-431_com.instagram.android.jpg": {
+        "reason": "2 different scenarios. One half (Yes) is a yellow box that says \"200ml\" and has a hand with a purple nail polish on a person holding it. The other half (but...) is a yellow box that has a red line slicing through it with the words \"but...\" and a hand with a different nail polish, this time blue, holding it.\n\nThese two halves appear unrelated in terms of content and context. The meaning of the combined image is unclear, and there is no humour or satire apparent. Therefore, the answer is \"N\" - not funny.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-23-17-096_com.instagram.android.jpg": {
+        "reason": "2 different scenes. The left half features a dog laying lazily on a cushion and appears to be quite cute. The right half shows a dog with its head cut off.\n\nGiven that, the combined image does not make sense, and there is no clear humorous or satirical intention behind it. Hence, my answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-53-535_com.instagram.android.jpg": {
+        "reason": "2 cartons of juice, one red and one white. The red carton is open and has its inner lid removed, while the white carton is closed. There's a phrase written above the red carton that reads \"but.\" There are chairs in the background, and a person appears to be standing in one corner of the image.\n\nThe image is quite literal and doesn't seem to have a humorous or satirical aspect. I'm afraid this doesn't meet the criteria for a humorous or satirical image. So, my answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-32-38-272_com.instagram.android.jpg": {
+        "reason": "2 different situations, and they are related. Now, we need to see if the relationship between these two halves is funny or not.\n\nIn the left half, there is a cat lying on a window sill. It appears to be a relaxed and comfortable setting. In the right half, there is a cat on a window ledge, and there is a clothes drying rack nearby. The cat seems to be looking at the drying rack, possibly as if it is observing or interested in the drying process.\n\nThe relationship between these two halves is that the cat on the window sill is looking at the clothes drying rack, which might be amusing for some people. However, this humor is quite subtle, and some people might not find it funny.\n\nBased on this analysis, I would choose \"N\" as the image does not contain a clear and funny situation.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-33-05-688_com.instagram.android.jpg": {
+        "reason": "2 different things. First, the left image (yes) shows a microwave oven, while the right image (but) shows a sale sign. There is no clear connection or humour between these two images. So, the answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-27-12-390_com.instagram.android.jpg": {
+        "reason": "2 separate scenes. The lady in the left part is taking a picture of herself using the mirror. The lady in the right part is taking a picture of herself using the rear view of the mirror.\n\nNow, let's analyze the humor in these two separate scenes. The first scene is a common sight in modern times, where people take selfies in mirrors. It is not funny, but rather a representation of a common trend.\n\nThe second scene, where the other lady is taking a picture of herself using the mirror's rear view, is a bit more interesting. It could be interpreted as a humorous way to show that people care about the appearance of their backsides, even when they are not close to the mirror.\n\nOverall, the combination of these two scenes might not be seen as funny or satirical by most people, but it could be perceived as a commentary on modern selfie culture. Therefore, I would choose \"N\" since the combined image does not have a clear, funny meaning.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-26-26-986_com.instagram.android.jpg": {
+        "reason": "2 rolls of toilet paper placed on a shelf, with the writing \"Yes\" and \"But\" accompanying them.\n\nThe image is quite straightforward, and there is no inherent humour in the image itself. However, the writing \"Yes\" and \"But\" that accompany the image might be intended to create a sense of contrast or a joke, depending on the context in which they are used.\n\nGiven these considerations, I would choose \"N\" for this image since the image itself does not contain any inherent humour or satire. The humour or satire, if any, would come from the text accompanying the image, and that is not the primary focus of the image itself.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-33-49-529_com.instagram.android.jpg": {
+        "reason": "2 different things. We need to evaluate each half individually and then decide if the combined image is funny or not. \n\nFirst Half: Yes\nThe image depicts two stools with their legs crossed, forming a table. They are placed next to a bottle of ketchup.\nThis could be considered a funny or satirical image, as it can be interpreted as a humorous representation of furniture or an artistic arrangement of regular objects.\n\nSecond Half: But\nThe image shows two people sitting at a desk with a bunch of stuff on it. There is a bottle of ketchup on the table and two stools next to it.\nThis half seems to represent a typical office environment and the presence of stuff on the table indicates a cluttered desk. This may be perceived as mundane or realistic rather than funny or satirical.\n\nCombined Image:\nThe combined image does not seem to have a strong funny or satirical content. The first half is somewhat humorous but not strongly so, while the second half is more mundane and realistic. So, the answer is \"N\" for the combined image.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-31-55-590_com.instagram.android.jpg": {
+        "reason": "2 different things. The left half is a bottle of Coca-Cola, while the right half shows a glass of iced tea. The humorous element in this image is the contrast between the two drinks. Coca-Cola is a sweet, sugary drink while iced tea is generally perceived as a healthier, less sugary option. \n\nThe image is funny and clever because it juxtaposes two familiar beverages, creating a humorous comparison. People are likely to laugh at the contrasting nature of these two drinks, making the image a creative and amusing piece of art. Therefore, the answer is \"Y\" for humorous.",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-33-22-028_com.instagram.android.jpg": {
+        "reason": "2 pets. First, one cat is playing with a toy (the \"but\" image). The second cat is eating food (the \"yes\" image). Now we combine both images.\n\nThis combination can be interpreted in a number of ways, but it is not inherently funny. If the scene with the cat eating food is supposed to be a playful reference to the cat playing with a toy, it might be somewhat amusing, but it's not universally funny. On the other hand, if the cat playing with a toy is meant to be funny, and the cat eating food is unrelated, this combination would not be considered funny.\n\nBased on these interpretations, the combined image could be amusing to some, but it is not universally funny. Therefore, the correct answer is \"N\".",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-26-29-969_com.instagram.android.jpg": {
+        "reason": "2 dogs, one sleeping and the other one labeled \"but\".\n\nThe humorous part of the image is in the \"but\" half, where the dog is lying down but is labeled \"but\" instead of a regular name. This play on words, combined with the dog's relaxed posture, contributes to the humorous aspect of the image. So, the answer is \"Y\" for the combined image being funny.",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-38-793_com.instagram.android.jpg": {
+        "reason": "8 people in close proximity. The people are in chairs, implying they are travelers. The left half is \"yes\", and the right half is \"but\".\n\nThe left half shows a normal scene of people waiting or traveling together. The right half, \"but\", adds an unexpected twist. In the context of traveling, the word \"but\" might be a play on words. It could signify a traveler with a cold, or \"but\" is an abrupt stop or transition.\n\nHowever, these interpretations are not funny, and the image does not evoke a sense of humor. Therefore, the output is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-26-06-387_com.instagram.android.jpg": {
+        "reason": "2 different situations.\n\nIn the left half, a dog is sitting on a bed with a blanket. This might be a humorous scene because dogs usually don't use beds or blankets in the same way humans do.\n\nIn the right half, there is a dog sticking its head out from under a bed. This could be another humorous situation, as it's not common for dogs to hide under beds.\n\nBoth halves have a strong sense of humor and make no sense in real life. Combining these two images, the overall scene is funny and worthwhile. Therefore, the output should be \"Y\".",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-27-240_com.instagram.android.jpg": {
+        "reason": "2 different things. Yes, it is a picture of a street with many parked motorcycles. But what can we say about the but half? It depicts a dirt road, a grassy hillside, and a sandy trail. A few rocks are also present. Overall, the two halves of this image do not have a funny or satirical relationship. Therefore, my choice is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-22-14-445_com.instagram.android.jpg": {
+        "reason": "2 different concepts. One half is related to Ad Blocker, and the other half is related to apps. Both halves might have some connection, but it is not directly related to humour or satire. Hence, I choose \"N\" for this image.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-23-36-644_com.instagram.android.jpg": {
+        "reason": "2 different things. Yes is a picture of a dog on a leash, while but is a picture of a door in a hallway. They seem unrelated and don't make sense together. Therefore, my answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-26-57-484_com.instagram.android.jpg": {
+        "reason": "2 different things: on the left, we have a boat, and on the right, we have a fire hydrant. The title of the image is \"Yes, but\", which seems to be a play on words, suggesting a connection between the two halves. However, there is no direct relationship between a boat and a fire hydrant, and the connection is quite weak. The image is more like a random pairing of two unrelated objects rather than a humorous or satirical statement. Therefore, the answer is:\n\nN",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-26-52-951_com.instagram.android.jpg": {
+        "reason": "2 different situations. The left half is related to the word \"Whiskas\" and has a cat, while the right half seems unrelated. The cat is opening a box with a cat food in it. The joke here is that the cat is trying to get some cat food out of the box. This joke is not related to the right half of the image. Therefore, the answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-27-14-590_com.instagram.android.jpg": {
+        "reason": "2 different things. We will analyze each half separately and then make a decision based on both.\n\n1. Image on the left:\nA person holding a bag of nuts or a sack of something. The image is quite straightforward and does not include any overtly humorous elements.\n\n1. Image on the right:\nA person holding a bag of nuts or a sack of something. Again, the image is straightforward and does not have any humorous elements.\n\nBased on the analysis, the combined image does not appear to be funny or satirical. The answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-23-48-965_com.instagram.android.jpg": {
+        "reason": "2 different situations. First, we have a man in black and a woman in white walking in an airport with their suitcases. Secondly, there is a person holding a handbag. The image might be meant to be funny, but it does not have the typical humorous elements we usually look for. There is no direct connection between the two halves.\n\nBased on these observations, I would choose \"N\" for this image.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-32-28-648_com.instagram.android.jpg": {
+        "reason": "2 different subjects. The left side contains a bird, and the right side contains a fence. The two subjects are not related in any way. Therefore, the combined image is not funny. The choice is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-32-14-646_com.instagram.android.jpg": {
+        "reason": "2 different food items - a package of smoked salmon and a package of sliced salmon on the left and right. The price is the same for both items which is $9.80. The word \"Yes\" is written above the left food item and \"but\" is written above the right food item.\n\nTo decide whether this image is funny, we have to consider if the 2 halves of the image have a humorous connection or not. Given the context, it seems that the image is trying to create a sense of irony or humor by showing two distinct food items at the same price. The two different food items may not be what one would expect, but there is no clear indication of humor or sarcasm in the image.\n\nTherefore, based on the observation, I would say that this image is not funny, and the output should be \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-33-45-480_com.instagram.android.jpg": {
+        "reason": "2 different situations.\n\n1. On the left side (Yes), there is a brown stuffed animal, which is a cat toy, placed inside a cat bed. The cat bed is also brown, and there is a cat sitting on it. The cat appears to be happy and comfortable. The scene suggests a cozy environment for the cat.\n\n2. On the right side (But), there is a different scene. This side is described as sad or negative, but there is not enough information to determine what is making the cat sad. It could be something as simple as the cat is not getting attention, or maybe it is in a less comfortable situation.\n\nSince both the images have different contexts, it is challenging to determine if the combined image is funny or not. Therefore, without further context or a clear connection between the two scenes, I cannot confidently make a choice of \"Y\" or \"N.\" I would need more information to make a more accurate decision.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-24-434_com.instagram.android.jpg": {
+        "reason": "2 different objects, a laptop and a couch. Both objects are unrelated, but the word \"but\" is on the right half of the image. The intention behind placing the \"but\" could be to create a humorous or satirical message. To understand the context, we need more information. It is not possible to make a definitive decision based on this limited analysis. So the output would be \"N\" for now.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-23-14-496_com.instagram.android.jpg": {
+        "reason": "2 different chains. One chain is gold colored, and the other one is rusted. The two chains are linked to a green object, which appears to be a pole. It seems like the image is simply showing the difference between a well-maintained chain and a rusted chain. In this case, the combined image does not seem to be funny, so my choice is \"N\".",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-22-22-174_com.instagram.android.jpg": {
+        "reason": "2 sentences.\n\n1. Yes: A crosswalk sign that says \"Yes\".\n2. But: A crosswalk sign that says \"but\".\n\nBased on this context, the combined image may not be funny. It is a simple contrast between two signs that do not make a humorous connection. The overall meaning of the image does not seem to be funny, and hence the answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-26-23-692_com.instagram.android.jpg": {
+        "reason": "2 opposing things, and there is a word \"but\" in between. In this case, the image is likely to be humorous. So, my choice is \"Y\".",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-22-41-498_com.instagram.android.jpg": {
+        "reason": "2 different situations. First, we have a view of a staircase with a sign \"but\". Second, a view of a staircase with a sign \"yes\". So, there is a contrast in the messages displayed.\n\nThe contrast in the messages might be a visual representation of a humorous concept, like the \"but\" in the first half signifies a counterargument to the \"yes\" in the second half, creating a sense of irony. However, without knowing the specific context or reasoning behind these signs, it is challenging to definitively conclude whether the image is funny (Y) or not (N).\n\nTherefore, I can only offer a tentative response. If you can provide more context or details, I would be happy to help further.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-18-449_com.instagram.android.jpg": {
+        "reason": "2 different things.\n\nYes",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-11-071_com.instagram.android.jpg": {
+        "reason": "2 different things. The left side shows a doorway with a smoke detector, while the right side shows a toilet. Both images have unrelated content. Thus, the combined image is not funny, and I choose \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-22-44-299_com.instagram.android.jpg": {
+        "reason": "2 cars. The car on the left is white, and the car on the right is grey. The license plate on the right is \"HS35MH700.\" Now we need to analyze both halves to see if there's a funny connection or not.\n\nThe left half shows a white car, and the right half shows a grey car. It seems like a typical comparison of vehicle colors, but there's no indication of humour or satire. As a result, the combined image does not seem funny, and I would choose \"N\" for this image.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-24-01-449_com.instagram.android.jpg": {
+        "reason": "2 different elements. The left half is a ladder placed on a building. The right half is a potted plant on a balcony. These two elements are not related in any humorous way. Hence, the combined image does not make sense and is not funny. Therefore, I choose \"N\" for the output.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-33-51-811_com.instagram.android.jpg": {
+        "reason": "2 dogs in beds, 1 black and 1 tan. The two dogs are laying side by side, one in a red bed and the other in a white bed.\n\nThe combined image seems to be a playful representation of dogs in beds, with a humorous element. The funny part might be the dogs pretending to be humans by sleeping in beds. The image's funny content appears to be a subtle, light-hearted humour that could be appreciated by some people.\n\nWhile it's a cute and amusing scene, the image doesn't seem to be overly funny or satirical. Therefore, the correct answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-45-267_com.instagram.android.jpg": {
+        "reason": "2 different states. The left half is labeled 'yes' and the right half is labeled 'but'. Based on the labels, one could understand that the left half is meant to be positive, while the right half is meant to be negative or undermining.\n\nHowever, just by looking at the image, it is not possible to determine if the combined image is funny or not. The labels might make us infer a sense of humor or satire, but we cannot be certain without knowing the context or the content of the images. Therefore, I cannot confidently provide a \"Y\" or \"N\" answer based on the image alone.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-23-32-123_com.instagram.android.jpg": {
+        "reason": "2 scenes: one with a pile of trash and the other with a sign that says \"se apucala la ley 8891\" in the foreign language. There's no direct humor or satire in the image. If there's a humorous connection between these two halves, it would require additional context or reasoning.\n\nBased on the given image, I cannot confidently determine if the combined image is funny or not. Therefore, I choose \"N\" for \"Not funny\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-32-46-586_com.instagram.android.jpg": {
+        "reason": "2 opposite things. Yes represents an advertisement for VennyPlay AI, while but represents something different. The purpose of the but half is to give a contrasting point to the Yes half. So, it might not be funny in the sense of a traditional joke or humor. However, the contrasting point might be meant to draw attention or make a statement. Overall, the image contains a combination of an advertisement and a contradictory point, which might not be funny in a traditional sense; hence, I choose [N].",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-32-49-303_com.instagram.android.jpg": {
+        "reason": "2 different scenarios.\nIn the left half (called \"Yes\"), a man rides a red motorcycle on a highway. The right half (called \"but\"), contains a truck passing by the motorcycle.\n\nNow, we need to analyze whether these 2 halves have a funny overall meaning. The left half is a typical scene of a man riding a red motorcycle, which might not be considered funny. The right half shows a truck passing by, which might not be funny either.\n\nHowever, if one were to imagine a humorous or sarcastic scenario like \"Yes, but only if the truck doesn't pass too close,\" the image might have a funny overall meaning. But, without the context, it's not possible to conclude if this image is funny or not.\n\nBased on the available information, I cannot confidently make a choice between \"Y\" or \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-32-02-867_com.instagram.android.jpg": {
+        "reason": "2 different scenarios. One half has a \"Yes\" and \"Caution\" sign, while the other half has a \"No trespassing\" sign. We have to find the commonalities and differences between these signs to understand the context.\n\n\"Yes\" implies a positive answer or an agreement to a certain statement or question. \"Caution\" is a warning to be more careful or to be aware of potential hazards. \"No trespassing\" indicates a restriction to enter a particular area.\n\nThe difference in meaning between the signs in the two halves is that one half emphasizes the importance of following instructions or being cautious in a specific context, while the other half indicates a restriction or an unallowable action.\n\nIn order to determine if the combined image is funny, we must find a connection between the two halves that contradicts or undermines the messages conveyed by the signs. However, based on the given image, these two halves simply present two different scenarios or instructions, without any inherent contradiction or humour. Hence, the choice is \"N\" - not funny.",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-22-47-504_com.instagram.android.jpg": {
+        "reason": "2 different things, but their titles suggest they are connected, and the overall meaning might be funny. The left half shows a person wearing a pair of shoes. The right half shows a pair of black pants with a purple stripe. Both images are fashion-related.\n\nThrough logic, we can infer that the person in the left picture is wearing the pants from the right picture. This creates a humorous connection between the two images. So, the combined image is funny, and the answer is \"Y\".",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-40-968_com.instagram.android.jpg": {
+        "reason": "2 different things. The left half of the image is a pile of trash, and the right half is a beautiful sunset. These two things are not related in any way. On the other hand, the user may have intended for some humorous or satirical meaning. However, without additional context or further information, I cannot confidently find any humorous or satirical meaning in these two images. So, my answer is 'N' - this image does not contain any humour or satire.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-23-52-325_com.instagram.android.jpg": {
+        "reason": "2 different scenes. The first half shows a wooden fence and a brick house behind it, while the second half shows a brick house with a wooden door.\n\nThe combined image might make sense, and there's a humorous element. The wooden fence protects the house, while the wooden door on the brick house creates a contrast. However, the humor in this image may not be immediately apparent, as it requires some context or understanding about the materials used in the construction.\n\nBased on these observations, I would choose \"N\" for the combined image being funny.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-23-21-132_com.instagram.android.jpg": {
+        "reason": "2 completely different aspects of a street scene. Left side has a blue bicycle sign, while the right side has a person walking in the street.\n\nThe overall meaning is that the bicycle sign is intended for the person walking in the street, but for some reason, it is not being followed by the person. It is a visual pun that is not particularly funny, and it doesn't make any sense.\n\nSo, my answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-26-43-575_com.instagram.android.jpg": {
+        "reason": "2 different situations, possibly unrelated. The left part shows patrons sitting at a table, possibly enjoying their meal or drinks. The right part displays a man sitting at another table.\n\nIt is not immediately apparent what is funny about this image. It could be a scene from a restaurant, and the contrast between the two parts does not appear to be intentionally humorous. Therefore, I will choose \"N\" as the answer.",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-31-42-392_com.instagram.android.jpg": {
+        "reason": "2 distinct scenes. The left half shows a small white dog wearing a red collar and harness, while the right half shows a larger dog laying on the ground. \n\nThe overall image is quite different from one another, and it seems to be unrelated. Therefore, I choose [N] for \"not funny\" as the combination of these two images does not create any humorous or satirical meaning.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-26-18-229_com.instagram.android.jpg": {
+        "reason": "2 different things - a drill and a black object with bristles. The drill is on the left and the black object is on the right. The text above these images are separated by the word \"but.\"\n\nLet's analyze the joke:\n\n1. The drill is holding a black object with bristles (the left half).\n2. The text \"but\" is used in the center, which might imply a contrast or a change in situation (e.g., the drill is not really drilling but holding the brush).\n\nHowever, these two halves are not related in terms of humor or satire. The left half is a normal depiction of a drill and brush, while the right half, a black object with bristles, might not be related to the drill in a humorous context.\n\nBased on this analysis, I cannot find any humorous or satirical connection between these two halves, so my answer is \"N\" (not funny).",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-21-58-588_com.instagram.android.jpg": {
+        "reason": "2 different situations. Now, let's analyze each half of the image:\n\n1. Left Half: The woman is standing by a fence, possibly at a beach. The fence may be a barrier or a gate, but it doesn't seem to be a significant element in the scene. The woman appears to be posing for a picture.\n2. Right Half: The woman is standing on a ladder, likely climbing it. She is wearing shorts, which suggests a relaxed or casual setting.\n\nNow, let's consider the overall context of the image: two different pictures of a woman in different situations. The images don't seem to be related or carry a humorous or satirical meaning. In this case, the choice would be \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-23-25-924_com.instagram.android.jpg": {
+        "reason": "2 different scenes. The left side shows a man riding a bike with a bunch of chickens on the back. The right side has a different scene - a man riding a motorcycle with a bunch of chickens on the front.\n\nThe image likely has a humorous or satirical meaning, as it contrasts the 2 scenes and the 2 modes of transportation. The chickens are in both scenes, but the transportation methods are different, and the man's position and posture also change.\n\nConsidering these factors, I would choose \"Y\" for the combined image as it is funny or holds a satirical meaning.",
+        "pred": "Y]"
+    },
+    "images_real/Screenshot_2024-05-23-20-32-17-608_com.instagram.android.jpg": {
+        "reason": "2 different things. In the left half, there is a box that says \"Drip Coffee Mix.\" In the right half, it shows 8 small bags of coffee. The combination of the left and right halves seems to be making a joke or a statement about coffee consumption, specifically the process of dripping it. It is a funny, but at the same time clever, way to explain how coffee is prepared. Therefore, I would choose \"Y\" for this image.",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-23-56-885_com.instagram.android.jpg": {
+        "reason": "2 different things. The left side (yes) shows a bunch of red roses in a red bucket. On the right side (but), there is a different scene, which is not clear enough to determine the context. So, based on the information provided, I cannot confidently choose whether it's funny or not. Therefore, I will say \"N\" since I cannot determine the overall context of the two halves.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-33-11-573_com.instagram.android.jpg": {
+        "reason": "2 different pig images. The image in the left half shows a cartoon pig. The image in the right half shows another pig, which is inside a bubble. Based on these descriptions, it doesn't seem like the images have a funny overall meaning. So, the answer is \"N\"",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-32-32-066_com.instagram.android.jpg": {
+        "reason": "2 different types of things.\n\nThe left half, named Yes, features a large grey cat sleeping on a white object, which could be a cat bed, a speaker, or a dog basket. The cat seems calm and comfortable, perhaps on a carrier.\n\nThe right half, named But, features a similar large grey cat sleeping on a white object, which appears to be a carrier or a dog basket. The cat seems to be sleeping on top of a piece of paper, too.\n\nDespite the similarities in both halves, the image does not provide enough context or humorous elements to make a judgment based on the image alone.\n\nIn conclusion, without further context or a clear reason for these images to be grouped together, it is not possible to confidently determine the humorous nature of the combined image. As a result, I cannot make a definitive choice of \"Y\" or \"N.\"",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-33-09-328_com.instagram.android.jpg": {
+        "reason": "2 different things. First, a yes button on a white wall, and then the word \"but\" written below it. The image is not funny. So, my choice is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-27-19-005_com.instagram.android.jpg": {
+        "reason": "2 different things:\n1. A box for Viviani Extra Dark Chocolate bars.\n2. A box of Feine Bitter 99% Panama.\n\nThe image on the left (Yes) shows a box for Viviani Extra Dark Chocolate bars, while the image on the right (But) shows a box of Feine Bitter 99% Panama. The combined image makes no sense, as they are unrelated products from different categories. Therefore, the output should be \"N\".",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-24-56-769_com.instagram.android.jpg": {
+        "reason": "2 different things on each side. So, we need to analyze both halves and then combine the humorous elements.\n\n1. On the left side, there is a bottle of BLACK soap. It might be a play on words or a unique way of advertising the soap.\n2. On the right side, there is a story of a person's life. This seems to be a serious topic, with no signs of humour.\n\nSo, the combined image does not have a funny overall meaning. The answer is \"N\" for this image.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-24-05-812_com.instagram.android.jpg": {
+        "reason": "5 children on a playground, but the actual message in the image is \"Yes, but no hands\". The message is funny, as it plays with the idea of children being on a playground while also having to follow the \"no hands\" rule. Therefore, the combined image is funny, and the answer is \"Y\".",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-27-07-984_com.instagram.android.jpg": {
+        "reason": "2 different things:\n\n1. A television screen displaying a person.\n2. A laptop screen with a person on it.\n\nBoth screens show a person, but they are different objects: a TV screen and a laptop screen. The combined image does not make any sense, so the answer is \"N\".",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-32-11-348_com.instagram.android.jpg": {
+        "reason": "2 different things.\n\n1. Left half: A sticker on a car window that says \"Don't touch my car.\"\n\n2. Right half: A tow truck with a car being towed away.\n\nBased on the context, the image seems to be a humorous contrast between the sticker and the actuality of the tow truck. So, the answer would be \"Y\" for humor.",
+        "pred": "Y]"
+    },
+    "images_real/Screenshot_2024-05-23-20-26-14-884_com.instagram.android.jpg": {
+        "reason": "2 staircases with a yellow line. So, we have to assume that the purpose of this image is to convey a message or to give an impression of something.\n\nThe left half features the staircase and the right half has the staircase as well. Both sides showcase the same object, which is the staircase. Now, the funny aspect comes into play. The combination of the two halves could be to depict an ongoing situation, but it's not clear enough to determine the funny part.\n\nHowever, since the image doesn't seem to convey any humorous or satirical message, I would choose \"N\" for this image.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-22-59-904_com.instagram.android.jpg": {
+        "reason": "2 different scenes. The left half (yes) shows a blue and white street sign with an arrow. The right half (but) shows a garage. \n\nThey don't seem to be related, and the combined image does not have a funny overall meaning. Therefore, the correct answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-24-26-942_com.instagram.android.jpg": {
+        "reason": "2 different things. On one hand, there is a bottle, which is likely a drink. On the other hand, the image is described as a label. Now, the image is being described as funny, but the subject matter does not seem inherently amusing. However, the contrasting descriptions of a drink and a label might suggest a contrast of expectations, which could be considered humorous. Therefore, with some uncertainty, I choose Y.",
+        "pred": "Y]"
+    },
+    "images_real/Screenshot_2024-05-23-20-25-21-305_com.instagram.android.jpg": {
+        "reason": "2 different scenes. On the left, there's a sign that says \"hachiko gate\" in a foreign language, and on the right, there's a sign that says \"but.\" Given that the signs are in a foreign language and have different contexts, it is highly unlikely that the combination of these two signs is meant to be humorous or satirical. Therefore, the answer is \"N.\"",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-25-30-275_com.instagram.android.jpg": {
+        "reason": "2 dogs in different positions. The left half shows a cute dog with an open mouth, while the right half shows a dog without an open mouth. \nThere might be some humour or satire, but it does not seem to be overwhelmingly funny. Based on these observations, I would choose \"N\" for this image.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-14-881_com.instagram.android.jpg": {
+        "reason": "2 different people. The left half shows a man wearing a rain poncho while walking. The right half shows another man, but his clothing is not described. We have to find a humorous connection between the two halves.\n\nAlthough the rain poncho is an unusual and funny sight, it is not directly related to the man on the right. They might be unrelated or have no funny connection. Therefore, we can confidently say that the combined image is not funny.\n\nOutput: N",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-27-23-919_com.instagram.android.jpg": {
+        "reason": "2 different women, one with blond hair and the other with brunette hair. Both are interacting with trees - one is picking flowers, and the other is eating the fruits. The captions in both halves are different. Yes",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-22-52-122_com.instagram.android.jpg": {
+        "reason": "2 different beverages. The left half shows a drink in a cup, the right half displays a different drink in another cup. The drinks are not the same, which suggests that these two beverages might be complementary or have a contrasting taste. The table they are placed on might also play a role in the perception of these drinks. Given that the image is a comparison of two different drinks, I would say \"N\" for this one.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-22-19-503_com.instagram.android.jpg": {
+        "reason": "2 different scenarios. The left half (Yes) shows a no smoking sign. The right half (But) shows a smoking sign. Now, the combined image can be seen as a humorous juxtaposition of the two signs, emphasizing the contrast between smoking and non-smoking environments.\nSo, the combined image can be considered funny. My choice is \"Y\".",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-24-24-601_com.instagram.android.jpg": {
+        "reason": "2 cats. One of the cats is in a bed, and the other cat is standing. The caption says \"Yes, but.\" It seems that the 2 cats are related, but the context is not clear.\n\nGiven the image content and the caption, I am not confident enough to make a definitive decision. Therefore, I will choose \"N\" since I cannot confidently determine if the image is funny or not.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-23-28-976_com.instagram.android.jpg": {
+        "reason": "2 women kissing. Yes, of course, it is funny!",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-33-02-856_com.instagram.android.jpg": {
+        "reason": "2 different scenes. The left image is a dog walking near a beach, while the right image has a sign asking for some kind of animal but denying a dog.\n\nCombining these images, we have a funny situation where a dog is denied access to the beach while it is already walking there. The dog is walking past a sign that says \"yes\" but also \"but no dogs.\" Thus, both the \"yes\" and \"but\" are relevant to the image.\n\nHowever, the humor in this image is subtle and may not be immediately apparent. Therefore, I would suggest that the image is a borderline case. Given this context, I would choose \"N\" as the output.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-32-24-408_com.instagram.android.jpg": {
+        "reason": "2 windows. The background of the image is black. Lets analyze the image first and then think about humor.\nThe windows in the image are likely a representation of a computer's operating system, specifically, the Windows operating system. The black background might symbolize the darker side of technology, or it could simply be an artistic choice for the image.\nNow, let's move on to the humor aspect. The contrast between the Windows and the black background can be seen as a joke about the Windows operating system being \"heavy\" or \"dark\" compared to other options. However, this humor might not be universal, as not everyone might understand the connection between the operating system and the image's contrast.\nBased on these observations, I'll choose \"N\" for this image.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-22-01-790_com.instagram.android.jpg": {
+        "reason": "2 different things. Let's analyze each half individually.\n\nI see a plate with a pile of green peas and another plate with a pile of chicken patties. The two plates are on a table.\n\nBased on the individual halves:\n\nLeft half (green peas): While some people might find peas funny, I don't think the image is intentionally humorous. The image is a simple depiction of green peas, and there are no indications of satire or humor. Choose N for this half.\n\nRight half (chicken patties): This half has a more interesting story. If you imagine that the chicken patties are trying to escape or if you imagine that they are having a conversation with the peas, it could be seen as funny. It requires a bit of imagination to make it funny, but it is possible. Choose Y for this half.\n\nCombining both halves, I would choose N as the final answer. The image does not have a clear or funny connection between the two halves, and the humor is quite subtle at best.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-23-34-433_com.instagram.android.jpg": {
+        "reason": "2 different things, but they seem to be related. The left image has the word yes, while the right image has the word but. The combination of these two images might create some sense of humour or satire. However, it is not clearly evident, and it could be interpreted in different ways.\n\nSo, my decision is \"N\" - Not Funny.",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-24-49-909_com.instagram.android.jpg": {
+        "reason": "2 cats in different settings. One cat is sitting on a toy, and the other cat is sitting on a box. The image seems to be showing different activities of the cats. There is no direct connection or humorous relation between the two halves. Thus, the answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-26-45-877_com.instagram.android.jpg": {
+        "reason": "2 different areas. The left area has a building with the word \"Amazon\" written on it, while the right area seems to be a shanty town or a run-down area. The image might be a satire or humorous commentary, but it is not immediately clear. I am leaning towards \"N\" based on the available information, as the two halves of the image do not seem to have a direct or humorous connection. The image might become funny if a more evident connection between the two areas is established or if there's a hidden message behind the juxtaposition of the Amazon building and the shanty town.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-27-10-130_com.instagram.android.jpg": {
+        "reason": "2 carts in a parking lot. One cart is a white car, and the other is a red Jeep. Yes",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-33-14-593_com.instagram.android.jpg": {
+        "reason": "2 very different subjects: a dog on a bed and a cage. There is no connection between them. It is a No for humor or satire.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-26-40-036_com.instagram.android.jpg": {
+        "reason": "2 different things: a container and a strawberry. The container is blue and white, and the strawberry is red. So, this is a simple image, not meant to be humorous. Hence, the answer is \"N\".",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-33-34-205_com.instagram.android.jpg": {
+        "reason": "2 different situations. Let's analyze both halves and decide if they are funny or not.\n\nIn the left half, titled \"Yes\", we see a book with a few sentences but no image. It is a simple depiction of a book, and without further content, it doesn't seem to be inherently funny.\n\nIn the right half, titled \"But\", we see a book with brown stains on its pages. The stains give a sense of humor or irony, as they seem to be a playful commentary on the state of the book. It appears that the right half is more humorous than the left half. Therefore, the combined image appears to be humorous, so the answer is \"Y\".",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-43-046_com.instagram.android.jpg": {
+        "reason": "2 different scenarios. The left half shows a cat sitting in a bag. The right half shows a cat sitting in a cat bed. These 2 scenarios are not necessarily related or funny. So, my answer is \"N\" as the combined image is not funny.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-32-40-844_com.instagram.android.jpg": {
+        "reason": "2 stacks of rocks. One is larger and more stable, and the other is smaller and less stable. The larger stack is on the left side, and the smaller stack is on the right side.\n\nBoth stacks of rocks are in the sand, and there's a pole between them. The larger stack of rocks has a \"but\" sign on it. The smaller stack of rocks doesn't have any sign.\n\nThe stacks of rocks are not funny, and there's no humour or satire in the image. Therefore, I choose \"N\" to indicate that the image is not funny.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-31-51-252_com.instagram.android.jpg": {
+        "reason": "2 different things. The left half is a white house, and the right half is a white fence. Now, these halves are combined with the word \"but\" in between. The word \"but\" is used to negate or disagree with the left half, which is the house. So, the combined image is saying that the house should not be a house, but rather a fence. However, this statement is not funny; it's more of a logical negation. Therefore, the correct answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-25-05-282_com.instagram.android.jpg": {
+        "reason": "2 different businesses, one selling pizza and the other selling doughnuts. The combined image shows a pizza with doughnut holes as a topping. The idea is humorous, as it is not a common food combination. Therefore, the answer is Y for funny.",
+        "pred": "Y]"
+    },
+    "images_real/Screenshot_2024-05-23-20-23-38-995_com.instagram.android.jpg": {
+        "reason": "2 different stairways leading to the top. Each stairway has one brick visible in the image. The grass is covering the stairs. The stairs are not in any particular order or style, such as the stairs in the movies.\n\nBased on the visual details, it is difficult to imagine the image as funny or satire. Therefore, the output is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-33-41-327_com.instagram.android.jpg": {
+        "reason": "2 plants. The plants are placed in front of a hedge, which is green. The hedge is described as an \"unshaped bush\" and in the right side of the image, there is a yellow sign that says \"But.\"\n\nSo, based on the image elements and their arrangement, I would choose \"N\" for the combined image not being funny, as it does not seem to have a humorous connection between the two plants and the \"But\" sign. The combination of these elements does not create a funny or satirical scene, but rather appears to be an ordinary outdoor setting with plants and a sign.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-31-46-774_com.instagram.android.jpg": {
+        "reason": "2 different concepts: \"open market\" and \"but\". We need to consider whether the combined image, once we put both halves together, makes sense and is funny.\n\nThe left half shows an \"open market\" sign. The right half has a blank space with but written on it. The combined image does not make sense as it doesn't convey a clear message. There is no connection between the open market and the \"but\" image. Hence, I would choose \"N\" for this image.",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-33-36-596_com.instagram.android.jpg": {
+        "reason": "2 different scenes. The left side shows a cat sitting on a pillow. The right side shows a cat laying on a blanket. These scenes are related, but there is no clear humorous or satirical element in the combined image. So, I'll choose \"N\".",
+        "pred": "N]"
+    },
+    "images_real/Screenshot_2024-05-23-20-22-57-007_com.instagram.android.jpg": {
+        "reason": "2 different things. The left half depicts a cat, while the right half depicts a person. The cat is sitting on someone's lap, and the person is wearing a sweatshirt. It seems like the person is petting the cat. The cat has its eyes open, and the person is holding the cat with their right hand.\n\nConsidering the combined image, it appears to be a funny or cute scene. The person is likely to be the owner or a caretaker of the cat, and the cat is relaxing on their lap. The scene is relatable for many pet owners or cat lovers, and it could also be described as a heartwarming moment. Overall, the image can be considered funny or cute, and thus the answer is \"Y\".",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-23-08-044_com.instagram.android.jpg": {
+        "reason": "2 cats. The left cat is resting on a human arm, while the right cat is sleeping on the human arm. This image can be interpreted as a playful commentary on the bond between cats and their humans - how cats can sleep and lay comfortably on their owners. I think the image is funny, so the answer is Y.",
+        "pred": "Y]"
+    },
+    "images_real/Screenshot_2024-05-23-20-22-11-158_com.instagram.android.jpg": {
+        "reason": "2 different states of a candy cane. The left half shows a candy cane with the top part missing, and the right half shows the inside of the candy cane. The humour in this might be that the person holding the candy cane has taken a bite out of the top part, like a \"yes\" or \"no\" answer.\n\nGiven this context and the different halves of the candy cane, it seems that the combined image is funny, and therefore the answer is \"Y.\"",
+        "pred": "Y]."
+    },
+    "images_real/Screenshot_2024-05-23-20-22-04-343_com.instagram.android.jpg": {
+        "reason": "2 different things. The left half is a computer screen with icons, possibly a folder of files, and the right half has a lot of books.\n\nIn the left half, the icons on the screen could be interpreted as a humorous representation of a computer user's files and folders. In the right half, the books piled up might be a symbolic representation of a stack of paperwork or knowledge. However, these two halves of the image are not directly related, and they don't form a humorous or satirical scene.\n\nThus, making no sense and not funny. My answer is \"N\".",
+        "pred": "N]."
+    },
+    "images_real/Screenshot_2024-05-23-20-32-35-535_com.instagram.android.jpg": {
+        "reason": "2 dogs and a dog bed. The \"Yes\" part has a dog lying on the bed, while the \"But\" part has a dog lying on the floor. Both dogs have similar appearances, and the bed has a blanket. These halves are related but do not create a funny overall meaning. Therefore, the answer is \"N\".",
+        "pred": "N]."
+    }
+}

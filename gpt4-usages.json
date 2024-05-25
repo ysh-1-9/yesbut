@@ -78757,5 +78757,4343 @@
       "completion_tokens": 0,
       "total_tokens": 0
     }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-27-14-590_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 59,
+      "total_tokens": 236
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-02-867_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 61,
+      "total_tokens": 238
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-32-066_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 54,
+      "total_tokens": 231
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-45-480_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 87,
+      "total_tokens": 264
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-34-433_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 90,
+      "total_tokens": 267
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-08-044_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 68,
+      "total_tokens": 245
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-17-608_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 114,
+      "total_tokens": 291
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-21-58-588_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 77,
+      "total_tokens": 254
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-36-596_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 62,
+      "total_tokens": 239
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-24-49-909_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 55,
+      "total_tokens": 232
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-32-123_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 32,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-30-375_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 75,
+      "total_tokens": 252
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-57-007_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 40,
+      "total_tokens": 217
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-24-03-642_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 81,
+      "total_tokens": 258
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-46-586_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 52,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-24-05-812_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 41,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-06-387_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 66,
+      "total_tokens": 243
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-18-449_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 94,
+      "total_tokens": 271
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-47-884_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 48,
+      "total_tokens": 225
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-24-26-942_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 61,
+      "total_tokens": 238
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-27-02-489_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 66,
+      "total_tokens": 243
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-41-327_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 65,
+      "total_tokens": 242
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-05-282_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 106,
+      "total_tokens": 283
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-38-272_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 106,
+      "total_tokens": 283
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-16-966_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 54,
+      "total_tokens": 231
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-24-54-542_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 26,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-07-695_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 57,
+      "total_tokens": 234
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-27-12-390_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 92,
+      "total_tokens": 269
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-04-343_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 52,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-22-174_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 58,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-05-687_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 74,
+      "total_tokens": 251
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-49-303_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 68,
+      "total_tokens": 245
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-21-305_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 70,
+      "total_tokens": 247
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-43-575_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 41,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-53-535_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 38,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-50-525_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 70,
+      "total_tokens": 247
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-36-006_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 68,
+      "total_tokens": 245
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-52-122_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 76,
+      "total_tokens": 253
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-14-884_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 49,
+      "total_tokens": 226
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-09-328_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 60,
+      "total_tokens": 237
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-52-325_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 94,
+      "total_tokens": 271
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-59-904_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 43,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-45-877_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 75,
+      "total_tokens": 252
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-24-56-769_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 77,
+      "total_tokens": 254
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-57-484_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 45,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-55-358_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 56,
+      "total_tokens": 233
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-49-979_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 86,
+      "total_tokens": 263
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-31-42-392_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 61,
+      "total_tokens": 238
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-21-132_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 30,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-44-299_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 51,
+      "total_tokens": 228
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-14-646_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 63,
+      "total_tokens": 240
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-41-498_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 69,
+      "total_tokens": 246
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-40-968_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 60,
+      "total_tokens": 237
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-36-875_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 56,
+      "total_tokens": 233
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-24-434_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 58,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-40-036_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 97,
+      "total_tokens": 274
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-11-071_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 51,
+      "total_tokens": 228
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-30-275_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 61,
+      "total_tokens": 238
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-00-305_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 70,
+      "total_tokens": 247
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-02-856_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 34,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-27-10-130_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 70,
+      "total_tokens": 247
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-05-688_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 35,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-24-24-601_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 68,
+      "total_tokens": 245
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-08-661_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 61,
+      "total_tokens": 238
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-49-529_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 57,
+      "total_tokens": 234
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-25-924_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 48,
+      "total_tokens": 225
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-35-535_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 50,
+      "total_tokens": 227
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-20-607_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 55,
+      "total_tokens": 232
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-14-881_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 57,
+      "total_tokens": 234
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-24-46-819_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 40,
+      "total_tokens": 217
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-47-504_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 63,
+      "total_tokens": 240
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-31-55-590_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 72,
+      "total_tokens": 249
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-19-503_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 34,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-27-05-788_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 53,
+      "total_tokens": 230
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-38-793_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 65,
+      "total_tokens": 242
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-38-995_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 113,
+      "total_tokens": 290
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-26-986_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 59,
+      "total_tokens": 236
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-28-648_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 56,
+      "total_tokens": 233
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-14-496_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 58,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-11-348_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 78,
+      "total_tokens": 255
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-43-046_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 61,
+      "total_tokens": 238
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-06-641_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 90,
+      "total_tokens": 267
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-22-028_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 63,
+      "total_tokens": 240
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-52-951_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 48,
+      "total_tokens": 225
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-31-46-774_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 62,
+      "total_tokens": 239
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-31-51-252_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 72,
+      "total_tokens": 249
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-23-692_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 57,
+      "total_tokens": 234
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-24-408_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 69,
+      "total_tokens": 246
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-27-23-919_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 44,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-10-230_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 62,
+      "total_tokens": 239
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-01-790_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 41,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-14-593_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 80,
+      "total_tokens": 257
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-03-549_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 103,
+      "total_tokens": 280
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-34-205_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 49,
+      "total_tokens": 226
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-41-977_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 81,
+      "total_tokens": 258
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-18-229_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 36,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-11-158_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 95,
+      "total_tokens": 272
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-27-07-984_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 37,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-11-573_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 43,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-40-844_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 53,
+      "total_tokens": 230
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-32-43-904_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 62,
+      "total_tokens": 239
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-50-431_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 72,
+      "total_tokens": 249
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-24-01-449_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 109,
+      "total_tokens": 286
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-24-20-083_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 97,
+      "total_tokens": 274
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-27-19-005_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 59,
+      "total_tokens": 236
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-31-58-710_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 67,
+      "total_tokens": 244
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-17-096_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 59,
+      "total_tokens": 236
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-51-811_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 56,
+      "total_tokens": 233
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-28-976_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 94,
+      "total_tokens": 271
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-27-240_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 64,
+      "total_tokens": 241
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-22-14-445_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 45,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-56-885_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 27,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-33-184_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 49,
+      "total_tokens": 226
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-24-52-509_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 94,
+      "total_tokens": 271
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-36-644_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 58,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-26-29-969_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 47,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-23-48-965_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 73,
+      "total_tokens": 250
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-33-00-880_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 66,
+      "total_tokens": 243
+    }
+  },
+  {
+    "image_path": "images_real/Screenshot_2024-05-23-20-25-45-267_com.instagram.android.jpg",
+    "prompt": "You are an AI expert in detecting humour or satire. You detect and describe satire in user's image input and then classify it as either funny (Y) or not funny (N).\n            ### IMPORTANT: Answer Y ONLY if the image is VERY obviously satirical (or funny).\n            ###Output format: This image contains <brief description>. Thus, the answer is <exactly only Y or N>.",
+    "usage": {
+      "prompt_tokens": 177,
+      "completion_tokens": 35,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-52-951_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-41-327_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-40-968_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-48-965_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-01-449_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-14-881_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-55-358_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-16-966_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-04-343_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-03-642_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-49-529_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-58-710_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-19-503_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-27-240_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-00-880_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-35-535_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-34-433_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-56-885_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-21-132_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-14-496_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-22-028_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-38-272_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-52-122_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-30-275_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-57-484_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-34-205_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-47-884_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-40-844_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-33-184_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-11-573_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-32-123_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-52-509_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-08-044_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-46-819_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-45-480_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-36-644_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-11-071_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-08-661_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-26-942_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-10-130_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-05-688_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-14-884_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-41-498_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-43-046_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-47-504_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-55-590_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-05-687_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-30-375_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-05-788_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": ".ipynb_checkpoints",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-44-299_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-49-979_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-18-449_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-05-812_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-23-919_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-20-083_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-00-305_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-02-856_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-23-692_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-20-607_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-21-58-588_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-43-575_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-59-904_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-53-535_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-07-695_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-07-984_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-02-867_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-21-305_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-22-174_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-42-392_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-17-096_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-02-489_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-41-977_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-40-036_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-25-924_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-57-007_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-19-005_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-50-525_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-11-158_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-17-608_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-54-542_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-26-986_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-45-267_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-12-390_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-14-593_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-11-348_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-36-006_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-28-976_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-06-387_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-24-601_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-01-790_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-49-303_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-03-549_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-14-590_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-32-066_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-29-969_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-46-586_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-49-909_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-09-328_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-45-877_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-28-648_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-38-793_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-18-229_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-36-875_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-06-641_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-51-252_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-43-904_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-10-230_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-24-434_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-52-325_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-38-995_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-51-811_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-56-769_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-24-408_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-05-282_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-46-774_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-14-445_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-50-431_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-14-646_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-36-596_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-52-951_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 110,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-41-327_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 141,
+      "total_tokens": 252
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-40-968_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 12,
+      "total_tokens": 123
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-48-965_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 75,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-01-449_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 169,
+      "total_tokens": 280
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-14-881_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 58,
+      "total_tokens": 169
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-55-358_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 120,
+      "total_tokens": 231
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-16-966_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 77,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-04-343_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 143,
+      "total_tokens": 254
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-03-642_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 94,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-49-529_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 100,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-58-710_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 122,
+      "total_tokens": 233
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-19-503_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 88,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-27-240_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 118,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-00-880_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 88,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-35-535_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 107,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-34-433_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 113,
+      "total_tokens": 224
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-56-885_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 66,
+      "total_tokens": 177
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-21-132_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 105,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-14-496_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 118,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-22-028_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 117,
+      "total_tokens": 228
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-38-272_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 141,
+      "total_tokens": 252
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-52-122_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 138,
+      "total_tokens": 249
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-30-275_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 123,
+      "total_tokens": 234
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-57-484_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 117,
+      "total_tokens": 228
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-34-205_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 195,
+      "total_tokens": 306
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-47-884_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 170,
+      "total_tokens": 281
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-40-844_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 100,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-33-184_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 118,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-11-573_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 92,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-32-123_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 144,
+      "total_tokens": 255
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-52-509_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 149,
+      "total_tokens": 260
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-08-044_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 100,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-46-819_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 126,
+      "total_tokens": 237
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-45-480_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 140,
+      "total_tokens": 251
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-36-644_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 21,
+      "total_tokens": 132
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-11-071_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 145,
+      "total_tokens": 256
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-08-661_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 122,
+      "total_tokens": 233
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-26-942_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 125,
+      "total_tokens": 236
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-10-130_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 12,
+      "total_tokens": 123
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-05-688_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 101,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-14-884_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 109,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-41-498_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 120,
+      "total_tokens": 231
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-43-046_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 124,
+      "total_tokens": 235
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-47-504_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 98,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-55-590_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 103,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-05-687_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 138,
+      "total_tokens": 249
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-30-375_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 129,
+      "total_tokens": 240
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-05-788_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 16,
+      "total_tokens": 127
+    }
+  },
+  {
+    "image_path": ".ipynb_checkpoints",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-44-299_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 95,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-49-979_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 171,
+      "total_tokens": 282
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-18-449_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 158,
+      "total_tokens": 269
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-05-812_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 132,
+      "total_tokens": 243
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-23-919_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 78,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-20-083_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 142,
+      "total_tokens": 253
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-00-305_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 110,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-02-856_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 77,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-23-692_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 126,
+      "total_tokens": 237
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-20-607_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 147,
+      "total_tokens": 258
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-21-58-588_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 130,
+      "total_tokens": 241
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-43-575_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 135,
+      "total_tokens": 246
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-59-904_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 185,
+      "total_tokens": 296
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-53-535_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 162,
+      "total_tokens": 273
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-07-695_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 115,
+      "total_tokens": 226
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-07-984_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 173,
+      "total_tokens": 284
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-02-867_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 119,
+      "total_tokens": 230
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-21-305_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 13,
+      "total_tokens": 124
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-22-174_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 119,
+      "total_tokens": 230
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-42-392_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 129,
+      "total_tokens": 240
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-17-096_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 105,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-02-489_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 83,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-41-977_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 155,
+      "total_tokens": 266
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-40-036_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 160,
+      "total_tokens": 271
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-25-924_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 166,
+      "total_tokens": 277
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-57-007_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 112,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-19-005_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 119,
+      "total_tokens": 230
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-50-525_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 50,
+      "total_tokens": 161
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-11-158_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 121,
+      "total_tokens": 232
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-17-608_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 108,
+      "total_tokens": 219
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-54-542_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 129,
+      "total_tokens": 240
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-26-986_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 141,
+      "total_tokens": 252
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-45-267_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 103,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-12-390_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 130,
+      "total_tokens": 241
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-14-593_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 128,
+      "total_tokens": 239
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-11-348_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 125,
+      "total_tokens": 236
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-36-006_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 184,
+      "total_tokens": 295
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-28-976_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 108,
+      "total_tokens": 219
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-06-387_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 128,
+      "total_tokens": 239
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-24-601_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 116,
+      "total_tokens": 227
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-01-790_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 148,
+      "total_tokens": 259
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-49-303_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 112,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-03-549_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 150,
+      "total_tokens": 261
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-14-590_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 161,
+      "total_tokens": 272
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-32-066_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 103,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-29-969_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 94,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-46-586_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 81,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-49-909_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 157,
+      "total_tokens": 268
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-09-328_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 109,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-45-877_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 109,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-28-648_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 102,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-38-793_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 151,
+      "total_tokens": 262
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-18-229_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 98,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-36-875_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 170,
+      "total_tokens": 281
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-06-641_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 160,
+      "total_tokens": 271
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-51-252_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 138,
+      "total_tokens": 249
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-43-904_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 132,
+      "total_tokens": 243
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-10-230_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 138,
+      "total_tokens": 249
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-24-434_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 139,
+      "total_tokens": 250
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-52-325_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 133,
+      "total_tokens": 244
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-38-995_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 120,
+      "total_tokens": 231
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-51-811_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 89,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-56-769_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 212,
+      "total_tokens": 323
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-24-408_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 42,
+      "total_tokens": 153
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-05-282_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 101,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-46-774_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 147,
+      "total_tokens": 258
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-14-445_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 68,
+      "total_tokens": 179
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-50-431_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 126,
+      "total_tokens": 237
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-14-646_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 148,
+      "total_tokens": 259
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-36-596_com.instagram.android.jpg",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 111,
+      "completion_tokens": 127,
+      "total_tokens": 238
+    }
+  },
+  {
+    "image_path": ".ipynb_checkpoints",
+    "prompt": "This meme made me laugh. What is the punchline in this meme?",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-52-951_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 59,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-41-327_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 103,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-40-968_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 42,
+      "total_tokens": 155
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-48-965_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 107,
+      "total_tokens": 220
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-01-449_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 79,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-14-881_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 85,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-55-358_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 74,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-16-966_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 103,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-04-343_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 69,
+      "total_tokens": 182
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-03-642_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 85,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-49-529_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 110,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-58-710_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 96,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-19-503_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 79,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-27-240_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 84,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-00-880_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 76,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-35-535_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 68,
+      "total_tokens": 181
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-34-433_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 79,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-56-885_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 114,
+      "total_tokens": 227
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-21-132_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 67,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-14-496_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 103,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-22-028_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 97,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-38-272_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 86,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-52-122_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 97,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-30-275_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 109,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-57-484_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 90,
+      "total_tokens": 203
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-34-205_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 78,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-47-884_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 103,
+      "total_tokens": 216
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-40-844_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 70,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-33-184_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 85,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-11-573_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 72,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-32-123_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 73,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-52-509_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 75,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-08-044_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 85,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-46-819_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 74,
+      "total_tokens": 187
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-45-480_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 87,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-36-644_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 108,
+      "total_tokens": 221
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-11-071_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 94,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-08-661_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 95,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-26-942_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 113,
+      "total_tokens": 226
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-10-130_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 97,
+      "total_tokens": 210
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-05-688_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 73,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-14-884_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 88,
+      "total_tokens": 201
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-41-498_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 78,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-43-046_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 96,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-47-504_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 72,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-55-590_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 84,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-05-687_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 92,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-30-375_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 86,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-05-788_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 72,
+      "total_tokens": 185
+    }
+  },
+  {
+    "image_path": ".ipynb_checkpoints",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-44-299_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 89,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-49-979_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 76,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-18-449_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 113,
+      "total_tokens": 226
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-05-812_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 93,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-23-919_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 82,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-20-083_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 98,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-00-305_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 75,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-02-856_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 83,
+      "total_tokens": 196
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-23-692_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 77,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-20-607_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 89,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-21-58-588_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 76,
+      "total_tokens": 189
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-43-575_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 105,
+      "total_tokens": 218
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-59-904_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 116,
+      "total_tokens": 229
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-53-535_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 70,
+      "total_tokens": 183
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-07-695_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 94,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-07-984_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 91,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-02-867_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 75,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-21-305_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 95,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-22-174_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 106,
+      "total_tokens": 219
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-42-392_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 102,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-17-096_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 59,
+      "total_tokens": 172
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-02-489_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 102,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-41-977_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 87,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-40-036_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 89,
+      "total_tokens": 202
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-25-924_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 77,
+      "total_tokens": 190
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-57-007_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 96,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-19-005_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 79,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-50-525_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 62,
+      "total_tokens": 175
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-11-158_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 95,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-17-608_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 86,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-54-542_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 82,
+      "total_tokens": 195
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-26-986_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 92,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-45-267_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 75,
+      "total_tokens": 188
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-12-390_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 17,
+      "total_tokens": 130
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-14-593_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 84,
+      "total_tokens": 197
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-11-348_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 115,
+      "total_tokens": 228
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-36-006_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 98,
+      "total_tokens": 211
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-28-976_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 109,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-06-387_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 109,
+      "total_tokens": 222
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-24-601_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 73,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-01-790_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 91,
+      "total_tokens": 204
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-49-303_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 110,
+      "total_tokens": 223
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-03-549_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 112,
+      "total_tokens": 225
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-27-14-590_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 96,
+      "total_tokens": 209
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-32-066_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 78,
+      "total_tokens": 191
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-29-969_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 67,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-46-586_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 86,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-49-909_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 86,
+      "total_tokens": 199
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-09-328_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 71,
+      "total_tokens": 184
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-45-877_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 101,
+      "total_tokens": 214
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-28-648_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 81,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-38-793_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 85,
+      "total_tokens": 198
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-18-229_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 73,
+      "total_tokens": 186
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-36-875_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 93,
+      "total_tokens": 206
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-06-641_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 102,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-51-252_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 79,
+      "total_tokens": 192
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-43-904_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 99,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-10-230_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 100,
+      "total_tokens": 213
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-24-434_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 87,
+      "total_tokens": 200
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-52-325_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 102,
+      "total_tokens": 215
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-23-38-995_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 95,
+      "total_tokens": 208
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-51-811_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 67,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-24-56-769_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 92,
+      "total_tokens": 205
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-24-408_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 67,
+      "total_tokens": 180
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-25-05-282_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 88,
+      "total_tokens": 201
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-31-46-774_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 99,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-22-14-445_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 94,
+      "total_tokens": 207
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-26-50-431_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 81,
+      "total_tokens": 194
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-32-14-646_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 99,
+      "total_tokens": 212
+    }
+  },
+  {
+    "image_path": "Screenshot_2024-05-23-20-33-36-596_com.instagram.android.jpg",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 113,
+      "completion_tokens": 65,
+      "total_tokens": 178
+    }
+  },
+  {
+    "image_path": ".ipynb_checkpoints",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
+  },
+  {
+    "image_path": ".ipynb_checkpoints",
+    "prompt": "Why is this image funny/satirical? Explain in about 50-70 words",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    }
   }
 ]
